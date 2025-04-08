@@ -1,0 +1,816 @@
+Normal lines
+Name		Transcription
+Japanese	English
+Title	
+Duration: 2 seconds.0:02	
+ブルーアーカイブ。
+
+Blue Archive.
+
+Gachaget	
+Duration: 10 seconds.0:10	
+トリニティ総合学園、
+シスターフッド所属の歌住サクラコです。
+日々に安寧があらんことを。
+
+I'm Utazumi Sakurako of the Sisterhood of Trinity General School. May you have a blessed day today.
+
+Cafe_monolog_1	
+Duration: 4 seconds.0:04	
+ここが、
+先生が飾りつけて
+いるという…。
+
+So, Sensei, this is the place you worked to create?
+
+Cafe_monolog_2	
+Duration: 3 seconds.0:03	
+いろんな方が
+いらしていますね。
+
+It seems to have welcomed many different sorts of people.
+
+Cafe_monolog_3	
+Duration: 5 seconds.0:05	
+聖堂とは雰囲気が
+随分と違いますね。
+
+It's quite different from the cathedral.
+
+Cafe_monolog_4	
+Duration: 5 seconds.0:05	
+たまには…
+こういう場所に
+いるのも良いものです。
+
+Although...I certainly wouldn't mind visiting once in a while.
+
+Cafe_monolog_5	
+Duration: 5 seconds.0:05	
+形は違いますが、
+穏やかな
+気持ちになります。
+
+It may be different, yet I feel at peace here.
+
+LogIn_1	
+Duration: 7 seconds.0:07	
+お待ちしておりました、先生。
+今日も祝福があらんことを。
+
+I've been waiting for you, Sensei. May you be blessed, today and all days.
+
+LogIn_2	
+Duration: 8 seconds.0:08	
+あ、先生…。
+ちょうど、先生のために
+祈りを捧げていたところです。
+
+Oh, Sensei... I was praying for you just now.
+
+Lobby_1	
+Duration: 9 seconds.0:09	
+シャーレで先生の補佐を…
+
+普段の仕事と違うので、
+少し緊張します。
+
+I'm supposed to assist you at Schale...
+
+It's different from my usual work, so I'm a bit nervous.
+
+Lobby_2	
+Duration: 9 seconds.0:09	
+聖堂の仕事…ですか？
+
+大丈夫ですよ。
+日程の調整は
+済ませております。
+
+Work at the cathedral?
+
+It's okay. I've been organizing my schedule.
+
+Lobby_3	
+Duration: 7 seconds.0:07	
+はい、先生。
+私にできることが
+ありましたら、なんなりと…。
+
+Yes, Sensei. If there's anything I might be able to do...
+
+Lobby_4	
+Duration: 9 seconds.0:09	
+聖堂に関することも、
+一般的な業務も、
+それ以外でも…なんなりと
+お申し付けくださいね。
+
+Anything regarding the cathedral, or any other work...please let me know.
+
+Lobby_5	
+Duration: 7 seconds.0:07	
+お疲れのご様子ですね。
+私にお手伝いできる
+ことはありますか？
+
+You seem tired. Is there anything I can do for you?
+
+Season_Birthday_Player	
+Duration: 7 seconds.0:07	
+感謝に満ちた
+特別な日ですね。
+
+私にとっても…そう。
+
+Today is a special day. I am full of gratitude.
+
+That's how I feel too.
+
+Season_Birthday	
+Duration: 10 seconds.0:10	
+ありがとうございます、先生。
+
+誕生日を祝ってもらうのは…
+やはり幸せなことですね。
+
+Thank you, Sensei.
+
+It's nice that someone's celebrating my birthday.
+
+Season_NewYear	
+Duration: 12 seconds.0:12	
+一年が過ぎ、新たな年を
+迎えることができました。
+
+今年も先生にとって
+幸せな年でありますよう。
+
+A year has already passed. It's time to welcome the New Year.
+
+I wish great happiness for you in the New Year, Sensei.
+
+Season_Xmas	
+Duration: 9 seconds.0:09	
+はい。
+今日は間違いなく
+特別な日です。
+
+先生にも、
+伝わると良いのですが。
+
+Yes. Today is special, without question.
+
+I hope you can feel it, too.
+
+Season_Halloween	
+Duration: 14 seconds.0:14	
+祝祭の日の前日…
+一番騒がしい日ですね。
+
+いいえ、嫌いなわけでは
+ありません。喜びは
+分け合うほど
+大きくなりますから。
+
+The day before a festival... Those are the busiest days.
+
+No, I'm not saying I don't like it. The more the merrier.
+
+ExWeapon_Get	
+Duration: 12 seconds.0:12	
+私に慈悲を与えてくださるのですね。
+有難く頂戴いたします。いつか、このご恩を
+お返しできる日が訪れますように。
+
+You're so generous. Thank you. I hope I can repay your kindness one day.
+
+Memorial lobby
+Name		Transcription
+Japanese	English
+MemorialLobby_1	
+Duration: 6 seconds.0:06
+Duration: 5 seconds.0:05	
+先生に対して、
+あまり隠し事を
+したくはないのですが…
+
+私の立場上、全てを
+明かすことは難しく――
+
+I don't want to hide anything... Not from you, of all people.
+
+But, in my position, it's hard for me to reveal everything...
+
+MemorialLobby_2	
+Duration: 6 seconds.0:06
+Duration: 4 seconds.0:04	
+ですが、私に
+「秘密があるという事実」
+だけでも…
+
+お伝えする事ができて、
+良かったです。
+
+Still, it is a relief just to be able to tell you
+
+that I have a secret to keep.
+
+MemorialLobby_3	
+Duration: 6 seconds.0:06
+Duration: 7 seconds.0:07	
+理解を得られるとは
+思っておりません。
+
+それを望む事も…
+
+それでも、私の素顔を
+お見せしたい気持ちは…
+あるのです。
+
+I know you may not understand.
+
+I don't expect that...
+
+Nonetheless, I...I want you to accept me for who I am.
+
+MemorialLobby_4	
+Duration: 2 seconds.0:02
+Duration: 6 seconds.0:06	
+その…そのような私でも
+良いのか、不安では
+あったのですが。
+
+Um... I was nervous. I thought you might not trust me once you knew...
+
+MemorialLobby_5	
+Duration: 6 seconds.0:06
+Duration: 6 seconds.0:06	
+思っていたよりも早く、
+答えを頂いてしまいましたね。
+
+本当に…
+ありがとうございます、先生。
+
+I never dreamed I would get that answer, and so soon.
+
+I sincerely thank you, Sensei.
+
+Tactics and growth
+	Some of the lines in this section are not extracted from the game. They are transcribed and translated manually and may contain errors. If you see a mistake, please make corrections by editing this page.
+Name		Transcription
+Japanese	English
+Formation_In_1	
+Duration: 2 seconds.0:02	
+かしこまりました。
+
+I got it.
+
+Formation_In_2	
+Duration: 2 seconds.0:02	
+お呼びでしょうか？
+
+May I call you?
+
+Formation_Select	
+Duration: 4 seconds.0:04	
+あ、あら……？これは……？
+
+oh this is
+
+Tactic_Defeat_1	
+Duration: 3 seconds.0:03	
+私の失態です。
+
+It's my blunder.
+
+Tactic_Defeat_2	
+Duration: 2 seconds.0:02	
+面目ありません。
+
+It's embarrassing.
+
+Tactic_In_1	
+Duration: 3 seconds.0:03	
+幸いがあらんことを。
+
+Good luck.
+
+Tactic_In_2	
+Duration: 5 seconds.0:05	
+皆様、何卒よろしくお願い致します。
+
+Ladies and gentlemen, thank you for your kind support.
+
+Tactic_Victory_1	
+Duration: 3 seconds.0:03	
+皆様に恩寵があらんことを。
+
+Grace be upon you all.
+
+Tactic_Victory_2	
+Duration: 2 seconds.0:02	
+平和でありますように。
+
+May you be at peace.
+
+Battle_Buffed_1	
+Duration: 2 seconds.0:02	
+助かります。
+
+That helps a lot.
+
+Battle_BuffSelf_1	
+Duration: 2 seconds.0:02	
+私に力を。
+
+Give me strength.
+
+Battle_Covered_1	
+Duration: 1 second.0:01	
+無駄です。
+
+In vain.
+
+Battle_Damage_1	
+Duration: 1 second.0:01		
+Battle_Damage_2	
+Duration: 1 second.0:01		
+Battle_Damage_3	
+Duration: 1 second.0:01		
+Battle_Defense_1	
+Duration: 3 seconds.0:03	
+信仰心が足りていませんよ。
+
+I don't have enough faith.
+
+Battle_In_1	
+Duration: 2 seconds.0:02	
+共に参りましょう。
+
+Let's visit once in a while.
+
+Battle_In_2	
+Duration: 3 seconds.0:03	
+これも一つの試練なのですね。
+
+This is also a test, isn't it?
+
+Battle_Move_1	
+Duration: 2 seconds.0:02	
+続けてまいります。
+
+We will continue.
+
+Battle_Move_2	
+Duration: 2 seconds.0:02	
+まだ終わっておりません。
+
+It's not over yet.
+
+Battle_Recovery_1	
+Duration: 2 seconds.0:02	
+感謝します。
+
+appreciate.
+
+Battle_Retire	
+Duration: 3 seconds.0:03	
+私が至らないばかりに。
+
+I just can't reach it.
+
+Battle_Shout_1	
+Duration: 1 second.0:01		
+Battle_Shout_2	
+Duration: 1 second.0:01		
+Battle_Shout_3	
+Duration: 1 second.0:01		
+Battle_TacticalAction_1	
+Duration: 1 second.0:01	
+ふっ！
+
+Battle_Victory_1	
+Duration: 2 seconds.0:02	
+皆様に感謝を。
+
+Thanks to all.
+
+Battle_Victory_2	
+Duration: 3 seconds.0:03	
+解決できて何よりです。
+
+I'm glad it was resolved.
+
+CommonSkill	
+Duration: 3 seconds.0:03	
+結局、こうなってしまうのですね。
+
+This is how it ends up.
+
+ExSkill_1	
+Duration: 2 seconds.0:02	
+この弾丸に祝福を。
+
+Bless this bullet.
+
+ExSkill_2	
+Duration: 3 seconds.0:03	
+我らに恵みを与え給え。
+
+Give us grace.
+
+ExSkill_3	
+Duration: 2 seconds.0:02	
+恩寵に感謝を。
+
+Thank you for the grace.
+
+ExSkill_Level_1	
+Duration: 2 seconds.0:02	
+悔い改めてください！
+
+Please repent.
+
+ExSkill_Level_2	
+Duration: 2 seconds.0:02	
+あなたのためなのです！
+
+it's for you
+
+ExSkill_Level_3	
+Duration: 2 seconds.0:02	
+受け止めてください！
+
+Please take it.
+
+Growup_1	
+Duration: 10 seconds.0:10	
+あ、ありがとうございます。
+こうして、目をかけていただくのは……あまり、慣れませんね。
+
+Oh, thank you very much. I'm not really…used to having people look at me this way.
+
+Growup_2	
+Duration: 5 seconds.0:05	
+このご恩を、どう返していけば良いのでしょう……。
+
+How should I repay this kindness?
+
+Growup_3	
+Duration: 4 seconds.0:04	
+その行いに祝福があらんことを。
+
+May the deed be blessed.
+
+Growup_4	
+Duration: 6 seconds.0:06	
+施しを遠慮するものではありませんね……ありがとうございます。
+
+I don't think I'm one to shy away from almsgiving, thank you very much.
+
+Relationship_Up_1	
+Duration: 7 seconds.0:07	
+先生……その……。
+な、なんでもありません……。
+
+sir it's nothing
+
+Relationship_Up_2	
+Duration: 9 seconds.0:09	
+先生に何かをお伝えするたびに……
+このような言葉でよいのだろうかと、悩んでしまいます。
+
+Every time I tell my teacher something, I wonder if these words are right.
+
+Relationship_Up_3	
+Duration: 7 seconds.0:07	
+先生ほど私を理解してくださる方も……。
+あまり、おりませんでしたので。
+
+There were not many people who understood me as well as Sensei did.
+
+Relationship_Up_4	
+Duration: 10 seconds.0:10	
+一応……皆のためのシスター……ですから。
+ですが……その……。
+
+I'm a sister for everyone's sake, but
+
+
+---
+MomoTalk✕
+
+Sakurako
+Heehee.
+
+Sakurako
+Heeheeheehee...
+Reply
+...? Sakurako?What's going on?
+
+Sakurako
+It's nothing, Sensei.
+Just a friendly greeting.
+
+Sakurako
+I've been looking for an opportunity to talk to you for a time now.
+Hopefully that opportunity will arise soon.
+
+Sakurako
+Until then...
+Take care.
+
+Sakurako
+Heehee.
+
+Sakurako
+Heeheehee...
+...?
+Relationship Event
+To Sakurako's Relationship Story
+
+MomoTalk✕
+
+Sakurako
+Yay! Sensei! ☆
+
+Sakurako
+How are you doing today?
+I'm always praying for your peace, Sensei!
+
+Sakurako
+Have a great day!
+
+Sakurako
+Baiii! ☆
+Reply
+...Sakurako???Is that you?
+
+Sakurako
+.......
+
+Sakurako
+Hmm.
+
+Sakurako
+I'm sorry. I guess I didn't get it right.
+I researched "how to look friendly" on the internet.
+
+Sakurako
+If I conducted myself badly...
+I'm sorry.
+
+Sakurako
+Until next time...
+Relationship Event
+To Sakurako's Relationship Story
+
+Sakurako
+Sensei.
+
+Sakurako
+This is my first time contacting you after work.
+Thank you so much for today, Sensei.
+
+Sakurako
+I know it's a lot to ask...but please help if something like this happens again.
+
+Sakurako
+Well, then...
+May you always be at peace and blessed with luck.
+
+Sakurako
+Baiii~!
+
+MomoTalk✕
+
+Sakurako
+I know it's late...and on short notice, but...
+
+Sakurako
+Sensei, would it be all right if I asked for your company for a while?
+Reply
+Any time. What's wrong?What's wrong?
+
+Sakurako
+Oh, it's nothing of concern...
+
+Sakurako
+But, well, I was just wondering... Not that this is out of the ordinary...
+
+Sakurako
+Do you mind coming alone?
+
+Sakurako
+It's...
+I have a secret to tell you. A private one.
+Relationship Event
+To Sakurako's Relationship Story
+
+Sakurako
+Yes.
+
+Sakurako
+I'm sorry... I contacted you too late.
+I didn't have time to prepare a bed for you or anything.
+
+Sakurako
+Okay.
+
+Sakurako
+Next time, I'll be properly prepared.
+May you always be at peace and full of luck.
+
+MomoTalk✕
+
+Sakurako
+Sensei.
+
+Sakurako
+I'm sorry this is so sudden. I hope it's okay with you.
+If you don't mind me asking... What do you do on your days off?
+Reply
+Oh? Why were you wondering?I do this and that...
+
+Sakurako
+Well, someone asked me that recently.
+
+Sakurako
+Um...
+
+Sakurako
+I didn't know what to say.
+
+Sakurako
+So I just didn't respond.
+Relationship Event
+To Sakurako's Relationship Story
+
+Sakurako
+Sensei.
+
+Sakurako
+I'm so sorry about today.
+
+Sakurako
+But thank you for helping me resolve my troubles...
+I appreciate it.
+Reply
+I don't know exactly what I did, but I'm glad.As long as you're happy, that's all that matters.
+
+Sakurako
+Okay.
+Well... Then, I wish you a day filled with peace.
+
+Sakurako
+By any chance...
+I don't know
+when exactly, but...
+
+Sakurako
+I think I'll need to consult with you again...
+
+Sakurako
+I wanted to let you know in advance.
+I'll be here when you need me.
+
+MomoTalk✕
+
+Sakurako
+Sensei.
+
+Sakurako
+I have a problem.
+Reply
+A problem?What's wrong?
+
+Sakurako
+It was entirely unintentional, but...
+
+Sakurako
+It's become something of a habit.
+I need your help with it.
+Relationship Event
+To Sakurako's Relationship Story
+
+Sakurako
+I'm sorry. I know you worked very hard...
+
+Sakurako
+I don't know what was wrong. Maybe I was asking too much.
+Reply
+Oh, um... I see.I'm sorry I couldn't help.
+
+Sakurako
+Not at all. You were still very helpful in a different way.
+At least, it seems like maybe...
+They're a little more comfortable than before.
+
+Sakurako
+But I feel like
+
+Sakurako
+I've become someone
+
+Sakurako
+unpredictable and weird to them.
+Reply
+Well, it's a first step.Let's take it step-by-step.
+
+Sakurako
+Okay.
+
+Sakurako
+Again, thank you so much.
+
+Sakurako
+I'll look to you again if I need help.
+---
+Sisterhood
+Iochi Mari
+Sakurako is considered as a role model for Mari due to having more experience with being a Sister compared to her.
+
+They were also involved in defeating the Iridescent Hieronymus during Operation: False Sanctum.
+
+Wakaba Hinata
+Unlike Sakurako's duties as a Sister, Hinata instead focuses on the more physical duties around the cathedral, such as lifting heavy objects that would normally require multiple people.
+
+They were also involved in defeating the Iridescent Hieronymus during Operation: False Sanctum.
+
+Tea Party
+Kirifuji Nagisa
+After the Arius invasion during Volume 3, Sakurako joined a formal meeting hosted by Nagisa without any invitation.
+
+Knights Hospitaller
+Aomori Mine
+After the Arius invasion during Volume 3, Nagisa hosted a formal meeting, but Sakuraki joined uninvited alongside Mine.
+
+They were also involved in defeating the Iridescent Hieronymus during Operation: False Sanctum.
+
+Arius Squad
+They were involved in defeating the Iridescent Hieronymus during Operation: False Sanctum.
+---
+“	May grace be with you all.	”
+~ Utazumi Sakurako
+
+Utazumi Sakurako (歌住サクラコ) is one of the students studying in Trinity General School who wields an Assault Rifle.
+
+She is the leader of the Sisterhood.
+
+
+Contents
+1	Profile
+1.1	Introduction
+1.2	Personality
+1.3	Appearance
+1.3.1	Halo
+1.3.2	Uniform
+1.3.3	Firearm
+2	Combat
+2.1	Skills
+2.2	Growth Material
+2.3	Unique Equipment
+2.4	Unique Item
+2.5	Bond
+3	Poll
+4	Trivia
+5	See Also
+6	Navigation
+Advertisement
+Profile
+A devout student of the Sisterhood belonging to Trinity Integrated Academy.
+
+Sakurako is widely trusted by other students for her serious attitude. However, being too serious, she sometimes deviates from trends and common sense.
+
+Introduction
+The leader of the Sisterhood, Sakurako. As a sister, she's very helpful and is willing to listen to anyone. However, she mostly spends her time in the cathedral, not knowing of the current trends outside. This makes her feel more old-fashioned compared to the others, which makes her feel left out sometimes.
+
+Personality
+Sakurako has a very kind heart and is always willing to help, but she fears of being left out by the other Sisters due to not being up-to-date with the latest trends. She is also often misunderstood because of the way she acts.
+
+Appearance
+Sakurako has hip-length silver hair with bangs and magenta colored eyes.
+
+Halo
+Sakurako has a yellow halo that is formed by an upside-down semicircle flanked by two birds and another smaller semicircle with two triangles and a cross above it.
+
+Uniform
+Sakurako wears a black, nun-like dress with a white sailor collar and a light blue sailor ribbon. The dress includes a black skirt that starts below the chest and reaches mid-thigh, adorned with beautiful golden patterns. She also wears black thigh-high stockings and black boots. On her head, she wears a long nun headdress with golden accents.
+
+Firearm
+She uses a white IWI Tavor CTAR-21 assault rifle with an aquamarine grip. The magazine, charging handle, muzzle brake, fire selector switch, and trigger is painted gold. It is outfitted with flattop rails and a Manticore Arms Curved Buttpad. A golden bird acts in place as the front sight.
+
+Profile
+Age
+17
+Birthday
+October 4th
+Height
+160cm
+School Year
+3rd Year
+Club
+Sisterhood
+Hobby
+Prayer

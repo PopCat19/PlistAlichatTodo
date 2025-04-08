@@ -1,0 +1,842 @@
+Normal lines
+Name		Transcription
+Japanese	English
+Title	
+Duration: 2 seconds.0:02	
+ブルー、アーカイブ。
+
+Blue Archive
+
+Gachaget	
+Duration: 8 seconds.0:08	
+ミレニアムサイエンススクール、
+セミナーの調月リオよ。
+最も合理的な答えを、提示してあげる。
+
+Tsukatsuki Rio, from Seminar, Millenium Science School. I will be giving you the upmost rational solutions.
+Cafe_monolog_1	
+Duration: 3 seconds.0:03	
+合理的な配置を
+追求するなら……。
+
+The most rational arrangements would be...
+Cafe_monolog_2	
+Duration: 4 seconds.0:04	
+あの置物、実用性が
+欠けていると
+思うのだけれど……
+
+That ornament, i feel it's lacking in terms of function...
+Cafe_monolog_3	
+Duration: 4 seconds.0:04	
+カフェインはカプセルで
+摂取すれば良いのでは
+ないかしら？
+
+Wouldn't it be better to take caffeine in pills?
+Cafe_monolog_4	
+Duration: 6 seconds.0:06	
+最大多数の
+最大幸福……
+ここでも
+適用できるかしら。
+
+Maximum happiness for maximum amount of people... I wonder if that applies here too
+Cafe_monolog_5	
+Duration: 2 seconds.0:02	
+……人混みは
+避けましょう。
+
+...Best to avoid crowded places
+LogIn_1	
+Duration: 14 seconds.0:14	
+おかえりなさい、先生。
+私も今到着したところよ。
+
+先生が来るタイミングを
+計算していたのだけれど……
+
+結果に狂いはないようね。
+
+Welcome back, Sensei. I've just gotten here myself. I was calculating when you'd arrive and... It seems to be on point.
+LogIn_2	
+Duration: 7 seconds.0:07	
+時間通りね、先生。
+
+これは今日のスケジュールよ。
+目を通しておいて頂戴。
+
+Right on time, Sensei. Here is the schedule of the day. Please have a look.
+Lobby_1	
+Duration: 13 seconds.0:13	
+合理を追求することが
+最大効率をもたらすと
+思っているわ。
+
+決して、それだけでは
+ないのだろうけれど。
+
+貴方がそう
+思わせてくれたもの。
+
+I do believe pursuing rationality brings about the greatest efficiencies. But in the end, that is not all that matters. I have you to blame for making me think that way
+Lobby_2_1	
+Duration: 10 seconds.0:10	
+先生、夜空を見上げた
+ことはあるかしら？
+
+星の光は、すべて過去から
+届いたものなのよ。
+
+Sensei, have you ever seen the starry night sky? All those lights comes from the past.
+Lobby_2_2	
+Duration: 9 seconds.0:09	
+つまり――私たちが
+星を目にしている時、
+
+「過去」と「現在」を同時に
+捉えている、とも言えるわね。
+
+So, the moment we see those stars, it is where "the past" and "the present" meet. Let's put it that way.
+Lobby_2_3	
+Duration: 6 seconds.0:06	
+……そこでも、
+
+「未来」を観測することは
+できないのだけれども。
+
+..But even then, we can't meet "the future"
+Lobby_3_1	
+Duration: 11 seconds.0:11	
+「未来」というのは
+不確定要素の塊。
+
+それを懸念すべきなのか、
+
+それとも可能性として
+希望を持つべきなのか……
+
+"The future" is but a bundle of uncertainties. Should we be concerned about it, or should we see it as a chance and be hopeful about it...
+Lobby_3_2	
+Duration: 5 seconds.0:05	
+ずっと答えを出せずにいるの。
+
+でも……
+
+It always remains without an answer. But...
+Lobby_3_3	
+Duration: 8 seconds.0:08	
+その未来に
+貴方がいるのなら……
+
+違う仮説を立てられるかも
+しれないわね。
+
+If you are there in that future... Then perhaps we can come up with a different hypothesis
+Lobby_4_1	
+Duration: 7 seconds.0:07	
+ミレニアムの生徒が
+シャーレを訪問した際は、
+
+私にスケジュールを
+共有してちょうだい。
+
+Whenever Millenium students come over to Schale, please share me the schedule
+Lobby_4_2	
+Duration: 2 seconds.0:02	
+頼んだわ。
+
+I'm counting on you
+Lobby_5_1	
+Duration: 9 seconds.0:09	
+今から散歩……？
+
+却下。非合理的な行動よ。
+
+それに、危険だわ。
+
+Going on a walk, now..? Denied. That's an irrational thing to do. Also, it's dangerous
+Lobby_5_2	
+Duration: 5 seconds.0:05	
+私から離れないで。
+これからも
+ずっと隣にいなさい。
+
+Do not leave me. Stay by my side from now on, forever
+Lobby_5_3	
+Duration: 7 seconds.0:07	
+わ、私……何か不適切な
+ことを、言ったかしら……？
+
+D- Did I... Say something inappropriate..?
+Season_Birthday_Player	
+Duration: 9 seconds.0:09	
+貴方という可能性が
+世界に生まれ落ちた記念日ね。
+…お誕生日、おめでとう先生。
+
+So it's the anniversary that a potential like you are born into this world.
+...Happy birthday, Sensei
+
+Season_Birthday	
+Duration: 15 seconds.0:15	
+誕生日……これまであまり、
+馴染みがなかったの。
+
+でも……
+こういう気持ちになるのね。
+
+……お礼をいうわ。先生。
+
+Birthdays... I have never been all too familiar with it.
+But... so this is how it feels. ...I extend my gratitude, Sensei
+
+Season_NewYear_1	
+Duration: 9 seconds.0:09	
+「一年がはじまる」という
+概念そのものが非合理的よ。
+
+季節が一巡しただけに
+過ぎないわ。
+
+The very concept that a new year is starting is irrational. It's nothing but seasons going through it's cycles
+Season_NewYear_2	
+Duration: 6 seconds.0:06	
+……でも、社会的な規範意識を
+無視できないのも、
+理解はできる。
+
+...But, I do understand that social norms can not be ignored.
+Season_NewYear_3	
+Duration: 5 seconds.0:05	
+……新年、
+明けましておめでとう、先生。
+
+...Happy New Year, Sensei.
+Season_Xmas_1	
+Duration: 7 seconds.0:07	
+……理解できないわ。
+クリスマス？
+記念日って、一体……
+
+..I can't wrap my head around it. Christmas? Anniversary, what on earth...
+Season_Xmas_2	
+Duration: 3 seconds.0:03	
+プレゼント……？私に……？
+
+A present..? For me..?
+Season_Xmas_3	
+Duration: 10 seconds.0:10	
+その、ありがとう、先生。
+
+……全く、ロジックが
+分からないのだけれども。
+好意は受け取っておくわ。
+
+Um... Thank you, Sensei. I don't understand the logic behind this. But I'll accept the kindness regardless
+Season_Halloween_1	
+Duration: 7 seconds.0:07	
+仮装をして飴を
+要求するなんて……
+
+未だに
+理解できないのだけれど……
+
+Wearing a costume and asking for candies...
+I still don't understand it but...
+
+Season_Halloween_2	
+Duration: 4 seconds.0:04	
+先生が相手なら……
+いいかしら……？
+
+If you are my partner then... I suppose it's fine..?
+Season_Halloween_3	
+Duration: 4 seconds.0:04	
+トリックオアトリート
+
+……ふふっ。
+
+Trick or treat, fufu
+ExWeapon_Get	
+Duration: 11 seconds.0:11	
+射撃は不得手だけれど……
+自分の身程度は守ってみせるわ。
+それから……先生、貴方のことも。
+
+Marksmanship isn't my strong suit but.. I can protect myself, at the least. And... you, as well.
+Memorial lobby
+Name		Transcription
+Japanese	English
+MemorialLobby_1	
+Duration: 6 seconds.0:06
+Duration: 4 seconds.0:04	
+こういう事をさせるために、
+貴方を呼んだわけじゃ、
+ないのだけれど……
+
+自分でやるわ。
+先生は座っていてちょうだい。
+
+I didn't mean to call you over to do something like this, but...
+I'll do it myself. You can sit down, Sensei
+
+MemorialLobby_2	
+Duration: 6 seconds.0:06
+Duration: 4 seconds.0:04
+Duration: 3 seconds.0:03	
+あ、貴方はもう少し、
+先生としての自覚を持ちなさい。
+
+こんなことで時間を
+浪費するなんて非合理的よ。
+
+他にもっと重要な
+仕事があるでしょう？
+
+P- Please be more conscious of the fact you are a teacher.
+Wasting time like this is irrational. There are more important things to do, right?
+
+MemorialLobby_3	
+Duration: 4 seconds.0:04
+Duration: 4 seconds.0:04	
+ッ……！な、なにを……
+
+私の「お世話」……！？
+
+...! Wh- What are you...
+"Taking care".. Of me!?
+
+MemorialLobby_4	
+Duration: 4 seconds.0:04
+Duration: 5 seconds.0:05	
+り……理解に苦しむわ……
+でも……
+
+……貴方は、
+そういう人だったわね。
+
+M- Makes no sense... But...
+That is... just the kind of person you are, huh
+
+MemorialLobby_5	
+Duration: 2 seconds.0:02
+Duration: 3 seconds.0:03
+Duration: 5 seconds.0:05	
+……分かったわ。
+
+最後まで受け止めましょう。
+
+貴方がする……
+「お世話」とやらを。
+
+Understood.
+I'll accept it till the end. This thing you call.. "Taking care" of me...
+
+Event lines
+Name		Transcription
+Japanese	English
+EventLogin_1	
+Duration: 2 seconds.0:02	
+適切なタイミングね。
+
+Perfect timing
+EventLogin_2	
+Duration: 3 seconds.0:03	
+そろそろ来る頃だと
+思っていたわ。
+
+Thought it was about time you arrived
+EventLogin_Season_1	
+Duration: 5 seconds.0:05	
+全て順調よ。
+でも、安心できる
+段階ではないわ。
+
+Everything is going smoothly. But we shouldn't let our guard down,
+EventLogin_Season_2	
+Duration: 5 seconds.0:05	
+近々、まとまった
+報告ができそうよ。
+
+もう少し待って
+ちょうだい。
+
+I'll be able to compile a comprehensive report soon. Please wait for a moment.
+EventLogin_Season_End	
+Duration: 5 seconds.0:05	
+解決できてよかったわ。
+
+……これは本心よ。
+
+I'm glad we were able to resolve this. I mean it.
+EventLobby_1	
+Duration: 4 seconds.0:04	
+……突然私に触れて、
+どうしたのかしら？
+
+..Why are you touching me all of a sudden?
+EventLobby_2	
+Duration: 3 seconds.0:03	
+言葉で
+伝えてくれるかしら。
+
+Can you please spell it out.
+EventLobby_3	
+Duration: 3 seconds.0:03	
+だから……その……
+
+Like I said.. Um...
+EventLobby_4	
+Duration: 4 seconds.0:04	
+私に……何を、
+求めているの？
+
+What.. Do you want from me?
+EventMission_Login_1	
+Duration: 2 seconds.0:02	
+リストアップは
+済んでいるわ。
+
+I've done the listing
+EventMission_Login_2	
+Duration: 2 seconds.0:02	
+これが今日のタスクよ。
+
+Here are today's tasks
+EventMission_1	
+Duration: 7 seconds.0:07	
+……先生の意図が
+理解できないわ。
+
+無言で触れるだけでは、
+伝わらないのよ。
+
+..I can't read your mind, Sensei. Touching me without saying anything won't get the message across.
+EventMission_2	
+Duration: 5 seconds.0:05	
+……もしかして、
+
+同じことをしてほしいの？
+
+...Could it be, you want me to do the same thing back?
+EventMission_Get_1	
+Duration: 2 seconds.0:02	
+確認するわね。
+
+I've checked
+EventMission_Get_2	
+Duration: 2 seconds.0:02	
+リストを更新しておいたわ。
+
+I've updated the list
+Extra event lines
+	Some of the lines in this section are not extracted from the game. They are transcribed and translated manually and may contain errors. If you see a mistake, please make corrections by editing this page.
+Name		Transcription
+Japanese	English
+EventMission_Day_End	
+Duration: 6 seconds.0:06	今日はこれで終了よ。
+……流石、といったところかしら？
+
+That's all for today. …"Just as expected", should i say?
+MiniEventLogin_1	
+Duration: 7 seconds.0:07	
+途中参加という
+形になるのかしら。
+
+……これからよろしく
+頼むわね、先生。
+
+Seems like I’ll be joining midway
+...I’m counting on you from now on, Sensei.
+
+MiniEventLogin_2	
+Duration: 6 seconds.0:06	
+貴方は、時間を
+厳守できる人なのね。
+
+まさに合理的な行動よ。
+
+You're someone who can stick to schedule. Very rational move.
+MiniEventLogin_3	
+Duration: 6 seconds.0:06	
+ここがヒマリの……
+
+いえ、
+私たちの基地なのね。
+
+So this is Himari's... No, our base.
+MiniEventLobby_1	
+Duration: 9 seconds.0:09	
+……まだ、
+実感がわかないの。
+
+先生と……同じ作戦に
+身を置いていることが。
+
+...I still can't really believe it. I'm on the same operation as you are,
+MiniEventLobby_2	
+Duration: 12 seconds.0:12	
+……みんなには、
+気兼ねなく
+接してもらっているわ。
+
+嫌というわけでは、
+ないのだけれど……
+
+少し戸惑っているのは、
+事実よ。
+
+..Everyone is treating me very well.
+I'm not complaining about it but... I must say I am quite perplexed
+
+MiniEventLobby_3	
+Duration: 6 seconds.0:06	
+工学の分野以外は……
+
+ごめんなさい、
+それほど詳しくないの。
+
+Aside from Engineering matters... Sorry, I'm not the most knowledgeable about it.
+MiniEventLobby_4	
+Duration: 16 seconds.0:16	
+……なにかしら？
+……話しかけて
+みたかっただけ？
+
+そういう非合理的な
+行動は控えて頂戴、
+先生。
+
+……不愉快とまでは、
+言ってないわ。
+
+..What's the matter?
+...You just wanted to call me? Please refrain from doing such irrational behaviours, Sensei. ...I didn't say i didn't like it.
+
+MiniEventLobby_5	
+Duration: 17 seconds.0:17	
+以前は、すべてを
+掌握しなければ
+ならないと考えていたの。
+
+でも、今は……人間一人に
+掌握できる範疇の
+限界に気がつけたわ。
+
+……先生のおかげ、
+かしら。
+
+I once thought I had to be in control of everything.
+But now I realize the limits of what a single person can manage. …Maybe that is thanks to you, Sensei
+
+MiniEventShop_Login_1	
+Duration: 8 seconds.0:08	
+ヒマリから
+引き継ぎがあったわ。
+
+現在、
+各地から「名も無き神」による
+
+謎の物質が
+見つかっている、と。
+
+Himari has told me a few things. At the moment, it seems like we are discovering mysterious substances linked to "The nameless God" everywhere
+MiniEventShop_Login_2	
+Duration: 4 seconds.0:04	
+サンプルがあれば、
+再補給も可能になるわ。
+
+If we had samples, maybe we could replenish them
+MiniEventShop_Login_3	
+Duration: 3 seconds.0:03	
+集めたサンプルを
+見せてちょうだい。
+
+Please show me the samples you've gathered
+MiniEventShop_1	
+Duration: 3 seconds.0:03	
+協力、感謝するわ。
+
+I appreciate your cooperation
+MiniEventShop_2	
+Duration: 5 seconds.0:05	
+「物質」の分析中よ。そこから
+副産物を生産しているの。
+
+The "substances" are being analyzed. We're producing byproducts from it.
+MiniEventShop_3	
+Duration: 8 seconds.0:08	
+この装置、
+かなり熱を放っているわね……
+
+エイミには少し
+厳しいんじゃないかしら。
+
+This device gets pretty warm...
+Maybe it would be a bit tough for Eimi
+
+MiniEventShop_4	
+Duration: 16 seconds.0:16	
+装置の構造に不満はないの。
+
+意外？ふふ、私だって、
+優れたものは素直に認めるわ。
+
+ああでも、デザインと
+細部にもう少し合理性を……
+
+I have no complaints about the structure of the device. "That's surprising"? Fufu, I can acknowledge good things when they are so.
+Ahh, but, the design and details could use some more rationality
+
+MiniEventShop_5	
+Duration: 16 seconds.0:16	
+……そんなことをしても、
+得られるものは
+何もないと思うわ。
+
+……私の表情の
+変化が見られる？
+
+……貴方が変わっていると
+言われる理由が、分かったわ。
+
+...You won't be getting anything from doing that.
+...You get to see my expression change? ...I get why people call you strange now.
+
+MiniEventShop_Buy_1	
+Duration: 2 seconds.0:02	
+今回の分析結果よ。
+
+Here's the results of the analysis this time
+MiniEventShop_Buy_2	
+Duration: 10 seconds.0:10	
+いらっしゃいませ、
+どちらになさいますか？
+
+……真似してみただけよ。
+今のは忘れなさい。
+
+Welcome, what can I get for you?
+...I was just trying to copy what I saw. Please forget that.
+
+MiniEventShop_Buy_3	
+Duration: 4 seconds.0:04	
+過去にあった
+「物々交換」も、
+
+こうだったのかしら。
+
+I wonder if this is how bartering was in the past
+MiniEventShop_Buy_4	
+Duration: 2 seconds.0:02	
+合理的な選択ね。
+
+Rational choice
+MiniEventShop_Buy_5	
+Duration: 4 seconds.0:04	
+最終選択は貴方に委ねるわ。
+
+I'll trust you to make the final decision
+Extra event lines
+	Some of the lines in this section are not extracted from the game. They are transcribed and translated manually and may contain errors. If you see a mistake, please make corrections by editing this page.
+Name		Transcription
+Japanese	English
+EventMission_Day_End	
+Duration: 6 seconds.0:06	
+今日はこれで終了よ。
+……流石、といったところかしら？
+
+That's all for today. …"Just as expected", should i say?
+|}
+
+Tactics and growth
+	Some of the lines in this section are not extracted from the game. They are transcribed and translated manually and may contain errors. If you see a mistake, please make corrections by editing this page.
+Name		Transcription
+Japanese	English
+CommonSkill	
+Duration: 3 seconds.0:03	AMAS、ここを頼んだわ。	AMAS, I'll leave this to you
+ExSkill_1	
+Duration: 3 seconds.0:03	私は全てを見ているわ。	I am watching everything
+ExSkill_2	
+Duration: 3 seconds.0:03	例外なんてないの、あなたもそう。	There is no exceptions. Not even you.
+ExSkill_3	
+Duration: 2 seconds.0:02	死角があるとでも？	Is there visuals?
+ExSkill_Level_1	
+Duration: 2 seconds.0:02	これが必要なのでしょう？	You need this, correct?
+ExSkill_Level_2	
+Duration: 3 seconds.0:03	これが、あなたの可能性よ。	This is your potential
+ExSkill_Level_3	
+Duration: 2 seconds.0:02	受け取ってちょうだい。	Please accept this
+Growup_1	
+Duration: 4 seconds.0:04	成長したのね。
+……まだ、何か？
+
+Seems like I've grown. Is there anything else?
+Growup_2	
+Duration: 6 seconds.0:06	成長の余地があるものにリソースを割く。
+合理的な選択ね、先生。
+
+Pouring resources to where there is margin for growth. Rational choice, Sensei
+Growup_3	
+Duration: 8 seconds.0:08	……そう、期待しているのね。
+任せなさい。 結果で証明するわ。
+
+I see. You have expectations on me. Leave this to me. I'll show you results
+Growup_4	
+Duration: 10 seconds.0:10	その……感謝するわ、先生。
+この言葉が正しいのかは、分からないのだけれど。
+
+Um... I'm thankful, Sensei. I'm not sure if this is the right thing to say
+Relationship_Up_1	
+Duration: 8 seconds.0:08	あなたが隣にいると、脈が不規則になってしまうのだけれど。
+……どうしてかしら。
+
+When you are by my side, my pulse goes irregular. I wonder why that is
+Relationship_Up_2	
+Duration: 13 seconds.0:13	先生は、私の人生に現れた唯一の変数といっても過言ではないわ。
+……とはいえ、あなたの言動には動揺してばかりね。
+
+Sensei, to say that you are the only variable that appeared in my life would be no exaggeration. That said, everything you do never fails to leave me restless.
+Relationship_Up_3	
+Duration: 14 seconds.0:14	未来を語っても意味はない。
+不確定要素しかないもの。 ……だというのに、あなたを見ていると……様々な可能性を考えてしまう。
+
+It is pointless to talk about the future. It's all a bundle of uncertainties. Is what I say, but when I look at you, I start to think of all sorts of possibilities
+Relationship_Up_4	
+Duration: 13 seconds.0:13	先生？
+……他の生徒を真似て呼んでみただけよ。 ……想像の何倍も、言葉にするのは難しいわね、これ。
+
+Sensei? I'm just practicing calling you like other students. Actually saying it is far more difficult than I imagine, it seems.
+---
+Cleaning & Clearing
+Asuma Toki
+Toki serves as Rio's personal bodyguard, with Toki only following orders from Rio and no one else. However, following Rio's sudden disappearance, she was left with nowhere to go but to the rest of C&C.
+
+Mikamo Neru
+As the head of C&C, Neru is under Rio's command. However, because Neru's obedience towards Rio is not as high as Toki's, she's willing to disobey orders in extreme circumstances, as was seen in V2C2.
+
+Paranormal Affairs Department
+Izumimoto Eimi
+The first member and was the only member of the Paranormal Affairs Department before Himari joined. Although Eimi's origins are still unclear, it was stated that Rio was the one who assigned Eimi to this club.
+
+Akeboshi Himari
+Himari and Rio have always been in bad terms with each other due to their contrasting personalities and beliefs. Himari was assigned to the Paranormal Affairs Department by request of Rio, which she reluctantly agreed to after understanding what her duty was to entail.
+
+Game Development Department
+Tendou Alice
+Due to Aris' identity as the "Princess of the Nameless Gods", Rio understood that Aris was "a weapon of armageddon" and if left alone, would cause the end of not only Millennium, but all of Kivotos. She convinces Aris to allow her to destroy her halo, calling Aris the "Demon Lord" that will destroy the world, but her plans were foiled by a joint effort comprised by Sensei and Aris' friends, who manage to avert a crisis and prevent Key from activating Protocol ATRAHASIS. Seeing that her drastic plan to kill Aris wasn't necessary—not to mention having backfired, she flees from Millennium, unknown whether in regret of her actions and beliefs, or for some other reason.
+
+Rio and Aris meet once again in the bridge of Utnapishtim's Ship, when Aris proposes to use her power as the "Princess of the Nameless Gods" to construct a weapon capable of penetrating the Ark of Atra-hasis' barrier. Rio attempts to apologize verbally, but Aris deems it unnecessary, as friends can communicate feelings without words. Aris understood that Rio's original efforts were of good intentions, which is why she forgives her. At last, Rio acknowledges Aris as a "hero", and requests for her to save the world.
+---
+Clockwork Flower Pavane
+Secret Meeting
+Ever since Alice's arrival to Millennium, like the "Big Sister" Rio is, she has been quite observant towards everything regarding Alice and her surroundings. Of course, Rio has her reasons, which is to analyze Alice. Himari has also been observing Alice, but since both Himari and Rio are opposites of each other, it's natural for them to have major differences in opinions, with one believing that Alice is a weapon of armageddon while the other considering Alice to be an "adorable kouhai." Rio didn't like that, so she brought in AMAS, a personal army of hers, against Himari. However, Himari didn't come unprepared and managed to fool Rio and escape. Unfortunately for Himari, she was unaware of Rio's secret bodyguard, and she was taken out almost instantly. [1]
+
+A Harsh Truth
+After a series of unfortunate events, Rio's suspicions were confirmed. Alice was definitely a weapon of armageddon. So she decided to take matters into her own hands and sent AMAS and Neru to take Alice away. Neru didn't like that idea, so she tried to retaliate, but was stopped by Rio's bodyguard, Toki, in a matter of minutes. Alice, the Game Development Department, Neru, and Sensei were helpless, and all they could do was stay silent as they watched Rio take Alice away to Eridu. [2]
+
+Screw That!
+Alice's abduction was heard by almost everyone at Millennium. They couldn't believe it, but they couldn't just stand still, so everyone gathered to make a plan to infiltrate Eridu to rescue Alice. It was found out by Yuuka that apparently Rio has been stealing funds from Seminar to build Eridu. This of course made Yuuka infuriated as she is the treasurer. [3]
+
+Pavane for a Sleeping Princess
+With the help of basically everyone in Millennium, they defeated everything Rio had in store, including Toki's Power-suit System Abi-Eshuh which was made by Rio to counter the apocalypse of Kivotos. Rio couldn't do anything, and now she's forced to watch Sensei and the others try to take Alice back. However, as they were trying to get Alice back, Alice changed. It was no longer Alice in control, and now Eridu is under "Alice's" control. Seeing this, Rio was shocked as the stronghold she built, which was meant to stop the apocalypse, was taken control of by what she believed was the apocalypse. [4]
+
+What I Want to Be
+Fortunately, Sensei and the others managed to stop "Alice's" control and brought Alice back to normal. Rio felt as if her whole world view was shattered as all of this shouldn't be possible according to the data and calculations. [5]
+
+Millennium Science School
+After most of the aftermath was settled, it was found out that Rio had resigned from being president of Seminar. As Yuuka found out about this, she hurried towards Rio's office, only to find an apology letter from Rio. [6]
+
+Where All Miracles Begin
+Utnapishtim's Ship
+Rio was never seen again, having isolated herself in guilt from the outside world, until she made a re-appearance in The Ark of Atrahasis Conquest, in a form of a "Small AMAS", a calculation support AI robot sent by Rio, which is later revealed to be a projector communicator. Upon revealing their identity, Himari lashes out at her for all the suffering she had caused on Aris as well as Toki, blaming Rio for all the disastrous actions caused in Kivotos and declines her help in operating the intergalatic battleship. However, upon being told by Hanako about the story of the King, explaining that his desperate attempts to prevent the prophecy from happening caused the very prophecy to come into fruition, Himari changes her mind and asks Small AMAS / Rio for help.
+---
+“	I am not speaking of likes or dislikes... only facts.	”
+~ Tsukatsuki Rio, to Himari
+
+Tsukatsuki Rio (調月リオ) is one of the students studying at Millennium Science School who wields a Handgun.
+
+She is the former president of Seminar, and is the main antagonist of Volume 2.
+
+
+Contents
+1	Profile
+1.1	Introduction
+1.2	Personality
+1.2.1	Appearance
+1.2.2	Halo
+1.2.3	Uniform
+1.2.4	Firearm
+2	Combat
+2.1	Skills
+2.2	Growth Material
+2.3	Unique Equipment
+2.4	Unique Item
+2.5	Bond
+3	Etymology
+4	Poll
+5	Trivia
+6	References
+7	Navigation
+Quick Answers
+fandom logo
+What role does Tsukatsuki Rio play in the Millennium Science School?toggle section
+Tsukatsuki Rio, a student at Millennium Science School, is recognized for her objective and analytical approach, often prioritizing facts over emotions. She previously held the position of Seminar president and is a significant figure in the school's narrative as the main antagonist in Volume 2.
+Provided by: Community
+
+REPORT ISSUE
+Why is Tsukatsuki Rio referred to as 'Big Sister'?toggle section
+Tsukatsuki Rio earns the 'Big Sister' moniker due to her vigilant nature. Though this reflects a protective and nurturing demeanor, characteristics commonly linked with a 'Big Sister' role, she tends to overdo it in the sense that she forces others to follow her because "it's the most rational thing to do."
+Provided by: Community
+
+REPORT ISSUE
+What is the nature of Tsukatsuki Rio's relationship with Himari?toggle section
+Tsukatsuki Rio has a complicated relationship with Himari, marked by indirect influences and rivalry. Rio's abrupt leave of absence, and the resulting isolation of her bodyguard Toki, affected Himari. Himari has also criticized Rio's possessiveness and sudden decisions.
+Provided by: Fandom
+
+REPORT ISSUE
+How does Tsukatsuki Rio's personality affect her leadership style as the student council president?toggle section
+Tsukatsuki Rio, former president of Seminar and student council president at Millennium Science School, is characterized by a cold, calculating demeanor. Her leadership style is largely influenced by her focus on objective facts, often sidelining emotions. Despite her high-ranking position, her approach to problem-solving is often reckless and deemed irresponsible, leading to criticism. However, her caring nature emerges in her interactions with certain people, demonstrating her readiness to lend a hand when necessary.
+Provided by: Community
+
+REPORT ISSUE
+Advertisement
+Profile
+President of the "Seminar" student council at the Millennium Science School. Rio is a rationalist, she will do anything to ensure the safety of the Millennium and the world. As a result, she is known as the "Big Sister". She has a peculiar sense of style, as can be seen in "Avant-Guard-kun".
+
+Introduction
+Rio is the student council president of Millennium. Cold and calculating, she cares more about objective facts than emotions. She is at odds with Himari due to their contrasting personalities.
+
+Her nickname is "Big Sister."
+
+Personality
+Rio has always been unsociable and rather scrupulous. She never lets emotions change her mind and always sticks to the facts. Because of this, a lot of students find Rio to be terrifying, but Rio doesn't let their opinions into her head. Rio is also very determined when it comes to reaching her goals, even breaking the rules if she has to.
+
+Spoilers!
+After the incident with kidnapping Aris, Rio has mellowed out considerably and has shown to deeply regret her actions in Volume 2. Her rival Himari pointed out her possessiveness and abruptness in taking a leave of absence. She brought up the fact that thanks to Rio's actions, her bodyguard Toki grew up with no friends and left with no one to talk to but Himari. Rio is later shown to be curled up under a desk, implicitly out of sorrow and regret.
+Appearance
+Rio is a tall, beautiful woman with long black hair that reaches her thigh with blunt bangs. She has a fair skin complexion and red eyes with white pupils.
+
+Halo
+Rio has a metallic halo with two red curved lines opposite of each other within.
+
+Uniform
+Her uniform consists of a three-buttoned black blazer and a white long-sleeved turtleneck sweater as well as a black knife-pleated mini skirt with a black opaque pantyhose. She also wears black stiletto heels, a holster with two belts tightly attached to her right thigh. On her left chest is a Millennium ID card. Additionally, she uses A Millennium logo hairpin and a square watch.
+
+Firearm
+She uses a black Springfield Armory M1911 Mil-Spec pistol with gray grips. The Millennium insignia is etched on the forward slide.
+
+Profile
+Age
+17
+Birthday
+June 6th
+Height
+171cm
+School Year
+Third Year
+Club
+Seminar
+Hobby
+Collecting Information

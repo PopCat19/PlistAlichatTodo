@@ -1,0 +1,767 @@
+Normal lines
+Name		Transcription
+Japanese	English
+Title	
+Duration: 2 seconds.0:02	
+ブルーアーカイブ。
+
+Blue Archive.
+
+Gachaget	
+Duration: 9 seconds.0:09	
+SRT特殊学園、RABBIT小隊の月雪ミヤコです。
+先生、ご指示を。
+
+SRT Academy, RABBIT Squad's Tsukiyuki Miyako. Your orders, Sensei.
+
+Cafe_monolog_1	
+Duration: 3 seconds.0:03	
+……可愛い飾りを
+発見しました。
+
+...I found a cute decoration.
+
+Cafe_monolog_2	
+Duration: 6 seconds.0:06	
+これぐらいの空間なら、
+私一人でも制圧
+できそうな……
+
+I can handle this much myself.
+
+Cafe_monolog_3	
+Duration: 3 seconds.0:03	
+こんなところに
+狙撃ポイントが……
+
+I didn't expect a sniper point here...
+
+Cafe_Act_1	
+Duration: 4 seconds.0:04	
+……受信中、
+感度良好。
+
+...Receiving. Good reception.
+
+Cafe_Act_2	
+Duration: 3 seconds.0:03	
+何か問題でも
+ありましたか？
+
+Is there a problem?
+
+LogIn_1	
+Duration: 7 seconds.0:07	
+お帰りなさい、先生。
+
+ここでずっと、次の命令を
+お待ちしておりました。
+
+Welcome, Sensei.
+
+I've been waiting for your next order.
+
+LogIn_2	
+Duration: 6 seconds.0:06	
+またお会いできて
+嬉しいです、先生。
+何かやることは……？
+
+It's nice to see you again, Sensei. Is there anything I can do...?
+
+Lobby_1	
+Duration: 4 seconds.0:04	
+RABBIT小隊、
+いつでも出撃可能です。
+
+RABBIT Squad is ready to mobilize at any time.
+
+Lobby_2	
+Duration: 6 seconds.0:06	
+急に気になったのですが……
+
+ウサギはどうやって
+鳴くんでしょうか？
+
+I suddenly got curious...
+
+What kind of sound does a rabbit make?
+
+Lobby_3	
+Duration: 3 seconds.0:03	
+ぴょん、ぴょん……とか？
+
+...Hop, hop?
+
+Lobby_4	
+Duration: 5 seconds.0:05	
+手強い敵に出会ったら、
+ぜひ私たちを呼んでください。
+
+If you encounter an enemy you can't handle alone, make sure to call us.
+
+Lobby_5	
+Duration: 6 seconds.0:06	
+RABBIT小隊の
+エンブレム……
+
+可愛いと思いませんか？
+
+The RABBIT Squad emblem...
+
+Isn't it cute?
+
+Season_Birthday_Player	
+Duration: 12 seconds.0:12	
+お誕生日
+おめでとうございます、先生。
+
+先生のお誕生日が
+十全なものになるよう、
+
+今日は一日、
+密着警護していますね。
+
+Happy birthday, Sensei.
+
+To ensure you have a perfect birthday,
+
+I'll be protecting you today.
+
+Season_Birthday	
+Duration: 14 seconds.0:14	
+そういえば、今日は
+私の誕生日でしたね……。
+
+いえ、プレゼントは
+大丈夫です。
+
+先生の安全こそが、
+私の喜びですから。
+
+I just realized today is my birthday...
+
+I don't need a gift, thank you.
+
+Your safety is the best gift for me.
+
+Season_NewYear	
+Duration: 6 seconds.0:06	
+今年こそは、SRTを
+復活させられるでしょうか……？
+
+Do you think we can rebuild SRT Academy this year?
+
+Season_Xmas	
+Duration: 8 seconds.0:08	
+サンタクロース……
+
+ぜひいつか、一度
+お手合わせ願いたい
+相手です。
+
+Santa Claus...
+
+I'd like to try fighting him.
+
+Season_Halloween	
+Duration: 6 seconds.0:06	
+お化けであっても、
+銃弾が通じるなら
+怖くないのですが……。
+
+If I just shoot the ghost, it won't be so frightening.
+
+ExWeapon_Get	
+Duration: 8 seconds.0:08	
+RABBIT31式短機関銃、
+確かに受け取りました。
+……可愛い。
+
+RABBIT Type 31 submachine gun acquired. So cute...
+
+Memorial lobby
+Name		Transcription
+Japanese	English
+MemorialLobby_1	
+Duration: 2 seconds.0:02
+Duration: 7 seconds.0:07	
+綺麗……。
+
+夜景があまりに美しくて、
+危うく目的を忘れる
+ところでした。
+
+How pretty...
+
+The sky is so beautiful at night. I almost forgot we were on a mission.
+
+MemorialLobby_2	
+Duration: 6 seconds.0:06	
+ふふっ、
+作戦中に油断なんて
+ダメなのですけど……。
+
+Heehee, don't tell the others I let my guard down during a mission.
+
+MemorialLobby_3	
+Duration: 6 seconds.0:06
+Duration: 9 seconds.0:09
+Duration: 9 seconds.0:09
+Duration: 5 seconds.0:05	
+……えっと
+……急なのですが、
+先生……。
+
+その……いつも
+一緒にいてくださって、
+ありがとうございます。
+
+先生がいらっしゃら
+なかったら……
+
+私も、RABBIT小隊も、
+ここまで成長でき
+なかったと思います。
+
+なので今度、
+よろしければ、その――
+
+Well, um... This is out of nowhere, but, Sensei...
+
+Umm... Thank you for...always being there.
+
+If you hadn't been...
+
+The RABBIT Squad would never have come this far.
+
+So, from now on, if you're okay with it...please...
+
+MemorialLobby_4	
+Duration: 3 seconds.0:03
+Duration: 5 seconds.0:05
+Duration: 5 seconds.0:05
+Duration: 5 seconds.0:05	
+……？連絡が……
+
+なるほど、
+ここから500ｍの地点に……
+
+はい。すぐに突入の準備を、
+とのことです。
+
+先生、ラペルリングと
+ハーネスを装着してください。
+
+Huh? A message...
+
+Understood. Five hundred meters out...
+
+Yes, I received the signal to commence the raid.
+
+Sensei, please put on your rappel ring and harness.
+
+MemorialLobby_5	
+Duration: 8 seconds.0:08	
+え？使い方が
+わからない……ですか？
+そ、そうでしたか……。
+
+Huh? You don't know how to? I...see...
+
+MemorialLobby_6	
+Duration: 8 seconds.0:08
+Duration: 6 seconds.0:06	
+……大丈夫です。
+では、ここで待っててください。
+すぐに終えて戻ってきます。
+
+それでまた先生と、
+ゆっくりこの夜景が
+見たいので。
+
+That's okay. Then, please wait for me. I'll handle this and come back to you.
+
+And when I do... Let's take in this view, together.
+
+Tactics and growth
+	Some of the lines in this section are not extracted from the game. They are transcribed and translated manually and may contain errors. If you see a mistake, please make corrections by editing this page.
+Name		Transcription
+Japanese	English
+Formation_In_1	
+Duration: 2 seconds.0:02	
+配置につきました。
+
+On the placement.
+
+Formation_In_2	
+Duration: 2 seconds.0:02	
+分かりました。
+
+Understood.
+
+Formation_Select	
+Duration: 3 seconds.0:03	
+場所、間違っていましたか？
+
+Was I in the wrong place?
+
+Tactic_Defeat_1	
+Duration: 3 seconds.0:03	
+撤退も戦略の一部です。
+
+Evacuation is also part of the strategy.
+
+Tactic_Defeat_2	
+Duration: 6 seconds.0:06	
+次…、また次、もう一度挑戦しましょう。
+
+Next time... Let's try again next time.
+
+Tactic_In_1	
+Duration: 4 seconds.0:04	
+作戦区域に突入、展開します。
+
+Enter and deploy into the operation area.
+
+Tactic_In_2	
+Duration: 3 seconds.0:03	
+ここからどうすれば良いでしょうか？
+
+What should we do from here?
+
+Tactic_Victory_1	
+Duration: 4 seconds.0:04	
+皆さん、お疲れ様でした。
+
+Thank you all for your hard work.
+
+Tactic_Victory_2	
+Duration: 4 seconds.0:04	
+しょーり、ですね。先生。
+
+It's a victory, Sensei.
+
+Battle_Buffed_1	
+Duration: 4 seconds.0:04	
+ふぅ……はい、悪くないですね。
+
+Phew... Yes, not bad.
+
+Battle_BuffSelf_1	
+Duration: 3 seconds.0:03	
+突入、開始します。
+
+Start rushing.
+
+Battle_Covered_1	
+Duration: 2 seconds.0:02	
+隠れます。
+
+Taking cover.
+
+Battle_Damage_1	
+Duration: 1 second.0:01		
+Battle_Damage_2	
+Duration: 1 second.0:01		
+Battle_Damage_3	
+Duration: 2 seconds.0:02		
+Battle_Defense_1	
+Duration: 2 seconds.0:02	
+無意味な抵抗です。
+
+Resistance is pointless.
+
+Battle_In_1	
+Duration: 6 seconds.0:06	
+皆さん、警戒は怠らないように……先生、ご指示を！
+
+Everyone, don't let your guard down... Sensei, awaiting instructions!
+
+Battle_In_2	
+Duration: 2 seconds.0:02	
+作戦開始！
+
+Operation started.
+
+Battle_Move_1	
+Duration: 3 seconds.0:03	
+クリア、前進します。
+
+Clear. Going forward.
+
+Battle_Move_2	
+Duration: 2 seconds.0:02	
+次の敵はどこですか？
+
+Where is the next enemy?
+
+Battle_Recovery_1	
+Duration: 3 seconds.0:03	
+援護、ありがとうございます。
+
+Thank you for your support.
+
+Battle_Retire	
+Duration: 4 seconds.0:04	
+後は…、頼みます。
+
+I will... need your help later...
+
+Battle_Shout_1	
+Duration: 1 second.0:01		
+Battle_Shout_2	
+Duration: 1 second.0:01		
+Battle_Shout_3	
+Duration: 1 second.0:01	
+ファイア。
+
+Fire!
+
+Battle_TacticalAction_1	
+Duration: 2 seconds.0:02	
+ポジションを変更します。
+
+Changing position.
+
+Battle_TSA_1	
+Duration: 4 seconds.0:04	
+特務支援機体第1号、行きます。
+
+Special support aircraft No. 1, go.
+
+Battle_TSA_2	
+Duration: 3 seconds.0:03	
+戦術支援兵器の使用を許可します。
+
+Use of tactical support weapons is authorized.
+
+Battle_Victory_1	
+Duration: 2 seconds.0:02	
+やりましたっ。
+
+We did it.
+
+Battle_Victory_2	
+Duration: 1 second.0:01	
+クリア。
+
+Clear.
+
+CommonSkill	
+Duration: 2 seconds.0:02	
+皆さん、下がってください！
+
+Everyone, please stand back!
+
+ExSkill_1	
+Duration: 4 seconds.0:04	
+前方に多数の敵を確認、対処します。
+
+Confirming a large number of enemies ahead, I'll handle it.
+
+ExSkill_2	
+Duration: 4 seconds.0:04	
+感度良好、突入を開始します。
+
+Sensitivity OK, starting the raid.
+
+ExSkill_3	
+Duration: 4 seconds.0:04	
+到着を確認、すぐに進入します。
+
+Confirm arrival and invade immediately.
+
+ExSkill_Level_1	
+Duration: 4 seconds.0:04	
+ドローン稼働……援護をお願いします！
+
+Drone up and running. Requesting backup!
+
+ExSkill_Level_2	
+Duration: 3 seconds.0:03	
+総員、衝撃に注意してください！
+
+Everyone, please be careful of impact.
+
+ExSkill_Level_3	
+Duration: 3 seconds.0:03	
+閃光弾、投下します！
+
+Dropping flashbang!
+
+Growup_1	
+Duration: 3 seconds.0:03	
+さらに強くなった気がします。
+
+I feel even stronger.
+
+Growup_2	
+Duration: 3 seconds.0:03	
+これが、成長……。
+
+This is what growth is...
+
+Growup_3	
+Duration: 6 seconds.0:06	
+成長というのは、こんなにも気持ちの良いことだったんですね。
+
+Growing up is such a pleasant feeling.
+Growup_4	
+Duration: 4 seconds.0:04	
+ご期待に添えるように、もっと頑張ります。
+
+I will do my best to meet your expectations.
+
+Relationship_Up_1	
+Duration: 7 seconds.0:07	
+私と……ずっと、一緒にいてくれますか？
+
+Will you stay with me... all the time?
+
+Relationship_Up_2	
+Duration: 6 seconds.0:06	
+先生の指示なら何でも従います……何でも、です。
+
+I will follow any instructions you give me, Sensei... Anything.
+
+Relationship_Up_3	
+Duration: 5 seconds.0:05	
+もう少し……そばにいてください。
+
+Please stay with me a little longer.
+
+Relationship_Up_4	
+Duration: 10 seconds.0:10	
+ウサギは寂しいと死んでしまう生き物だそうです。
+……RABBIT小隊も同じです、きっと。
+
+It is said that rabbits are creatures that die when they are lonely. …The RABBIT Squad is no different, I'm sure...
+---
+MomoTalk✕
+
+Miyako
+<SYSTEM> This is RABBIT 1. Requesting permission to land.
+Miyako? I think you sent that to the wrong person.
+
+Miyako
+<SYSTEM> Descending to an altitude of 2,000 feet. Ready to descend.
+...???
+
+Miyako
+<SYSTEM> About 1.5 miles to target. Entering soon.
+...Miyako? Are you infiltrating something right now?
+Relationship Event
+To Miyako's Relationship Story
+
+MomoTalk✕
+
+Miyako
+Sensei, are you a dog person or a cat person?
+Reply
+A dog person.A cat person.
+
+Miyako
+I see. Dogs are loyal and obedient, so a lot of people love them.
+Are you a dog or cat person, Miyako?
+
+Miyako
+Well, actually... I think...
+I'm a rabbit person.
+Relationship Event
+To Miyako's Relationship Story
+
+Miyako
+
+
+Miyako
+Sensei, here's a picture of the rabbit we adopted.
+This is how she sleeps after eating.
+What a cute rabbit.
+
+Miyako
+Right? Rabbits have a different charm from dogs or cats.
+I'll take another picture when she wakes up for you.
+
+MomoTalk✕
+
+Miyako
+By the way, I haven't decided on a name for her yet.
+
+Miyako
+What kind of name would describe this adorable and brave rabbit?
+Reply
+Watson the Second.Eel Rice Bowl.
+
+Miyako
+That seems too fancy for a rabbit.
+Do you like Bun Bun?
+
+Miyako
+Bun Bun...
+
+Miyako
+Yes, I think that's a great name.
+Yeah, I think it's perfect.
+Relationship Event
+To Miyako's Relationship Story
+
+MomoTalk✕
+
+Miyako
+<SYSTEM> This is RABBIT 1. Requesting permission to land.
+Miyako! Stop! Stop!
+
+Miyako
+Huh? Sensei?
+Oh... I mistook your email address for the helicopter control station again. I'm sorry.
+Do you have an operation today?
+
+Miyako
+Yes, Sensei. A helicopter descent operation is scheduled today at 2200 hours.
+
+Miyako
+The mission is to raid the smugglers who have been illegally bringing animals into Kivotos.
+I'll come.
+
+Miyako
+Huh? You wanna come on the helicopter?
+It'll be dangerous though... Are you sure?
+Relationship Event
+To Miyako's Relationship Story
+
+MomoTalk✕
+
+Miyako
+Sensei, are you there?
+
+Miyako
+It's nothing special. I'm just checking in...
+
+Miyako
+I'll message you later.
+Sorry, Miyako. I was in a meeting and just saw this.
+Miyako...?
+Relationship Event
+To Miyako's Relationship Story
+
+MomoTalk✕
+
+Miyako
+This isn't something I had to think about while living at SRT,
+
+Miyako
+but extended camping is actually harder in the summer than the winter.
+Why's that?
+
+Miyako
+The rainy seasons during the summer are more intense.
+The constant downpour makes the equipment rust and food spoil so fast.
+There's been a lot of different challenges...
+
+Miyako
+Especially trying to figure out how to dry our clothes...
+Me and the other squad members are out of ideas. Our laundry's really piling up.
+Why don't you just bring it to Schale?
+
+Miyako
+To Schale...?
+We have a washing machine and dryer in the Schale lounge.
+It'd only take around half a day.
+
+Miyako
+Oh... I appreciate the offer, but...
+I mean...
+
+Miyako
+Well, I guess...just this once...
+Okay. I'll be there soon.
+Relationship Event
+To Miyako's Relationship Story
+---
+RABBIT Platoon
+Kasumizawa Miyu
+Miyu mentioned that Miyako is almost always the one taking care of her, as the other two members often forget about her. Whenever Miyu wants to start crying, she often tells Miyako that she wants to go home.
+
+Sorai Saki
+Ever since SRT shut down, Saki doesn't like Miyako for taking command as Miyako is no longer the squad's leader and often brags that she can do things better than her.
+
+Kazekura Moe
+Since Moe prefers doing what she wants to do, she dislikes Miyako for taking command since her instructions sometimes contradict with what Moe wants to do.
+
+Disciplinary Committee
+Sorasaki Hina
+Was involved during Operation False Sanctum in VFC2 against the Iridescent Shiro & Kuro.
+
+Game Development Department
+Was involved during Operation False Sanctum in VFC2 against the Iridescent Shiro & Kuro.
+
+SCHALE
+Sensei
+Originally despising Sensei for foiling the Rabbit Squad's plans on protesting, now Miyako considers them a trustworthy person although she doesn't want to admit it straightforwardly.
+---
+“	This is RABBIT 1, we will now begin operations.	”
+~ Tsukiyuki Miyako
+
+Tsukiyuki Miyako (月雪ミヤコ) is one of the students studying in SRT Special Academy who wields a Submachine Gun.
+
+She is the leader of the RABBIT Platoon, and is the deuteragonist of Volume 4.
+
+
+Contents
+1	Profile
+1.1	Introduction
+1.2	Personality
+1.3	Appearance
+1.3.1	Halo
+1.3.2	Uniform
+1.3.3	Firearm
+2	Combat
+2.1	Skills
+2.2	Growth Material
+2.3	Unique Equipment
+2.4	Unique Item
+2.5	Bond
+3	Poll
+3.1	JP
+3.2	Global
+4	Trivia
+5	See Also
+6	Navigation
+Profile
+Miyako is the leader of RABBIT platoon belonging to SRT Special Academy. She enrolled in the SRT Special Academy admiring the success of her seniors, only to find her school suddenly closed. She is now living in the park with fellow platoon members. Her facial expressions do not change much and she rarely shows her emotions, so people around Miyako tend to think that she is unsociable. However, deep down inside, she is always concerned about the members of her platoon and has a kind heart. Her callsign is "RABBIT1".
+
+Introduction
+Miyako is a member of SRT Special Academy and the leader of the RABBIT Platoon. Her facial expressions rarely change and she rarely shows her emotions. People around her tend to think she is unsociable, but in her heart, she is a kind-hearted platoon leader who is always concerned about her team members.
+
+Advertisement
+Personality
+Leader of the Rabbit Platoon before SRT disbanded, she often takes initiative leading her squad in operations although they tend to not like being bossed around especially since their school has been shutdown. She tends to be expressionless, but she cares a lot for her team. She is also dedicated in her mission to restore SRT however she can, as daunting as the situation may seem.
+
+Appearance
+Miyako has thigh-length silver hair with bangs that frame her face and light magenta eyes. Part of her hair is tied by a black ribbon into a little side ponytail.
+
+Halo
+Miyako's cyan halo is formed by a circle within a slightly larger circle with four blunts and surrounded by eight jagged shapes.
+
+Uniform
+Miyako wears a sailor-like uniform that consists of a cyan crop sweater with large white sleeves, a bulletproof-like top with multiple pockets, a cyan and white pleated skirt, and a black corset-like cloth under her sweater. She also ears black knee pads, a pink sailor ribbon and a white sailor collar. Additionally, she wears white headphones reassembling two bunny ears atop her head.
+
+Firearm
+She uses a white Suomi KP/-31 with a navy blue receiver, barrel shroud, and suppressor. Rabbit Platoon decals are present on the suppressor and on the furniture.
+
+In her memorial CG she is seen aboard the RABBIT Platoon's UH-60 Black Hawk presumably piloted by Moe. A GAU-21/A machine gun is also visible behind her installed on the aircraft's door mount.
+
+Profile
+Age
+15
+Birthday
+January 07th
+Height
+156cm
+School Year
+First Year
+Club
+RABBIT Platoon
+Hobby
+Watching Animal Videos

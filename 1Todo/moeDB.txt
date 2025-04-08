@@ -1,0 +1,554 @@
+Normal lines
+Name		Transcription
+Japanese	English
+Title	
+Duration: 3 seconds.0:03	
+ブルーアーカイブ～。
+
+Blue Archive.
+
+Gachaget	
+Duration: 9 seconds.0:09	
+SRT特殊学園、
+RABBIT小隊の風倉モエ。
+くひひ……支援なら、私に任せて。
+
+SRT Academy, RABBIT Squad's Kazekura Moe. Heeheehee... I'll be your support.
+
+Cafe_monolog_1	
+Duration: 4 seconds.0:04	
+ここ、
+新しい拠点に
+しちゃって良い？
+
+Should we designate this as our new base?
+
+Cafe_monolog_2	
+Duration: 3 seconds.0:03	
+……まあ、
+割と落ち着くかも。
+
+It's...weirdly safe here.
+
+Cafe_monolog_3	
+Duration: 3 seconds.0:03	
+飴が足りない……。
+
+Need...more candy...
+
+Cafe_Act_1	
+Duration: 6 seconds.0:06	
+何かこう、大事な
+発射ボタンとか落ちて
+ないもんかねー……？
+
+Something important, like a launch button, might have fallen off...
+
+Cafe_Act_2	
+Duration: 1 second.0:01	
+くひひ……
+
+Heehee...
+
+LogIn_1	
+Duration: 7 seconds.0:07	
+ああ、お帰り先生。
+今日も相変わらず
+忙しそうだね、くひひ……。
+
+Welcome, Sensei. You look busy as usual. Heeheehee.
+
+LogIn_2	
+Duration: 6 seconds.0:06	
+お、先生じゃん。
+なーんかずっと
+忙しそうだね？
+
+Oh, it's you, Sensei! You seem busy these days.
+
+Lobby_1	
+Duration: 5 seconds.0:05	
+そろそろRABBIT小隊の
+備品でも補充しておくか……。
+
+I've got to replenish supplies for the RABBIT Squad....
+
+Lobby_2	
+Duration: 7 seconds.0:07	
+はむ……
+糖分補給は大事っしょ。
+これは譲ってたまるか！
+
+Nom nom... Sugar is important. I can't give it up!
+
+Lobby_3	
+Duration: 7 seconds.0:07	
+あー……前に先輩が
+作ってくれた、あのいなり
+寿司が食べたい気分。
+
+Ah... I wanna eat the inarizushi she makes...
+
+Lobby_4	
+Duration: 10 seconds.0:10	
+全く、どうして基本的な
+補給品として飴をカウント
+しちゃいけないんだ？
+
+糖分はオペレーターにとって、
+燃料みたいなもんなのに
+
+Seriously... Why are candies not included in the basic supplies?
+
+Sugar is like the fuel that keeps the operator going.
+
+Lobby_5	
+Duration: 9 seconds.0:09	
+仕事、忙しそうじゃん。
+手伝ってあげようか？
+
+まぁ、任せてみなって。
+くひひ……。
+
+Aren't you a busy bee. Need help?
+
+You can count on me! Mostly... Heeheehee.
+
+Season_Birthday_Player	
+Duration: 8 seconds.0:08	
+誕生日おめでと、先生。
+ってことで……
+
+一発派手に、
+お祝いの花火とかどう？
+
+Happy birthday, Sensei. On that note...
+
+How about we have some extravagant fireworks to celebrate?
+
+Season_Birthday	
+Duration: 13 seconds.0:13	
+誕生日ケーキ？
+いや別に、私には
+花火さえあればそれで……。
+
+そうだね、どうせなら
+ド派手で強烈なのを……
+くひひ。
+
+Birthday cake? No, no. Birthday fireworks is more like it.
+
+Yeah! Something flashy! Something that goes ka-boom! Heeheehee.
+
+Season_NewYear	
+Duration: 11 seconds.0:11	
+山海経では新年に花火を
+打ち上げて厄除けをする
+風習があるらしいよ。
+
+ほんっと、
+良い文化だねぇ……
+くひひ。
+
+I heard that Shanhaijing Academy has a custom where they set off fireworks to drive away demons...
+
+I've never heard of a more beautiful custom. Heeheehee.
+
+Season_Xmas_1	
+Duration: 10 seconds.0:10	
+今年のクリスマスは、
+RABBIT小隊全員で
+七面鳥を食べることになってさ。
+
+ん？もちろん
+いつもの公園でだよ。
+
+This Christmas I'm gonna eat turkey with RABBIT Squad members.
+
+Huh? At the park where we always stay, of course.
+
+Season_Xmas_2	
+Duration: 5 seconds.0:05	
+ん？消防法……？
+なにそれ？
+
+Hm? The Fire Safety Act...? What's that?
+
+Season_Halloween	
+Duration: 9 seconds.0:09	
+このカボチャのランタン……
+あの粉をかけたらもっと
+綺麗に燃えそうじゃん……
+
+はあ、はあ……
+
+This jack-o'-lantern... Wouldn't it burn more nicely if I put in some white phosphorous powder...
+
+*pant* *pant*
+
+ExWeapon_Get	
+Duration: 10 seconds.0:10	
+RABBIT-224式拳銃、
+確かに受け取った。
+……ねぇ、これ結構小さいけど、
+ちゃんと火力出る？
+
+RABBIT Type 224 pistol received... Um, it's kinda small though. I need a little more ka-boom!
+
+Memorial lobby
+Name		Transcription
+Japanese	English
+MemorialLobby_1	
+Duration: 11 seconds.0:11
+Duration: 8 seconds.0:08	
+先生……世の中には
+色んなものがあるでしょ。
+
+押しちゃいけないボタンとか、
+超えちゃダメな一線とか。
+
+中には、一度選んだら
+取り返しのつかない、破滅に
+繋がるようなものもある。
+
+Sensei, there are many taboos in this world.
+
+Buttons that shouldn't be pressed, lines that shouldn't be crossed...
+
+And choices that can lead you to irreversible destruction.
+
+MemorialLobby_2	
+Duration: 8 seconds.0:08
+Duration: 4 seconds.0:04	
+一歩間違えたら終わり、
+それでも自分の心を満足
+させられるかもしれない……
+
+そんな時、先生はどうする？
+
+You can lose everything with one wrong step.
+
+What would you choose, Sensei?
+
+MemorialLobby_3	
+Duration: 6 seconds.0:06	
+無意味な質問だってことは
+分かってるよ。
+先生は真面目だしね。
+
+I know it's a meaningless question. You aren't tempted like I am.
+
+MemorialLobby_4	
+Duration: 7 seconds.0:07
+Duration: 6 seconds.0:06	
+でも私は……その一線を、
+超えちゃうかもしれない。
+
+だってその破滅の瞬間は、
+私自身を証明できる
+機会でもある。
+
+But I...might end up crossing the line.
+
+Because that moment of destruction is also the moment I prove myself.
+
+MemorialLobby_5	
+Duration: 3 seconds.0:03
+Duration: 6 seconds.0:06	
+だから、先生……
+
+その一線……
+私と一緒に、超えてみない？
+
+So, Sensei.
+
+Would you...like to cross the line with me?
+
+Tactics and growth
+	Some of the lines in this section are not extracted from the game. They are transcribed and translated manually and may contain errors. If you see a mistake, please make corrections by editing this page.
+Name		Transcription
+Japanese	English
+Formation_In_1	
+Duration: 5 seconds.0:05	
+なになに？どこかから危険な匂いがするね。
+
+What what? I can smell something dangerous somewhere
+
+Formation_In_2	
+Duration: 4 seconds.0:04	
+私の手伝いが必要って感じ？
+
+You feel like you need my help?
+
+CommonSkill	
+Duration: 2 seconds.0:02	
+ファイアー！
+
+Fire!
+
+ExSkill_1	
+Duration: 3 seconds.0:03	
+くひひ……全弾発射ぁ！
+
+Kuhihi... All missiles go!
+
+ExSkill_2	
+Duration: 4 seconds.0:04	
+はぁ、はぁ……もう我慢できない！
+
+I can not stand it any longer!
+
+ExSkill_3	
+Duration: 3 seconds.0:03	
+いやぁ、ゾクゾクするねぇ……！
+
+Ahh, I'm shuddering!
+
+ExSkill_Level_1	
+Duration: 3 seconds.0:03	
+さあ、派手に行こうか！
+
+Okay, let's go, flashily!
+
+ExSkill_Level_2	
+Duration: 4 seconds.0:04	
+くひひ……これだからやめられない……。
+
+Kuhihi... This is why I can't stop
+
+ExSkill_Level_3	
+Duration: 4 seconds.0:04	
+はぁ、はぁ……綺麗……。
+
+Haah, haah... So pretty...
+
+Growup_1	
+Duration: 3 seconds.0:03	
+くひひ……サンキュー、先生。
+
+Kuhihi... Thank you, Sensei
+
+Growup_2	
+Duration: 3 seconds.0:03	
+もっと、もっとやれるはず……。
+
+I can.. I can do more
+
+Growup_3	
+Duration: 5 seconds.0:05	
+先生が色々くれるから、もうお腹いっぱいだよ……
+
+Because you keep giving me all sorts of things, I'm so full
+
+Growup_4	
+Duration: 6 seconds.0:06	
+昂ってきた……良いねぇ、楽しくなってきたよ！
+
+I'm getting excited, nice, it's getting fun
+
+Relationship_Up_1	
+Duration: 7 seconds.0:07	
+何だか先生には、いっつも助けてもらってばかりな気がするね。くひひ……。
+
+I feel like I'm always getting helped out by you. Kuhihi...
+
+Relationship_Up_2	
+Duration: 5 seconds.0:05	
+なーんかこう……一線を越えそうな感じ。
+
+I feel like.. I'm about to cross the line.
+
+Relationship_Up_3	
+Duration: 5 seconds.0:05	
+……飴、要る？私の食べかけしかないけど。
+
+...Want some candy? I only got my leftovers though
+
+Relationship_Up_4	
+Duration: 7 seconds.0:07	
+先生と一緒なら、ド派手な破滅を迎えるのも……くひひ、
+
+As long as I'm with you, even a spectacular ruin wouldn't be... Kuhihi
+
+
+---
+MomoTalk✕
+
+Moe
+Long time no see, Sensei.
+
+Moe
+Some squad members told me you've been looking for me...
+What's going on?
+Reply
+Hi, Moe.My bad, but can I get some help?
+
+Moe
+Of course I can help you, but...
+I'd never expect you to need my help.
+
+Moe
+Oh, it's not that serious. I just have a feeling something interesting might happen.
+I'll be prepared, then.
+Relationship Event
+To Moe's Relationship Story
+
+MomoTalk✕
+
+Moe
+Sensei, I heard from another student...
+
+Moe
+Is it true that the work PC at Schale lost all its data?
+Reply
+Heeheehee... Right...It's all over... Heeheehee...
+
+Moe
+Wow, Sensei is laughing like me.
+This must be a serious problem.
+You'll know when you get here...
+
+Moe
+Okay. I'll be at Schale in the afternoon.
+Relationship Event
+To Moe's Relationship Story
+
+MomoTalk✕
+
+Moe
+You know what, Sensei?
+
+Moe
+A safety cover installed over a switch or button is often called a "Molly-guard."
+
+Moe
+There's a story behind its name.
+It was invented because of a kid named Molly kept trying to press an emergency switch.
+Reply
+I see.That's interesting.
+
+Moe
+It's kind of a shame when you think about it.
+If I had been born earlier than Molly,
+
+Moe
+the safety cover would have been called a "Moe-guard" by the entire world.
+I don't know if that'd be an honorable title...
+Relationship Event
+To Moe's Relationship Story
+
+MomoTalk✕
+
+Moe
+Hmm, sorry, Sensei...
+
+Moe
+Can you come to Kousagi Park?
+Reply
+I mean, it's fine, but...What are you talking about?
+
+Moe
+The additional supplies I ordered before arrived at the park.
+Other squad members are in the middle of an operation, so I have to organize them myself...
+
+Moe
+There's so much heavy stuff, it's hard to move.
+But more importantly, there are a lot of explosives...
+I'll be right there.
+Relationship Event
+To Moe's Relationship Story
+---
+RABBIT Platoon
+Tsukiyuki Miyako
+Moe dislikes Miyako as she never gets to do what she wants whenever Miyako is around taking command.
+
+Advertisement
+Sorai Saki
+The two often get into fights with each other due to how disagreeing the two can be with each other.
+
+Kasumizawa Miyu
+Moe dislikes Miyu for always crying at pretty much everything. Miyu is one of the reasons why Moe wants to get out of the Rabbit Platoon.
+
+Disciplinary Committee
+Sorasaki Hina
+Was involved during Operation False Sanctum in VFC2 against the Iridescent Shiro & Kuro.
+
+Game Development Department
+Was involved during Operation False Sanctum in VFC2 against the Iridescent Shiro & Kuro.
+
+SCHALE
+Sensei
+Similar to Saki, Moe considers Sensei as a suspicious and stupid adult. Unlike Saki who considers them stupid due to her overconfidence, Moe just blatantly calls Sensei stupid because it's in her nature and because she can.
+---
+“	This is RABBIT 3, where is the next bombing site?	”
+~ Kazekura Moe
+
+Kazekura Moe (風倉モエ) is one of the students studying in SRT Special Academy who wields a Handgun.
+
+She is one of the four members of RABBIT Platoon.
+
+
+Contents
+1	Profile
+1.1	Introduction
+1.2	Personality
+1.3	Appearance
+1.3.1	Halo
+1.3.2	Firearm
+2	Combat
+2.1	Skills
+2.2	Growth Material
+2.3	Unique Equipment
+2.4	Unique Item
+2.5	Bond
+3	Etymology
+4	Poll
+5	Trivia
+6	See Also
+7	Navigation
+Quick Answers
+fandom logo
+What weapon does Kazekura wield?toggle section
+Kazekura Moe wields a Handgun, specifically a black MTE 224 pistol.
+Provided by: Community
+Who voices Kazekura Moe in Blue Archive?toggle section
+Kazekura Moe is voiced by Izawa Shiori.
+Provided by: Community
+What is the personality trait of Kazekura Moe that makes her dangerous?toggle section
+Kazekura Moe exhibits a dangerous trait of causing explosions and havoc indiscriminately. She derives pleasure from creating problems, even at the risk of self-harm. Her reckless attitude further contributes to her unpredictable nature.
+Provided by: Community
+Profile
+An operator of the RABBIT platoon belonging to SRT Special Academy. Her callsign is "RABBIT3".
+
+Moe enlisted in the SRT Special Academy because of its focus on firepower, but the academy was suddenly shut down and now she is sleeping outdoors with the other platoon members in the park. She's got a weird taste for blowing things up and ruining things, but she's a solid operator. Moe also has a serious sweet tooth and is rarely seen without a candy bar in her mouth.
+
+Introduction
+A member of the RABBIT Platoon of SRT Special School. She is a dangerous girl who gets a thrill out of unleashing massive firepower without regards to any short or/and long term consequences. Her reason for not leaving SRT is due to her wanting to use the most advanced high explosive weapons.
+
+Personality
+Moe has an addiction towards causing explosions and wreaking havoc whenever she gets the chance to. She also loves causing problems regardless of the consequences, including inflicting pain onto herself to an extent.
+
+Appearance
+Moe has brown hair that's tied into low pigtails using hair ties that have two white pom-poms. Her eyes are amber in color and she wears a pair of circle glasses.
+
+Halo
+Her halo is a golden ring that's broken up by four small, evenly spaced triangles that point inwards. There is another ring inside it that's smaller in radius and slightly lower.
+
+Firearm
+She uses a black MTE 224 pistol with light blue grips, hammer and flashlight mount. The barrel is painted white.
+
+In her EX Skill, she pilots a blue Sikorsky MH-60L DAP Black Hawk helicopter with a payload of several AGM-114 Hellfire missiles and Hydra 70 rockets loaded from an M261 rocket pod.
+
+Profile
+Age
+15
+Birthday
+September 13th
+Height
+163cm
+School Year
+First Year
+Club
+RABBIT Platoon
+Hobby
+Fireworks

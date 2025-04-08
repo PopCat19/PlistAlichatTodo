@@ -1,0 +1,878 @@
+Normal lines
+Name		Transcription
+Japanese	English
+Title	
+Duration: 2 seconds.0:02	
+ブルー！アーカイブ！
+
+Blue! Archive!
+
+Gachaget	
+Duration: 9 seconds.0:09	
+なんか面白いことないですか～？
+黒崎コユキ、来ちゃいました！！
+に・は・は・は！！
+
+Is there anything fun going on? I, Kurosaki Koyuki, am here! Ni・Ha・Ha・Ha!!
+
+Cafe_monolog_1	
+Duration: 5 seconds.0:05	
+うわぁ！なんだか
+不思議なものが
+いっぱいですね！
+
+Wow, there are a lot of interesting things here!
+
+Cafe_monolog_2	
+Duration: 7 seconds.0:07	
+こ、ここって安全
+地帯ですよね！？
+誰かに連れていかれたり
+とかしませんよね！？
+
+Th-This is a safe zone! No one can get me here, right?!
+
+Cafe_monolog_3	
+Duration: 4 seconds.0:04	
+へぇ、ここが
+噂の……。
+
+Oh, this place is the infamous...
+
+Cafe_monolog_4	
+Duration: 7 seconds.0:07	
+もしかしてここって……
+騒がしい人は追い出される
+システムだったりします
+！？
+
+By any chance...are loud people not allowed here?
+
+Cafe_monolog_5	
+Duration: 4 seconds.0:04	
+はっ……！！
+……お腹空いたぁ。
+
+*gasp* ...! I'm hungry.
+
+LogIn_1	
+Duration: 5 seconds.0:05	
+お帰りなさい、先生！
+
+待ちくたびれましたよ～！
+
+You came, Sensei!
+
+I've been waiting for you for so long!
+
+LogIn_2	
+Duration: 10 seconds.0:10	
+にはは、先生！
+
+……え？いえ？
+何も触ってませんよ？
+
+多分……？
+
+Nihaha, Sensei!
+
+...Huh? No, I didn't touch anything.
+
+Maybe...?
+
+Lobby_1	
+Duration: 8 seconds.0:08	
+なにかお役に立ちたいです～
+
+もしかして……
+じっとしているほうが
+役に立ったり？
+
+Can I help you with anything?
+
+Or should I just help you by not doing anything?
+
+Lobby_2	
+Duration: 6 seconds.0:06	
+計算……ですか？
+
+楽勝ですよ！
+好きじゃないだけで。
+
+Calculations?
+
+They're easy! Not that I like doing them, though.
+
+Lobby_3	
+Duration: 8 seconds.0:08	
+もしかして、パスワードを
+確認するために呼びました？
+
+私はメモ帳じゃないですよ～？
+
+Did you call me to find a password, by any chance?
+
+I'm not your notepad!
+
+Lobby_4	
+Duration: 12 seconds.0:12	
+あ、私がここにいるって
+先輩たちに言ってくれました？
+
+ちゃんと連絡してないと、
+あとで怒られちゃうから……。
+
+Oh, did you tell my upperclassmen that I'm here?
+
+If I don't let them know, they'll scold me later...
+
+Lobby_5	
+Duration: 9 seconds.0:09	
+え？退屈じゃないですよ～？
+
+……うん？……さあ？
+なんででしょう？
+
+Huh? I'm not bored.
+
+...Huh? I don't know. Why?
+
+Season_Birthday_Player	
+Duration: 8 seconds.0:08	
+ハッピーバースデー！
+せ・ん・せ・い！
+
+今日は先生のお願い、
+なんでも聞いて
+あげちゃいますよ！
+
+Happy birthday! Se・n・Se・i!
+
+I'll do anything for you today, Sensei.
+
+Season_Birthday	
+Duration: 11 seconds.0:11	
+はいっ！今日は私の
+誕生日です！
+
+にははっ！今日は
+運がいい日だといいなぁ～
+そうじゃないと困ります！
+
+Yup! Today's my birthday!
+
+Nihaha! I hope I'm lucky today. Otherwise, I'll be in trouble!
+
+Season_NewYear	
+Duration: 18 seconds.0:18	
+あけまして
+おめでとうございます～！
+
+うあ～もう1年が
+過ぎちゃった……！
+
+……あれ？年って過ぎるもの？
+それとも来るもの？
+どっちだと思います？
+
+Happy New Year!
+
+Argh! It's already the New Year!
+
+Hmm? When the sun rises in the New Year, is it a new sun? Or is it just the same old sun from last year?
+
+Season_Xmas	
+Duration: 7 seconds.0:07	
+メリークリスマース！
+今日はたくさん遊んで良い日！
+
+そうですよね？
+
+Merry Christmas! We can play all we want today!
+
+Right?
+
+Season_Halloween_1_1	
+Duration: 6 seconds.0:06	
+今日はなんだか、
+変な恰好をした人が
+多いですね～。
+
+A lot of people are wearing strange outfits today.
+
+Season_Halloween_1_2	
+Duration: 14 seconds.0:14	
+……私ですか？
+わ、私～は～そんなこと～
+
+ないような～そうでもない
+……ような？にはは……？
+
+...Me? I-I've never...
+
+I don't know if I have, or...have I...? Nihaha...?
+
+ExWeapon_Get	
+Duration: 18 seconds.0:18	
+えっ……んん？？
+いいんですか？
+これ、本当に大丈夫ですか！？
+先生、もしかして私のこと……
+本当に、信じてくれるんですか……？
+
+No, um... Huh? Eh? Is this okay? Is it really okay? Sensei...do you...really trust me...?
+
+Memorial lobby
+Name		Transcription
+Japanese	English
+MemorialLobby_1	
+Duration: 5 seconds.0:05
+Duration: 9 seconds.0:09	
+先生！見てください！！
+四葉のクローバーですよ！！
+
+どういうこと！？
+さっきまでなかったのに！
+
+もしかして……
+いきなり生えたとか？
+
+Wow, Sensei! An actual four-leaf clover!
+
+What happened?! It wasn't there just a moment ago!
+
+Maybe... It suddenly sprouted?
+
+MemorialLobby_2	
+Duration: 4 seconds.0:04
+Duration: 6 seconds.0:06	
+や、そんなの
+ありえないか……。
+
+見落としてたのかな
+……？
+
+先生はいつ
+気づいたんですか？
+
+No, that doesn't make sense...
+
+Did I not see it...?
+
+When did you spot it?
+
+MemorialLobby_3	
+Duration: 4 seconds.0:04
+Duration: 4 seconds.0:04	
+それに、どうやって、
+こんな……
+
+タイミングよく…
+見つかる、なんて……？
+
+How's this possible...?
+
+It's such perfect timing!
+
+MemorialLobby_4	
+Duration: 1 second.0:01
+Duration: 3 seconds.0:03	
+……！！！
+
+……なるほど……！
+そうですね……！！
+
+...!!!
+
+Yes, yes! I see!
+
+MemorialLobby_5	
+Duration: 2 seconds.0:02
+Duration: 3 seconds.0:03
+Duration: 2 seconds.0:02	
+……はい！
+
+そう考えたほうが、
+きっと……。
+
+……楽しいですもんね！！
+
+Yay!
+
+You'd better think so, because...
+
+It'll be more fun!
+
+Tactics and growth
+	Some of the lines in this section are not extracted from the game. They are transcribed and translated manually and may contain errors. If you see a mistake, please make corrections by editing this page.
+Name		Transcription
+Japanese	English
+Formation_In_1	
+Duration: 2 seconds.0:02	
+やってみよ～！
+
+Let's try it out!
+
+Formation_In_2	
+Duration: 4 seconds.0:04	
+面白いこと、起きますように！
+
+May fun things, please happen!
+
+Formation_Select	
+Duration: 2 seconds.0:02	
+うわぁあああ！？
+
+Uwaa!
+
+Tactic_Defeat_1	
+Duration: 6 seconds.0:06	
+はあ、はあ、ムズイ…。
+
+Haa, haa, so hard...
+
+Tactic_Defeat_2	
+Duration: 4 seconds.0:04	
+思ってたのと違う。
+
+It was different from what I thought...
+
+Tactic_In_1	
+Duration: 4 seconds.0:04	
+げっ！？ちょっと多くないですか！？
+
+Geh, isn't that a bit too much?
+
+Tactic_In_2	
+Duration: 5 seconds.0:05	
+んと……これ全部やるんですか？
+
+Um, are you gonna do all this?
+
+Tactic_Victory_1	
+Duration: 3 seconds.0:03	
+私を呼んだ甲斐、あったでしょ～？
+
+Wasn't calling me worth it?
+
+Tactic_Victory_2	
+Duration: 3 seconds.0:03	
+次も呼んでくださいね～？
+
+Please call me next time too!
+
+Battle_Buffed_1	
+Duration: 4 seconds.0:04	
+はっ、私にくれるんですか！？
+
+Ah! Are you giving it to me?
+
+Battle_BuffSelf_1	
+Duration: 3 seconds.0:03	
+ちゃんとやりますよーだ。
+
+I'll do it seriously!
+
+Battle_Covered_1	
+Duration: 4 seconds.0:04	
+おっとっと、間一髪。
+
+Oops, just a hair's breadth.
+
+Battle_Damage_1	
+Duration: 1 second.0:01	
+ギョアッ！
+
+Gyah!
+
+Battle_Damage_2	
+Duration: 1 second.0:01	
+フガルッ！
+
+Fugaru!
+
+Battle_Damage_3	
+Duration: 2 seconds.0:02	
+あいたたたた。
+
+Owowowow!
+
+Battle_Defense_1	
+Duration: 4 seconds.0:04	
+にははは！させませんよ～だ！
+
+Nihaha! Not letting you!
+
+Battle_In_1	
+Duration: 4 seconds.0:04	
+今は、私が！隊長なんだから！！
+
+I'm the captain now after all!
+
+Battle_In_2	
+Duration: 3 seconds.0:03	
+ぐずぐずしてるヒマはないです！
+
+There's no time to slack off!
+
+Battle_Move_1	
+Duration: 2 seconds.0:02	
+追い込めー！
+
+Charging in!
+
+Battle_Move_2	
+Duration: 2 seconds.0:02	
+このままいきますよ！！
+
+I'll keep on going.
+
+Battle_Recovery_1	
+Duration: 2 seconds.0:02	
+ありがとうございますっ！
+
+Thank you.
+
+Battle_Retire	
+Duration: 3 seconds.0:03	
+うぅ、バタン。
+
+Urgh, ka-thump.
+
+Battle_Shout_1	
+Duration: 2 seconds.0:02	
+ぴゅぴゅぴゅぴゅぴゅーん。
+
+Pyupyupyupyupyuーn
+
+Battle_Shout_2	
+Duration: 2 seconds.0:02	
+ウララララー！
+
+Urarararaー!
+
+Battle_Shout_3	
+Duration: 2 seconds.0:02	
+ばきゅーんばきゅーん。
+
+Bakyuーn
+Bakyuーn
+
+Battle_TacticalAction_1	
+Duration: 2 seconds.0:02	
+はっちゃー！
+
+Hacchaー!
+
+Battle_Victory_1	
+Duration: 4 seconds.0:04	
+楽勝楽勝～！バーン！
+
+Easy win easy win. Bang!
+
+Battle_Victory_2	
+Duration: 3 seconds.0:03	
+ちょろいちょろい！バーン！
+
+Easy easy. Bang!
+
+CommonSkill	
+Duration: 2 seconds.0:02	
+にははははー！！
+
+NiHaHaHaHa!
+
+ExSkill_1	
+Duration: 4 seconds.0:04	
+ど・れ・に・し・よ・う……うええっ！？
+
+Which one should I choose... Wah!
+
+ExSkill_2	
+Duration: 3 seconds.0:03	
+こういう状況なら……うああっ！？
+
+In a situation like this... Wah!
+
+ExSkill_3	
+Duration: 3 seconds.0:03	
+こんな時のために…うわっ！？
+
+For times like this... Wah!
+
+ExSkill_Level_1	
+Duration: 4 seconds.0:04	
+ま……これでいいですよね？
+
+Well, isn't it fine like this?
+
+ExSkill_Level_2	
+Duration: 4 seconds.0:04	
+結果良ければすべてオッケー！……ってね？
+
+So long's the result's good, everything will be ok!
+
+ExSkill_Level_3	
+Duration: 4 seconds.0:04	
+これぞ醍醐味……ってやつ？
+
+Is this what they call, the best part?
+
+Growup_1	
+Duration: 9 seconds.0:09	
+えっ？私に？……本当ですか？
+渡す人を間違えたとかじゃなくて？
+
+Eh? You're giving it to me? Really? You didn't just mistake me for another person?
+
+Growup_2	
+Duration: 12 seconds.0:12	
+にははは……！大きな力だあ……！
+え？大いなる責任？なんですかそれ？
+
+Nihahaha! What a great power! Eh? Great responsibility? What's that?
+
+Growup_3	
+Duration: 8 seconds.0:08	
+誰にも私は止められなーい！
+……先生は除く！先輩たちも除く！
+
+No one can stop me. …Except Sensei! Except my Senpai too!
+
+Growup_4	
+Duration: 15 seconds.0:15	
+あ、これはちょっと……いくらなんでもさすがに……
+いや、むしろ良いのかも？
+にはっ……こんなにしてもらっちゃっていいんですか～？
+
+Ah, even for me this might be a little too much, surely. Wait, this actually might be good.
+Niha! Are you sure about giving this much to me~!?
+
+Relationship_Up_1	
+Duration: 6 seconds.0:06	
+ええっ！？なんですか！？
+プレゼント！？私に！？先生から！？
+
+Eh? What is it, a present? For me? From Sensei!?
+
+Relationship_Up_2	
+Duration: 9 seconds.0:09	
+プレゼント、誠にありがとうございますっ！
+大人相手には礼儀正しく、ねっ！
+
+I sincerely give my thanks for the present that I received. Should always be courteous towards adults, right?
+
+Relationship_Up_3	
+Duration: 5 seconds.0:05	
+私今日、なんかしましたっけ……？
+
+Might have I, done something today?
+
+Relationship_Up_4	
+Duration: 7 seconds.0:07	
+ありがとうございます……
+大切にします……本当に。
+
+Thank you very much. I'll cherish it, truly.
+---
+MomoTalk✕
+
+Koyuki
+Ah.
+
+Koyuki
+Argh. Heh.
+
+Koyuki
+Haha... Seriously.
+
+Koyuki
+Sensei.
+Please help.
+
+Koyuki
+You're my only hope...
+Reply
+Koyuki...?What's wrong?
+
+Koyuki
+Haha!
+It's just...
+Relationship Event
+To Koyuki's Relationship Story
+
+Koyuki
+Ahahaha...
+
+Koyuki
+Hahahahaha!!
+
+Koyuki
+You traitor.
+Reply
+Ahahaha!You should consider the consequences of your actions.
+
+Koyuki
+Haha
+
+Koyuki
+Haha!
+
+Koyuki
+Hahaha
+
+Koyuki
+Hahahaha!
+
+Koyuki
+Ahahahahaha!!
+
+Koyuki
+I won't forget this.
+
+Koyuki
+You'll see, Sensei!!!
+
+MomoTalk✕
+
+Koyuki
+Oh, Sensei. Just one more thing.
+
+Koyuki
+Ah.
+
+Koyuki
+No.
+Reply
+...?What's wrong?
+
+Koyuki
+Oh...
+Nothing at all!
+I'm just excited for work today!
+...Huh? You're excited? About what?
+...Koyuki?
+Relationship Event
+To Koyuki's Relationship Story
+
+MomoTalk✕
+
+Koyuki
+Tonight...
+
+Koyuki
+I'm gonna find out what's important to you.
+- Koyuki the Master Thief
+Reply
+Stay home.No! Stop!
+
+Koyuki
+Ahahaha...
+
+Koyuki
+How about...
+
+Koyuki
+NO.
+Relationship Event
+To Koyuki's Relationship Story
+
+Koyuki
+I'm sorry, Sensei.
+
+Koyuki
+It was...definitely...
+All my fault...
+Reply
+Don't worry about it.I think I'm okay... Maybe...
+
+Koyuki
+Ahahaha...
+Okay.
+
+MomoTalk✕
+
+Koyuki
+Argh!
+
+Koyuki
+This is bad!
+Reply
+The Self-Reflection Room again?You're always in some kind of trouble.
+
+Koyuki
+Hey! No!
+I'm not like that at all!
+
+Koyuki
+Oh, I'm not asking for your help or anything!
+
+Koyuki
+I just wanted to vent.
+That's it!
+Relationship Event
+To Koyuki's Relationship Story
+
+Koyuki
+Haha!
+
+Koyuki
+Argh. Ahaha.
+What the heck happened? This isn't normal for you!
+Reply
+Hey! Don't laugh!How dare you?!
+
+Koyuki
+Ahahaha!
+I don't know if I've ever laughed so hard!
+
+Koyuki
+Thanks for playing along, Sensei.
+Let's take it all the way next time!
+I'll study up on some strategies.
+
+Koyuki
+...I promise!
+The two of us, together!
+
+MomoTalk✕
+
+Koyuki
+Huh.
+
+Koyuki
+I can't find it...
+Reply
+Can't find what?Are you looking for something?
+
+Koyuki
+Okay.
+Well, I expected this...
+
+Koyuki
+But it's still a pain!
+That's it.
+Relationship Event
+To Koyuki's Relationship Story
+
+Koyuki
+Thank you, Sensei!
+
+Koyuki
+For today, I mean.
+
+Koyuki
+I'll cherish this!
+It'll be my most precious heirloom!
+Reply
+This isn't the end.Let's search again later!
+
+Koyuki
+..!
+!!!
+
+Koyuki
+Ahahaha!
+
+Koyuki
+Okay!
+---
+Seminar
+Hayase Yuuka
+During Koyuki's runaway from Millennium in the Bunny Chaser on Board event, Yuuka was responsible for sending in C&C to capture her. Since Yuuka is Millennium's treasurer, she's also responsible for taking into account how much money was lost during the incident.
+
+Advertisement
+Ushio Noa
+During VFC2E4, Koyuki was released from confinement in exchange for her help in dealing with the False Sanctums. For some reason, Koyuki follows Noa's orders but not Yuuka's.
+
+Tsukatsuki Rio
+In V2C2E12, it was speculated that Rio was responsible for sending in Koyuki as a way to distract Seminar and C&C during the Bunny Chaser on Board event while she stole funds from Millennium.
+
+C&C
+Although Koyuki and C&C are opposite sides, they seem to have a somewhat friendly relationship with each other due to their frequent encounters. C&C even knows Koyuki's codename "The White Rabbit."
+
+Mikamo Neru
+During the Bunny Chaser on Board event, Neru chased down Koyuki relentlessly due to how annoying Koyuki's been for her. With how angry and scary Neru seemed, Koyuki was basically running for her life.
+
+Ichinose Asuna
+During the Bunny Chaser on Board event, Asuna won an S-tier membership card despite Koyuki's countless attempts to get one, allowing her to do basically anything around the ship. This led to her freeing her fellow C&C members from custody. Koyuki's downfall was set the moment Neru was released.
+
+Kakudate Karin
+During the Bunny Chaser on Board event, Koyuki used a drone as her last resort on escaping from C&C. Unfortunately, she forgot that Karin is a well-trained sniper. As Karin fired, Koyuki fell into the ocean, causing her to almost drown.
+
+SCHALE
+Sensei
+During the Bunny Chaser on Board event, Sensei was the very first adult Koyuki had ever seen. She was quite intrigued after seeing an adult for the first time. In her bond stories, Koyuki likes to unconver Sensei's secrets without their permission. However, at one moment, she had a rare moment of guilt and embarrassment when she discovered numerous adult magazines that were confiscated from other students.
+---
+Main Story
+Volume 2: Clockwork Flower Pavane
+When Yuuka found out about Rio's embezzlement, she questioned why it is not discovered earlier. Then, Akane mentioned Koyuki's own embezzlement back in Bunny Chaser on Board.
+---
+“	Ha ha ha...! Great power...! What? Great responsibility? What is that?	”
+~ Kurosaki Koyuki, to Sensei
+
+Kurosaki Koyuki (黒崎コユキ) is one of the students studying at Millennium Science School who wields a machine gun.
+
+She is a member of Seminar.
+
+
+Contents
+1	Profile
+1.1	Introduction
+1.2	Personality
+1.3	Appearance
+1.3.1	Halo
+1.3.2	Uniform
+1.3.3	Firearm
+2	Combat
+2.1	Skills
+2.2	Growth Material
+2.3	Unique Equipment
+2.4	Unique Item
+2.5	Bond
+3	Poll
+4	Trivia
+5	Navigation
+Profile
+Genius girl from the Millennium Science School, Koyuki is a troublemaker member of the "Seminar" student council.
+
+Koyuki is a prodigy when it comes to analyzing probabilities, although she herself is completely unaware of it. Koyuki likes games of chance, and constantly tries her luck in various ways. Even when she is in trouble, she never gives up.
+
+Introduction
+Koyuki is a troublemaker who has returned to Millennium's student council Seminar. She has a natural talent for deciphering mathematical codes, but she seems to be completely unaware of it...
+
+A prodigious cryptanalyst who can crack even the toughest digital encryption systems through nothing more than her intuition. Due to the frequency of her encounters with C&C and her general harmlessness, Koyuki is somewhat on friendly terms with C&C and even calls the members of C&C "Senpai." Her nickname is "White Rabbit."
+
+
+Advertisement
+Personality
+Arguably the most irresponsible known student in Kivotos. She seemingly never acknowledges her mistakes and almost always considers what she's doing to be right. This nature of hers causes numerous major problems for Millennium. She also often sticks her nose in other people's business, uncovering others' secrets without their permission simply for fun. Althrough, Koyuki expressed guilt and embarrassment when she discovered numerous adult magazines that were confiscated from other students.
+
+Appearance
+Koyuki has pink hair that's tied off into twintails. Her eyes are magenta with a large yellow sparkle. During her initial debut in Bunny Chaser on Board, Koyuki has pink and yellow hair that's tied off into low twintails and two buns.
+
+Halo
+Koyuki's halo is a pink circle with two spikes at opposite ends. In the center is a six-tooth cog.
+
+Uniform
+During the events of Bunny Chaser on Board, Koyuki wears a white tailcoat, a black leotard, a Millennium access badge, white tights, and black high heels. The inner side of her tailcoat is black with a pattern of yellow crosses. Around her neck is a detached collar and the standard Millennium necktie.
+
+She wears white half-palm gloves and carries a white and black top hat that is yellow inside, though she does not wear. Instead, she wears a pair of black and yellow rabbit ears, completing her playboy bunny look.
+
+Firearm
+She uses a pink (formerly yellow or golden) M60E6 general-purpose machine gun with a black barrel and gas tube. An ammunition counter is present on the "drum" magazine. The Millennium insignia is imprinted on the stock and the magazine.
+
+Profile
+Age
+15
+Birthday
+February 14th
+Height
+149cm
+School Year
+First Year
+Club
+Seminar
+Hobby
+Test one's Luck
+Escaping

@@ -1,0 +1,1018 @@
+Normal lines
+Name		Transcription
+Japanese	English
+Title	
+Duration: 3 seconds.0:03	
+ブルー！アーカイブ！！
+
+Blue! Archive!
+
+Gachaget	
+Duration: 9 seconds.0:09	
+呼ばれて飛び出て！参りました！
+みんなのスーパースター、宇沢レイサ、登場です！
+
+Hi, hello! Everyone's superstar savior, Uzawa Reisa, is here!
+
+Cafe_monolog_1	
+Duration: 3 seconds.0:03	
+ひ、人が多い……。
+
+Oh, this is...a lot of people...
+
+Cafe_monolog_2	
+Duration: 4 seconds.0:04	
+どこにいれば
+いいんだろう……。
+
+Should I just go...?
+
+Cafe_monolog_3	
+Duration: 5 seconds.0:05	
+いや、逆に
+こういう時こそ
+普段どおりに……！
+
+No, I have to push forward as normal!
+
+Cafe_monolog_4	
+Duration: 6 seconds.0:06	
+や、やっぱ
+止めとこう……
+変な人だと
+思われちゃう。
+
+I-I gotta stop... Everyone's gonna think I'm strange.
+
+Cafe_monolog_5	
+Duration: 3 seconds.0:03	
+居心地の
+良い場所ですね！
+
+This seems like a really safe place!
+
+LogIn_1	
+Duration: 5 seconds.0:05	
+おかえりなさい、先生！
+
+宇沢レイサ、
+待機していました！
+
+There you are, Sensei!
+
+Uzawa Reisa, reporting for duty!
+
+LogIn_2	
+Duration: 5 seconds.0:05	
+先生の「登場」ですね！！
+
+それでは、
+今日は何をしましょうか！
+
+Oh! It's Sensei's grand entrance!
+
+So, what's the plan for today?
+
+Lobby_1	
+Duration: 5 seconds.0:05	
+お呼びですか、先生！
+なんでもお申しつけください！
+
+You called me, Sensei? What did you wanna talk about?
+
+Lobby_2	
+Duration: 9 seconds.0:09	
+あっ、もしかして、
+声……大きかったですか？
+
+響いちゃったかも……
+すみません……。
+
+Ah, was my voice...too loud?
+
+Your head was ringing? Oh no! Sorry!
+
+Lobby_3	
+Duration: 9 seconds.0:09	
+ん……不思議です。
+
+ここにくると、
+ちょっとだけ力が
+抜けるというか……。
+
+Hmm. Interesting!
+
+I've noticed that when I come here, some of my tension just goes away!
+
+Lobby_4	
+Duration: 9 seconds.0:09	
+お、お使いでも
+行ってきましょうか？
+
+その……じっと立ってると、
+なんだか落ち着かなくて……！
+
+Um, do you have an errand for me to run, maybe?
+
+It feels a bit weird to just stand here...
+
+Lobby_5	
+Duration: 9 seconds.0:09	
+この先、何があっても
+ご安心ください！
+
+先生のそばには私、
+宇沢レイサが
+ついておりますから！
+
+Have no fear! No matter what happens...
+
+I, Uzawa Reisa, will be by your side, Sensei!
+
+Season_Birthday_Player	
+Duration: 10 seconds.0:10	
+お誕生日おめでとう
+ございます、先生！！！
+
+すっごく特別な日ですから、
+一緒にパトロールなど
+いかがでしょうか！
+
+Happy birthday, Sensei!
+
+Since it's a special day, we should do something special! Ooh, I know! Let's go on a patrol together!
+
+Season_Birthday_1	
+Duration: 10 seconds.0:10	
+あっ、私の誕生日ですか？
+ありがとうございます！
+
+最近、誕生日を
+祝ってくださる方が多くて！
+
+You remembered my birthday? Thanks!
+
+A whole lot of people have wished me a happy birthday this year!
+
+Season_Birthday_2	
+Duration: 8 seconds.0:08	
+……本当、
+長生きしてみるもんですね！
+
+私、まだ15歳ですけど！
+
+It makes me happy to have lived this long!
+
+Even though... Well, it's true I'm only 15...
+
+Season_NewYear	
+Duration: 6 seconds.0:06	
+あけまして
+おめでとうございます、先生！
+
+今年も
+よろしくお願いしますね！
+
+Happy New Year, Sensei!
+
+I'll be counting on you for backup this year!
+
+Season_Xmas_1	
+Duration: 7 seconds.0:07	
+メリークリスマス～！！
+
+え？プレゼント交換？
+
+Merry Christmas!
+
+Huh? A gift exchange?
+
+Season_Xmas_2	
+Duration: 7 seconds.0:07	
+あ、ああっ……！？
+忘れてました…！
+
+あんまりこういうのは、
+慣れてなくて……！
+
+Aaah! I forgot! I forgot!
+
+I'm really not used to this kind of thing...
+
+Season_Halloween_1	
+Duration: 3 seconds.0:03	
+アメがなかったら、イタズラを
+してもらえる日です！
+
+If there's no candy, I won't stand for being teased!
+
+Season_Halloween_2	
+Duration: 3 seconds.0:03	
+……え？解釈が変？
+
+...Huh? Did I interpret something wrong?
+
+ExWeapon_Get	
+Duration: 19 seconds.0:19	
+本当は、まだ実感がありません。
+私は……ちゃんと先生の
+お役に立てているのでしょうか……
+そうだといいなあって、
+いつも心から願っています。
+
+I can't...really believe it. I'm really helping you, Sensei? I always hope I am, but...
+
+Memorial lobby
+Name		Transcription
+Japanese	English
+MemorialLobby_1	
+Duration: 7 seconds.0:07
+Duration: 5 seconds.0:05	
+……なんだか、
+不思議な気分です。
+こうして……
+
+人と一緒に、
+日の出を見るのは
+初めてで。
+
+This is a bit strange. It's...
+
+It's the first time I've watched the sunrise with someone...
+
+MemorialLobby_2	
+Duration: 6 seconds.0:06
+Duration: 6 seconds.0:06	
+そういえば、
+誰かと二人きりで
+過ごした時間も……。
+
+もしかすると、これが
+最長かも……はは。
+
+It may even be...
+
+The longest amount of time I've spent with someone else... haha.
+
+MemorialLobby_3	
+Duration: 6 seconds.0:06
+Duration: 9 seconds.0:09	
+んん……また変なことを
+言ってしまった気がします……。
+
+実はまだ、少し眠くて……
+自分でも何を
+言っているのか、よく……。
+
+Um... Did I say something weird again?
+
+I'm still a little sleepy... I might be rambling.
+
+MemorialLobby_4	
+Duration: 7 seconds.0:07
+Duration: 8 seconds.0:08	
+で、でも先生は……
+なんでも分かって
+くださるから……
+
+今回も……いつもみたいに、
+分かってくださいね。へへ……。
+
+But even so, you always seem to understand me, Sensei.
+
+So, um... Please understand me this time, too. Heehee.
+
+MemorialLobby_5	
+Duration: 4 seconds.0:04
+Duration: 6 seconds.0:06	
+ん……いいですね……。
+
+先生……
+ありがとうございます……
+ひひ……。
+
+Mmm... It's nice...
+
+Sensei... Thanks... Heehee...
+
+Event lines
+Name		Transcription
+Japanese	English
+EventLogin_1	
+Duration: 4 seconds.0:04	
+あっ、先生！
+こっちですよ！
+
+Oh, Sensei! Over here!
+
+EventLogin_2	
+Duration: 7 seconds.0:07	
+自警団の
+スーパーヒーロー！
+
+宇沢レイサ、
+ご挨拶申し上げます！
+
+Here comes the superhero of the Vigilante Crew!
+
+It is I, Uzawa Reisa! Greetings!
+
+EventLogin_Season_1	
+Duration: 4 seconds.0:04	
+おおおっ！
+盛り上がって
+まいりました！
+
+Ooooh... Things are heating up!
+
+EventLogin_Season_2	
+Duration: 3 seconds.0:03	
+ラストスパート！です！
+
+The final sprint!
+
+EventLogin_Season_End	
+Duration: 3 seconds.0:03	
+最後まで、
+駆けぬけましょう！
+
+Let's keep trying our best until the very end!
+
+EventLobby_1	
+Duration: 4 seconds.0:04	
+はい！
+宇沢レイサ、
+待機中です！
+
+That's right! Uzawa Reisa's here on standby!
+
+EventLobby_2	
+Duration: 4 seconds.0:04	
+どうかしましたか？
+いつでも
+お声がけください！
+
+What is it? Whatever it is, feel free to let me know!
+
+EventLobby_3	
+Duration: 5 seconds.0:05	
+事件ですか！？
+どこですか！？
+誰の事ですか！？
+
+There was an incident? Where's the culprit?!
+
+EventLobby_4	
+Duration: 7 seconds.0:07	
+んん……
+じっとしているのが、
+一番、難しいです……。
+
+Um... Being still is...really difficult for me...
+
+EventShop_Login_1	
+Duration: 6 seconds.0:06	
+パトロール中に集めた物です！先生もご覧になりますか？
+
+I found some stuff on my patrol today! Lemme show you!
+
+EventShop_Login_2	
+Duration: 10 seconds.0:10	
+この仕事をしていると、
+落とし物をよく
+見かけるんですよね……
+
+無事持ち主が
+見つかるといいんですが
+
+In this line of work...I see a lot of lost stuff.
+
+I sure hope they find their owners!
+
+EventShop_End	
+Duration: 6 seconds.0:06	
+他に何か必要なものは
+ありますか？
+確認してまいります！
+
+Is there anything you need more of? Lemme check and see what we've got!
+
+EventShop_1	
+Duration: 8 seconds.0:08	
+うん？何かお探しですか？
+
+それはここには
+ないものでしょうか？
+
+Hm? What are you looking for?
+
+Is it not here?
+
+EventShop_2	
+Duration: 6 seconds.0:06	
+必要な物が
+ありましたら何なりと！
+
+すぐにお持ちしますので！
+
+Okay! Just let me know if you need anything!
+
+I'll go get it for you right away!
+
+EventShop_Buy_1	
+Duration: 5 seconds.0:05	
+ほお、なるほどなるほど。
+
+Oooh, I see, I see.
+
+EventShop_Buy_2	
+Duration: 3 seconds.0:03	
+んむ！
+それもいいですね。
+
+Hm! Yep, that's good too!
+
+EventShop_Buy_3	
+Duration: 3 seconds.0:03	
+お探しのものは、
+そちらでしたか！
+
+So, that's what you needed?
+
+EventShop_Buy_4	
+Duration: 3 seconds.0:03	
+はい、こちらです、
+どうぞー！
+
+Okay! Here it is!
+
+EventMission_Login_1	
+Duration: 8 seconds.0:08	
+あっ！
+こんにちは、先生！
+
+解決しなきゃいけない
+事件が山積みです！
+
+Oh! Hey there, Sensei!
+
+There's a whole mountain of things to do!
+
+EventMission_Login_2	
+Duration: 5 seconds.0:05	
+リストをご用意しました！
+一緒にチェックしていきましょう！
+
+So...I made a list! Let's check everything off together.
+
+EventMission_1	
+Duration: 5 seconds.0:05	
+うん……？先生？
+どうしました？
+
+Huh? Sensei? What's wrong?
+
+EventMission_2	
+Duration: 4 seconds.0:04	
+集中！
+作業に集中してください！
+
+Concentrate! We gotta focus, okay?
+
+EventMission_Get_1	
+Duration: 4 seconds.0:04	
+おおー！
+さすが先生です！
+
+Wow! I knew it, Sensei!
+
+EventMission_Get_2	
+Duration: 3 seconds.0:03	
+いいですね！順調です！！
+
+Nice! It's all going so well!
+
+Tactics and growth
+	Some of the lines in this section are not extracted from the game. They are transcribed and translated manually and may contain errors. If you see a mistake, please make corrections by editing this page.
+Name		Transcription
+Japanese	English
+Formation_In_1	
+Duration: 3 seconds.0:03	
+ついに！私の出番ですね！
+
+At last, It's my turn!
+
+Formation_In_2	
+Duration: 3 seconds.0:03	
+はい！いつでもいけますよ！
+
+Yes! I can go anytime!
+
+Formation_Select	
+Duration: 5 seconds.0:05	
+宇沢（うざわ）レイサにお任せください！
+
+Leave everything to... Uzawa Reisa!
+
+Tactic_Defeat_1	
+Duration: 4 seconds.0:04	
+うわぁっ…ごめんなさい…
+
+Uwaa... I'm sorry...
+
+Tactic_Defeat_2	
+Duration: 4 seconds.0:04	
+私がもっと、ちゃんとしていれば…
+
+If only I've... been more diligent...
+
+Tactic_In_1	
+Duration: 5 seconds.0:05	
+私の力が必要でしたら、どこにでも！
+
+If my help's needed, I'll go anywhere!
+
+Tactic_In_2	
+Duration: 6 seconds.0:06	
+皆さんと一緒に、私、宇沢（うざわ）レイサが参ります！
+
+Together with everyone, I, Uzawa Reisa, is heading out!
+
+Tactic_Victory_1	
+Duration: 3 seconds.0:03	
+ふう！楽勝でしたね！
+
+Whew! Wasn't that a cakewalk.
+
+Tactic_Victory_2	
+Duration: 5 seconds.0:05	
+ふう！正義は必ず勝つんです！
+
+Whew! Justice always prevails!
+
+Battle_Buffed_1	
+Duration: 3 seconds.0:03	
+あ、ありがとうございます……。
+
+T-Thank you very much...
+
+Battle_BuffSelf_1	
+Duration: 4 seconds.0:04	
+最大出力で、行きますよ！
+
+Moving with maximum output!
+
+Battle_Covered_1	
+Duration: 2 seconds.0:02	
+させません！
+
+I won't let you!
+
+Battle_Damage_1	
+Duration: 1 second.0:01	
+ぐっ
+
+Oow
+
+Battle_Damage_2	
+Duration: 1 second.0:01	
+うっ
+
+Oof
+
+Battle_Damage_3	
+Duration: 1 second.0:01	
+ぐいっ
+
+Owie
+
+Battle_Defense_1	
+Duration: 2 seconds.0:02	
+無駄ですよ！
+
+It's no use!
+
+Battle_In_1	
+Duration: 4 seconds.0:04	
+おっ！私が先頭なんですね？
+
+Wow! I'm in the lead! ?
+
+Battle_In_2	
+Duration: 4 seconds.0:04	
+恐れることなく、前へ！
+
+With nothing to fear, onwards!
+
+Battle_Move_1	
+Duration: 3 seconds.0:03	
+まだまだ行きますよ～！
+
+I can still keep on going!
+
+Battle_Move_2	
+Duration: 2 seconds.0:02	
+次、いきます！
+
+Moving to the next!
+
+Battle_Recovery_1	
+Duration: 4 seconds.0:04	
+はっ、あ、ありがとうございます……！？
+
+Aah! T-Thank you very much...
+
+Battle_Retire	
+Duration: 4 seconds.0:04	
+ま、まだ…　いけぇ…
+
+I-I can... still...
+
+Battle_Shout_1	
+Duration: 1 second.0:01	
+ハ！
+
+Hah!
+
+Battle_Shout_2	
+Duration: 2 seconds.0:02	
+ヤア！
+
+Yaah!
+
+Battle_Shout_3	
+Duration: 2 seconds.0:02	
+トリャ！
+
+Dorya!
+
+Battle_TacticalAction_1	
+Duration: 2 seconds.0:02	
+はあっ！！
+
+Haa!
+
+Battle_Victory_1	
+Duration: 4 seconds.0:04	
+んむ！当然の結果です！
+
+Umu! The natural outcome!
+
+Battle_Victory_2	
+Duration: 3 seconds.0:03	
+次いきますよ、次！
+
+Next! Moving to the next!
+
+CommonSkill	
+Duration: 4 seconds.0:04	
+必殺！勝利のポーズ！
+
+Finishing Move! Pose of Victory!
+
+ExSkill_1	
+Duration: 2 seconds.0:02	
+とりゃあー！！
+
+Dorya-!
+
+ExSkill_2	
+Duration: 2 seconds.0:02	
+ここに参上！！
+
+Making my entrance!
+
+ExSkill_3	
+Duration: 2 seconds.0:02	
+勝負です！
+
+It's a match!
+
+ExSkill_Level_1	
+Duration: 2 seconds.0:02	
+逃がしませんよ！
+
+You can't escape!
+
+ExSkill_Level_2	
+Duration: 4 seconds.0:04	
+挑戦状を受け取ってください！
+
+Please receive, this letter of challenge!
+
+ExSkill_Level_3	
+Duration: 2 seconds.0:02	
+覚悟してください！
+
+Please prepare yourself!
+
+Growup_1	
+Duration: 4 seconds.0:04	
+こ、これを、私に……ですか？
+
+T-This is... for me?
+
+Growup_2	
+Duration: 5 seconds.0:05	
+ありがとうございます、先生！これからも頑張りますね！
+
+Thank you so much, Sensei! I'll keep on doing my best!
+
+Growup_3	
+Duration: 5 seconds.0:05	
+宇沢（うざわ）レイサの成長に、終わりはありません！
+
+Uzawa Reisa's growth, has no ending!
+
+Growup_4	
+Duration: 7 seconds.0:07	
+成長には責任が伴うもの！もっともっと頑張ります！
+
+With growth together comes responsibility. I'll be working hard even further!
+
+Relationship_Up_1	
+Duration: 9 seconds.0:09	
+先生さえよろしければ……
+その、先生の護衛をもっとしたいです……！
+
+If it's okay with you Sensei, um... I'd like to keep on being your bodyguard!
+
+Relationship_Up_2	
+Duration: 12 seconds.0:12	
+先生には……その、情けないところを多くお見せした気もしますが……
+大丈夫、ですよね……？
+
+I feel like I've shown a lot of shameful sides to you Sensei, but um... that's okay, right?
+
+Relationship_Up_3	
+Duration: 6 seconds.0:06	
+私がいまここにいるのは、
+全部先生のおかげです。
+
+The fact that I'm here now, everything is all thanks to you, Sensei!
+
+Relationship_Up_4	
+Duration: 8 seconds.0:08	
+これまで通り……
+いえ、これからも！よろしく！お願いいたします！
+
+Just like before... No! From here on out! Please take care of me!
+---
+MomoTalk✕
+
+Reisa
+Hello Sensei!
+
+Reisa
+It is I, Uzawa Reisa!
+Reply
+Hello, Reisa.Oh. Reisa. What is it?
+
+Reisa
+Oh!
+Uh. Um.
+
+Reisa
+That was all, actually.
+You said I could get in touch with you about anything...
+
+Reisa
+Umm...
+
+Reisa
+I'm sorry!!
+Relationship Event
+To Reisa's Relationship Story
+
+Reisa
+Sensei!
+
+Reisa
+It's me, Reisa!
+
+Reisa
+
+
+Reisa
+Dun dun dun... Ta-da!!
+Reply
+Haha.Seems like you had a good time.
+
+Reisa
+Yep!
+Even more than I expected to!
+Because, like...
+
+Reisa
+Everything went so well! In fact, it was so smooth that I'm a bit embarrassed I was worried in the first place.
+Like, was I the only one worried at all?
+
+Reisa
+Anyway! Whatever.
+
+Reisa
+Thank you!!
+
+MomoTalk✕
+
+Reisa
+Sensei!
+
+Reisa
+Can I ask you something? Is that okay?
+Reply
+Hm? Reisa?What did you want to ask?
+
+Reisa
+So um...
+I thought maybe you'd know a lot about getting over exhaustion!
+...Getting over exhaustion?
+
+Reisa
+Please!
+Please teach me how you do it!
+Relationship Event
+To Reisa's Relationship Story
+
+Reisa
+Woooow!
+
+Reisa
+I fell asleep! I fell asleep right here!
+Sorry I was in a hurry and couldn't say goodbye though!
+Reply
+It's all right.I'm just glad you got some rest.
+
+Reisa
+Yes!
+
+Reisa
+Oh!
+Plus I already talked to my friends in the Vigilante Crew! And there were totally no problems.
+
+Reisa
+We figured out a whole schedule for patrolling and days off.
+And it's perfect!
+
+Reisa
+Thank you!
+
+MomoTalk✕
+
+Reisa
+Sensei!
+
+Reisa
+Hey! Are you free later? What do you think?
+Reply
+Of course.You seem full of energy.
+
+Reisa
+Hahaha!
+
+Reisa
+That's because! So far, I've only gotten things from you. But!
+That changes now! This time everything's on me!
+
+Reisa
+It'll be super duper special!
+Relationship Event
+To Reisa's Relationship Story
+
+MomoTalk✕
+
+Reisa
+Every single time...
+
+Reisa
+Every single late night patrol is an epic battle. A battle with sleepiness. I gotta stay awake!
+Reply
+Really? So late?Do you think something's going to happen?
+
+Reisa
+Oh...
+No, not really! I mean, the chance is really low. It'll probably be fine!
+
+Reisa
+But you never ever know for sure!
+
+Reisa
+Anyway, good luck with whatever you're working on tonight.
+Goodnight!
+Relationship Event
+To Reisa's Relationship Story
+
+Reisa
+Aughhh!
+
+Reisa
+As soon as I came to I realized...I've been a huge pain!
+Reply
+You're not a pain at all.I'm just glad you didn't catch a cold.
+
+Reisa
+Haha!
+Yep! Right as rain! Thanks to you, Sensei!
+
+Reisa
+And also, I noticed... the moon we saw on patrol, and the early morning sun...
+They were so beautiful!
+
+Reisa
+And I would never have even thought about it if I was on my own!
+
+Reisa
+Sensei.
+
+Reisa
+Thank you.
+---
+Trinity Vigilante Crew
+Morizuki Suzumi
+A fellow member of the Trinity Vigilante Club who shares the same passion for upholding justice. In contrast to Reisa's recklessness, Suzumi acts more responsibly and always has to deal with the problems caused by Reisa.
+
+After-School Sweets Club
+Kyouyama Kazusa
+A long time rival for Reisa. The only person Reisa could never beat in a duel ever since middle school. Despite Kazusa having taken a different approach in life than her old self, it took some time and convincing for Reisa to realize that Kazusa has changed for the better.
+---
+Backstory
+The only information known about Reisa is she has been always "on a conquest of justice" since her middle school, where she always picks a fight with thugs around Kivotos. Among all thugs she has encountered, she claims she has defeated them all except Kyouyama Kazusa, which she calls as Cath Palug. She enrolled into Trinity High School and joins the Trinity Vigilante Crew with the same reason of defeating the thugs, and especially Kazusa, without realising Kazusa already quitted being a thug.
+
+Event Story
+A Tale of After-School Sweets
+Uzawa Reisa appeared when Sensei was talking with Kazusa, where Kazusa pointed out Reisa was the stalker that followed her recently. Reisa immediately ambushed Kazusa, forcing Kazusa and Sensei to run far away from Reisa. After they are safely in Trinity campus, Kazusa revealed about her thug past and her affair with Reisa.
+
+Sensei later met with Suzumi to know more about Reisa's behavior of "attack-first, think later" and as she is going to text Reisa to meet them together, Reisa texted her requesting for backup fighting the thugs. After fighting all the thugs together with Suzumi and Sensei, Reisa finally recognizes Sensei as "the person abducted by Kazusa". Reisa tried to explain her specific circumstances with Kazusa such as calling her Cath Palug, the undefeatable terror that used to haunt Kivotos (which is exaggerated for her thug history). However, Sensei revealed to Reisa that Kazusa has stopped being a thug and is now a normal student, letting Reisa left disappointed with that fact.
+
+Some day after that, Reisa appeared when she encountered the After-School Sweets Club dressing as thugs (in order for Kazusa to feel in peace with her past, after meeting Sensei earlier). She challenged Kazusa again openly, which also reveals her past in the open, much to Kazusa's annoyance. Reisa, originally unconscious after the battle later heard about the argument between Kazusa and the club members, before witnessing Kazusa leaving the place.
+
+Reisa met with Sensei later at night where she accepted the fact Kazusa is not a thug anymore, before some group of thugs came and attacked her. Together with Sensei, she fought back the thugs and realized that the incident during the day has triggered other thugs to target her. As an apology, she requested Sensei to send another "letter of challenge" to Kazusa, proclaiming she would not bother her anymore.
+
+Sensei gives the letter to Kazusa, and as Kazusa thought something has happened to Reisa that led her to do this, they went to the back alleys and met other Sweets Club members. There, they found Reisa fighting the thugs alone. Kazusa stepped in by planting a bomb, which made Reisa unconscious in process, and the whole After School Dessert Club joins the fight and defeated the thugs. Reisa went unconscious until the next morning.
+
+As Kazusa and Sensei gone back later after having a small talk, they met Reisa in the clubroom, surprising Kazusa. The situation was quite chaotic as Reisa keeps challenging Kazusa to fight her, with Sensei and the rest of the members only watched from the side.
+---
+“	To those who seek justice, there is...me. Yes, I am the superstar Reisa Uzawa, I am here to see you!	”
+~ Uzawa Reisa
+
+Uzawa Reisa (宇沢レイサ) is one of the students studying in Trinity General School who wields a Shotgun.
+
+She is a member of the Trinity Vigilante Crew.
+
+
+Contents
+1	Profile
+1.1	Introduction
+1.2	Personality
+1.3	Appearance
+1.3.1	Halo
+1.3.2	Uniform
+1.3.3	Firearm
+2	Combat
+2.1	Skills
+2.2	Growth Material
+2.3	Unique Equipment
+2.4	Unique Item
+2.5	Bond
+3	Poll
+4	Trivia
+5	References
+6	Navigation
+Advertisement
+Profile
+A member of Trinity Integrated Academy's Vigilante Corps, who patrols all over Trinity and works to maintain public order.
+
+People at times take her to be a mischievous child because Reisa says things that don't make sense, but she's more serious about the vigilante activities than anyone else around. She has a habit of referring to herself by different names.
+
+Introduction
+A hotheaded and headstrong girl belonging to Trinity's Vigilante Crew, who works hard to maintain security in Trinity. Even before becoming a highschooler, Reisa has enjoyed pouncing at delinquents she hears to be strong. Now a member of the Vigilante Crew, she takes her vigilante activities more seriously than anyone else. However, the way she says her name changes every time she comes forward...Apostle of Justice...Arbiter of Justice? The Knight of Trinity?
+
+Personality
+A strike-first, think-after type of person. She is, just like the other members of her club, eager to uphold justice although over-eagerness can lead to problems. She is also quite stuck in the past, refusing to believe that some things can and do change as time goes by.
+
+Appearance
+Reisa has waist length hair, consisting of uneven baby blue, and baby pink streaks. A purple star hairpin on her left. She has gray-ish blue eyes.
+
+Halo
+Reisa's halo has a pink star inside of another pink star, the latter having rounder edges.
+
+Uniform
+She wears a, gray sailor shirt with a white collar, black ribbon, and black buttons. A black coat on top, with white lines at the cuffs, and a bumch of badges close to the right shoulder. For legwear, she wears a grey pleated skirt with a black line along the bottom, a pair of boot socks, which are also blue and pink. The same applies to her shoes, which in addition have white soles, and toe caps, silver laces, and blue tounges.
+
+Firearm
+She uses a Standard Manufacturing DP-12 double-barreled pump action shotgun painted in pink, light blue, and yellow star patterns. The barrel, tube magazine, and sight rails retain their black finish.
+
+Profile
+Age
+15
+Birthday
+May 31st
+Height
+153cm
+School Year
+First Year
+Club
+Trinity Vigilante Crew
+Hobby
+Duel Application
+Self-Introduction

@@ -1,0 +1,673 @@
+Normal lines
+Name		Transcription
+Japanese	English
+Title	
+Duration: 4 seconds.0:04	
+ブルーアーカイブ
+
+Blue Archive
+
+Gachaget	
+Duration: 7 seconds.0:07	
+きひひひひひひいっ～～
+きゃははははは！
+
+Keeheeheehee! Kyahahaha!
+
+Cafe_Act_1	
+Duration: 6 seconds.0:06	
+あ…。うあああ…。
+どうしよう、どうしよう。
+
+Ugh. What do I do? What do I do?
+
+Cafe_Act_2	
+Duration: 3 seconds.0:03	
+話かけないで
+ください…。
+
+Please don't talk to me...
+
+Cafe_Act_3	
+Duration: 3 seconds.0:03	
+私は端っこに
+います…。
+
+I'll be in that corner...
+
+Cafe_Act_4	
+Duration: 3 seconds.0:03	
+こ、こんにちは…。
+
+Ah, hello...
+
+Cafe_Act_5	
+Duration: 4 seconds.0:04	
+う、うあああ…。
+
+U-Ugh.
+
+LogIn_1	
+Duration: 7 seconds.0:07	
+こ…こんにちは。先生。
+私がここで見張ってました。
+
+Oh... Hello, Sensei. I've been standing guard over here
+
+[note 1]
+LogIn_2	
+Duration: 5 seconds.0:05	
+ツルギ、待機中！
+よ、よろしくお願いします！！
+
+Tsurugi, standing by! I-I'm ready to learn!
+
+Lobby_1	
+Duration: 9 seconds.0:09	
+きょ、今日も
+良い一日ですねええっ！！
+
+…ち、違う！これじゃない！
+何をしゃべればいいの！
+
+Today is another great day, isn't it?...No! NO this isn't it! What should i talk about?
+
+[note 2]
+Lobby_2	
+Duration: 13 seconds.0:13	
+きひひ。いひひひひっ～
+
+…あ、あれ？
+み、見てたんですか？
+はぅわわわわわ！？！？
+
+Keeheehee. Heeheehee...!
+
+...Huh? W-Were you watching?
+
+Lobby_3	
+Duration: 5 seconds.0:05	
+あ…。
+な…。
+なんでも話してください。
+
+Um.. T.. Talk to me, anything works
+
+[note 3]
+Lobby_4	
+Duration: 11 seconds.0:11	
+わ、私は
+お、大人の仕事とか
+よく分からないので…！
+
+で、でも！
+ぜひやらせてください！
+
+Since I d-don't know much about grown-up stuff!
+
+Just say the word!
+
+Lobby_5	
+Duration: 10 seconds.0:10	
+（家に帰りたい…。
+一緒にいて嬉しいけど
+何を話せばいいのか…）
+
+(Just let me go home... I like being with Sensei, but I'm not sure what to say...)
+
+[note 4]
+Season_Birthday_Player	
+Duration: 9 seconds.0:09	
+た、誕生日？！
+わ、私は
+何をすればいいですか？
+
+何をしなきゃいけないですか？
+
+B- Birthday?! Wh- What should I do? What must I do?
+
+[note 5]
+Season_Birthday	
+Duration: 11 seconds.0:11	
+た、誕生日？
+私の誕生日ですか？
+
+はい？
+で、で、で、デートですか？
+
+デート？
+
+B-Birthday?! You want to wish me a happy birthday?
+
+Huh? Did you say a d-d-date?
+
+Date?
+
+Season_NewYear	
+Duration: 4 seconds.0:04	
+こ、今年も
+よろしくお願いします～！
+
+H-Here's to spending another year together!
+
+Season_Xmas	
+Duration: 9 seconds.0:09	
+クリスマス…。
+大人のデート…。
+
+うああああ！
+な、なんでもありません！！
+
+Christmas... Today is when adults...
+
+N-Nothing! You didn't hear anything!
+
+Season_Halloween	
+Duration: 10 seconds.0:10	
+ハロウィン…。
+フェスティバル…。
+パーティー…。
+
+はい？
+べ、べつに何も！
+
+Halloween... Festival... Party...
+
+Huh? N-No, I didn't say anything!
+
+ExWeapon_Get	
+Duration: 13 seconds.0:13	
+ふふふふふー
+うふふふふふふふふふー
+くははははははははははははっ～！！
+
+Heh heh heh! Heeheeheeheeheehee! Muhahahahahahahahahahahaha!
+
+Memorial lobby
+Name		Transcription
+Japanese	English
+MemorialLobby_1	
+Duration: 14 seconds.0:14	
+（逃げる？
+今すぐにでも窓から
+飛び降りる？）
+
+（死ぬかな？死ぬよな？
+死にたい…。殺す？
+いや、違う違う！）
+
+(Should I run away? I could always just jump out the window.)
+
+(Will I die? Probably. I want to die... Or maybe I'll kill? No, that won't solve anything.)
+
+MemorialLobby_2	
+Duration: 12 seconds.0:12	
+な、な、な、な、なにを、
+は…話そうと…。
+
+こ、こんなところは…。
+私には似合わないのに…。
+
+Wh-Wh...What are you thinking bringing someone like me to a place like this?
+
+I don't belong here. This is no place for someone like me...
+
+MemorialLobby_3	
+Duration: 8 seconds.0:08	
+あ、うう…。
+まだ私は準備が…。
+
+Oh. Ugh... I'm not really ready...
+
+MemorialLobby_4	
+Duration: 7 seconds.0:07	
+（ぎゃあああああ～～！
+なんでこんなところに
+来ちゃったのおー！！）
+
+(Ahhh! What am I doing right now?!)
+
+Tactics and growth
+	Some of the lines in this section are not extracted from the game. They are transcribed and translated manually and may contain errors. If you see a mistake, please make corrections by editing this page.
+Name		Transcription
+Japanese	English
+Formation_In_1	
+Duration: 4 seconds.0:04	
+きひひひひ～
+
+Formation_In_2	
+Duration: 5 seconds.0:05	
+くくくくくっ。くくっ……
+
+Formation_Select	
+Duration: 3 seconds.0:03	
+ふ～～～ん……
+
+Hmm.
+
+Tactic_Defeat_1	
+Duration: 5 seconds.0:05		
+Tactic_Defeat_2	
+Duration: 5 seconds.0:05		
+Tactic_In_1	
+Duration: 7 seconds.0:07	
+きへへへへへへ、戦いだぁ～～
+
+Kihehe, a battle~.
+
+Tactic_In_2	
+Duration: 7 seconds.0:07	
+くふふふ。きひひひひひっ～
+
+Tactic_Victory_1	
+Duration: 8 seconds.0:08	
+はははは！当然！当然だぁ！
+
+Of course, of course!
+
+Tactic_Victory_2	
+Duration: 8 seconds.0:08	
+きゃはははははっ！勝った、勝ったぜ！
+
+Kyahahaha! ...We won, we won
+
+Battle_Buffed_1	
+Duration: 2 seconds.0:02	
+きひひ……
+
+Battle_BuffSelf_1	
+Duration: 2 seconds.0:02	
+いくぞ…！
+
+Let's go…!
+
+Battle_Damage_1	
+Duration: 2 seconds.0:02		
+Battle_Damage_2	
+Duration: 2 seconds.0:02		
+Battle_Damage_3	
+Duration: 1 second.0:01		
+Battle_Defense_1	
+Duration: 3 seconds.0:03	
+くすぐってぇじゃねぇか！
+
+That tickles
+
+Battle_In_1	
+Duration: 3 seconds.0:03	
+敵は目の前だ！
+
+The enemy is right in front of you.
+
+Battle_In_2	
+Duration: 5 seconds.0:05	
+さあ、暴れる時間だぁ！
+
+It's time to rage.
+
+Battle_Move_1	
+Duration: 3 seconds.0:03	
+次はあっちだぁ！
+
+Next, over there!
+
+Battle_Move_2	
+Duration: 5 seconds.0:05	
+足りねぇ、まだ足りねぇなぁ！！
+
+It's not enough...it's still not enough!
+
+Battle_Recovery_1	
+Duration: 4 seconds.0:04	
+回復だぁ！！
+
+Recovery!
+
+Battle_Retire	
+Duration: 4 seconds.0:04		
+Battle_Shout_1	
+Duration: 2 seconds.0:02		
+Battle_Shout_2	
+Duration: 2 seconds.0:02		
+Battle_Shout_3	
+Duration: 2 seconds.0:02		
+Battle_TacticalAction_1	
+Duration: 2 seconds.0:02	
+そっちかぁ！
+
+There you are!
+
+Battle_TSA_1	
+Duration: 6 seconds.0:06	
+きゃははは！行くぜ！
+
+Hahahaha! Let's go!
+
+Battle_TSA_2	
+Duration: 5 seconds.0:05	
+破壊だ、破壊してやる。
+
+Destroy it, I'll destroy it.
+
+Battle_Victory_1	
+Duration: 6 seconds.0:06	
+ふうう～～～～～～ くひっ？
+
+Battle_Victory_2	
+Duration: 7 seconds.0:07	
+くふ～～～～～ ひゃはっ？
+
+CommonSkill	
+Duration: 5 seconds.0:05	
+ひきゃああああ～～～～～
+
+ExSkill_1	
+Duration: 5 seconds.0:05	
+ひひひひひひひ............
+あ゛ああっ！！
+
+ExSkill_2	
+Duration: 5 seconds.0:05	
+ふふふふふふ........
+死ねぇぇぇ！！
+
+Fufufu... die!
+
+ExSkill_3	
+Duration: 4 seconds.0:04	
+くっくっ… くっくっくっ..........
+ちゃーん！
+
+ExSkill_Level_1	
+Duration: 2 seconds.0:02	
+無駄だああ！
+
+It's pointless!
+
+ExSkill_Level_2	
+Duration: 3 seconds.0:03	
+あははははは！
+
+ExSkill_Level_3	
+Duration: 3 seconds.0:03	
+くはははははは～！
+
+Growup_1	
+Duration: 6 seconds.0:06	
+きききききき、まだ、まだだよ、まだ！
+
+Still! Not yet... yet!
+
+Growup_2	
+Duration: 6 seconds.0:06	
+ふふふふふ、もっと、もっと！！
+
+More and more
+
+Growup_3	
+Duration: 6 seconds.0:06	
+敵は？敵はどこだ？この力を使わせろ！！
+
+Where is the enemy? Let me use this power!
+
+Growup_4	
+Duration: 5 seconds.0:05	
+ひひひ、いひひひひひっ～
+
+Relationship_Up_1	
+Duration: 5 seconds.0:05	
+あ… うあ…… ど、どどどどうしよう？
+
+What should I do.
+
+Relationship_Up_2	
+Duration: 7 seconds.0:07	
+こ、こんな時は何て言えばいい…… ですか？
+
+What should I say at a time like this?
+
+Relationship_Up_3	
+Duration: 4 seconds.0:04	
+あ、ありがとう……
+
+Thank you.
+
+Relationship_Up_4	
+Duration: 9 seconds.0:09	
+あ、うあ… 私はこういうのよく分からなくて….
+
+Ah, uh.. I.. don't really understand these kinds of things that well so...
+---
+MomoTalk✕
+
+Tsurugi
+Kiaaaaaak!
+
+Tsurugi
+Kyaaak!
+Aaah!
+
+Tsurugi
+Kyaaaooah...
+Gyaa...
+
+Tsurugi
+...
+Reply
+Wh-What?!Tsurugi?
+
+Tsurugi
+Sorry, wrong person.
+Sincerely, Tsurugi.
+Relationship Event
+To Tsurugi's Relationship Story
+
+MomoTalk✕
+
+Tsurugi
+Kyaa;agjsl
+
+Tsurugi
+Kyahahahaha
+
+Tsurugi
+Oh, pardon me.
+If possible, could you lend me a hand?
+I hope you can help.
+Reply
+I don't know what this is about, but sure.You can ask me anything, Tsurugi.
+
+Tsurugi
+Th-Thank you!
+Th-Th-Then... I'll meet you by the academy!
+Relationship Event
+To Tsurugi's Relationship Story
+
+Tsurugi
+
+
+Tsurugi
+So, um... Sensei.
+
+Tsurugi
+I took a picture with that hot touch-up app...
+D-Do you think it looks okay?
+Reply
+Awesome! It looks great!That's good! This should work!
+
+Tsurugi
+R-Really...?
+Technology nowadays is amazing.
+I don't know if I can submit this to the academy, though...
+
+Tsurugi
+A-Anyway, thank you for today, Sensei!
+
+MomoTalk✕
+
+Tsurugi
+Sensei, what is sweet romance?
+
+Tsurugi
+I read all about it in magazines and novels, but it doesn't seem realistic at all.
+Kyaa;agjsl
+
+Tsurugi
+I'm sorry. I shouldn't have sent that.
+Reply
+Sweet?Tsurugi? Are you feeling okay?
+Relationship Event
+To Tsurugi's Relationship Story
+
+Tsurugi
+Oh, um...
+So...
+
+Tsurugi
+Kyaaaaahaha!
+
+Tsurugi
+I-It's nothing...
+
+MomoTalk✕
+
+Tsurugi
+Sensei, do you think...
+
+Tsurugi
+No, it's nothing.
+Reply
+Tsurugi?Sure. What's going on?
+
+Tsurugi
+I-I'm all flustered right now...
+I'll tell you later!
+
+Tsurugi
+Sincerely, Tsurugi.
+Relationship Event
+To Tsurugi's Relationship Story
+
+Tsurugi
+Sensei! I-I messed up again.
+
+Tsurugi
+Sorry.
+Reply
+Not at all.I'm glad you had fun.
+
+Tsurugi
+R-Really? Okay... Thanks, but...
+I-I wanted to watch something with you...
+
+Tsurugi
+But I've...never picked something for someone to watch... What if you don't like it?
+D-Do you get it?
+Reply
+You can relax.I'll always understand you, no matter what.
+
+Tsurugi
+.......
+
+Tsurugi
+Kehee...
+Kehehehe!
+
+Tsurugi
+.......
+Heehee.
+---
+Justice Task Force
+Hanekawa Hasumi
+Despite Tsurugi's role as the president of the Justice Task Force, Hasumi replaces her for formal matters due to Tsurugi's destructive behavior depite Hasumi having the role of vice president.
+
+Shizuyama Mashiro
+A fellow member of the Justice Task Force. She was also there during the Summer Sky's Wishlist event to support Tsurugi.
+
+Nakamasa Ichika
+A fellow member of the Justice Task Force. Due to her laid-back personality, her "attempts" to calm Tsurugi down always fail, especially when the latter breaks through walls.
+
+Supplementary Lessons Department
+Ajitani Hifumi
+During the Summer Sky's Wishlist event, Hifumi helped in checking the list they needed to make sure Tsurugi had a good time in the beach.
+
+Shirasu Azusa
+Azusa played a part in helping clear the list they had for Tsurugi in the Summer Sky's Wishlist event.
+
+SCHALE
+Sensei
+Despite Tsurugi's belligerent and deranged attitude, she often can't help but expose her true shy self whenever she's around Sensei.
+---
+“	Destruction! I'll destroy it!!!!	”
+~ Kenzaki Tsurugi
+
+Kenzaki Tsurugi (剣先ツルギ) is one of the students studying in Trinity General School who wields a Shotgun.
+
+She is the chairwoman of the Justice Realization Committee.
+
+
+Contents
+1	Profile
+1.1	Introduction
+1.2	Personality
+1.3	Appearance
+1.3.1	Halo
+1.3.2	Uniform
+1.3.3	Firearm
+2	Combat
+2.1	Skills
+2.2	Growth Material
+2.3	Unique Equipment
+2.4	Unique Item
+2.5	Bond
+3	Trivia
+4	See Also
+5	Navigation
+Advertisement
+Profile
+While enrolled as a Student of Trinity Joint Academy, and president of the Justice Actualization Committee, Tsurugi is also Trinity's strategic weapon.
+
+She is of a violent and trigger-happy disposition, and possesses a destroy-first think-later attitude towards whatever she finds disagreeable.
+It is due to the efforts of its vice-president, Hasumi, that the Justice Actualization Committee is (just about) kept under control. Despite Tsurugi's uncontrollable and ferocious nature, she can't help but reveal her feminine side when face to face with Sensei and unable to hide her shyness.
+
+Introduction
+While enrolled as a student of Trinity and chairman of the Justice Realization Committee, Tsurugi is also the Trinity's strategic weapon.
+
+She is belligerent, violent, and possesses a destroy-first, think-later attitude towards whatever she finds disagreeable. Due to the efforts of its vice-chairman, Hasumi, the Committee has (just barely) kept under control.
+
+Tsurugi may be an uncontrollable mad dog, but in front of Sensei, she can't help but reveal her feminine side and is unable to hide her shyness.
+
+Personality
+At first glance, Tsurugi gives the appearance of a deranged psycho. When in battle, she has a habit of a destroy-first, think-later attitude and often laughs uncontrollably. However whenever she's around Sensei as well as her friends, she easily shows her true colors, she gets very shy, shows her feminine side, and has a heart of gold. And in combat, Tsurugi is actually a professional, calm and thoughtful tactician who always thinks what to do first and what to do last.
+
+Appearance
+She has long, wavy black hair. She has a red, sharp-looking choker, and a red rim on her collar.
+
+Halo
+Tsurugi's halo was a bloody red circle dripping from the rim.
+
+Uniform
+She has black messy long hair reaching the floor with straight bangs and two long cowlicks, dark red eyes, and large black disheveled angel wings on the back.
+
+She wears a standard uniform, wearing a black sailor dress with red strip on the sleeves, her black tattered skirt tainted with blood splotches all over and red untied ribbon on the neck. She also wears a red webbed choker on her neck, black nail polish, and black boots with red shoelaces.
+
+Firearm
+Tsurugi UE Schematic
+Blood & Gunpowder
+
+She uses a pair of brown Winchester Model 1887 lever action shotguns with a blood stained black chrome receiver. Her club's name is imprinted on the left side of the handguard.
+
+Profile
+Age
+17
+Birthday
+June 24th
+Height
+162cm
+School Year
+Third Year
+Club
+Justice Realization Committee
+Hobby
+Watching Movies
+Reading (Romantic Novels)

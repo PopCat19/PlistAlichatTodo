@@ -1,0 +1,956 @@
+Normal lines
+Name		Transcription
+Japanese	English
+Title	
+Duration: 4 seconds.0:04	
+ブルーアーカイブ……うふふ。
+
+Blue Archive. Heeheehee.
+
+Gachaget	
+Duration: 14 seconds.0:14	
+うふふ……ようやく見つけました。
+もう逃がしませんわ、あなた様♥
+もう私のお傍から、離れないでくださいね……？
+
+Heeheehee. Finally found you. I won't lose you again. Please don't leave my sight. ♥
+
+Cafe_monolog_1	
+Duration: 5 seconds.0:05	
+いつもでしたら、
+こんなにゆったりとは
+できませんからね……
+
+Normally, I wouldn't be able to relax like this.
+
+Cafe_monolog_2	
+Duration: 1 second.0:01	
+うふふふふ♡
+
+Heeheehee! ♥
+
+Cafe_monolog_3	
+Duration: 6 seconds.0:06	
+ああっ、あなた様、
+どちらにいらっしゃる
+のですか？
+
+*sigh* I wonder what you're up to.
+
+Cafe_monolog_4	
+Duration: 1 second.0:01	
+あらあら。
+
+Oh, dear.
+
+Cafe_monolog_5	
+Duration: 4 seconds.0:04	
+ふふふ、
+困ってしまいますね。
+
+Heeheehee. That's not good.
+
+LogIn_1	
+Duration: 10 seconds.0:10	
+今お戻りですか、先生？
+
+このワカモ、こちらで
+あなた様のお帰りを
+
+ずっと待っておりました。
+
+You're back, Sensei.
+
+I, Wakamo, have been patiently waiting for your return...
+
+...for a very long time.
+
+LogIn_2	
+Duration: 4 seconds.0:04	
+お待ちしておりました、先生。
+ふふふふふ♥
+
+I've been waiting, Sensei. Heeheehee! ♥
+
+Lobby_1	
+Duration: 8 seconds.0:08	
+お望みは何でしょう？
+
+たとえどのようなことで
+あっても、準備は
+出来ておりますので。
+
+What would you like?
+
+I'm ready to do anything, no matter what.
+
+Lobby_2	
+Duration: 5 seconds.0:05	
+さあ、この私めに、
+どんなことでも
+ご命令くださいませ。
+
+I'll do whatever you tell me to do.
+
+Lobby_3	
+Duration: 7 seconds.0:07	
+全てあなた様のものです。
+この身も、心も、全部。
+
+Everything is yours. My heart, my soul, everything.
+
+Lobby_4	
+Duration: 6 seconds.0:06	
+お望みのことは、
+何でも仰ってください。
+
+はい、何なりと♡
+
+Just tell me if there's something you want.
+
+Yes, no matter what. ♥
+
+Lobby_5	
+Duration: 10 seconds.0:10	
+ああ、今すぐあなた様に
+抱きしめてほしいのに……
+
+我慢しないといけないだなんて、
+何という過酷な
+試練なのでしょう……。
+
+Ah, I could use a hug right now...
+
+But I have to be patient. Oh, what a difficult test this is...
+
+Lobby_6	
+Duration: 6 seconds.0:06	
+このお面が
+お気に召したのですか？
+
+ふふっ、私も
+すごく気に入っております。
+
+Do you like this mask?
+
+Heehee. I like it as well.
+
+Lobby_7	
+Duration: 9 seconds.0:09	
+お望みでしたら、
+いつでも脱がせていただいて
+構いませんよ……？
+
+……お面の中、
+気になりません？
+
+You can take it off at anytime if you want...
+
+Aren't you curious what's under my mask?
+
+Lobby_8	
+Duration: 5 seconds.0:05	
+私の顔なんて、そんなに
+見つめられましても……。
+
+Even if you look at my face like that...
+
+Lobby_9	
+Duration: 15 seconds.0:15	
+素顔をお見せするのは、
+あなた様にだけですから……。
+
+……ですが、そんなに
+見つめられてしまいますと……
+恥ずかしいです。
+
+You're the only person I'd show my bare face to...
+
+I can feel myself becoming shy when your gaze is upon me.
+
+Season_Birthday_Player	
+Duration: 9 seconds.0:09	
+あなた様が
+お生まれになった日……
+
+こんなにも喜ばしい日に
+ご一緒できるだなんて、
+夢のようです。
+
+The day you were born...
+
+It feels like a dream to be together on such a joyous day.
+
+Season_Birthday	
+Duration: 14 seconds.0:14	
+あら、私の誕生日、
+覚えていてくださったのですか？
+
+ああ、嬉しいです……
+私、もう思い残すことは
+何ひとつございません……。
+
+Oh, my goodness. You remembered my birthday?
+
+I'm so happy. It can't get better than this.
+
+Season_NewYear	
+Duration: 7 seconds.0:07	
+あけまして
+おめでとうございます。
+
+今年もあなた様と一緒に、
+楽しい思い出を作れますよう。
+
+I hope you have a Happy New Year.
+
+I want to make happy memories with you this year as well.
+
+Season_Xmas	
+Duration: 23 seconds.0:23	
+クリスマス、恋人たちは一体
+どのようなことを
+するのでしょうか？
+
+うふふふ、私、
+こういったことに
+あまり詳しくなくって♡
+
+じっくりねっとり、
+教えていただけませんか？
+せ・ん・せ・い？
+
+What do couples do on Christmas?
+
+Heeheehee. I don't know! ♥
+
+Can you teach me, Sen-sei?
+
+Season_Halloween	
+Duration: 10 seconds.0:10	
+このお面は
+ハロウィーン用では
+ありませんのに。
+
+先ほど通りすがりの方に
+そう聞かれて、
+少し悲しい気持ちに
+なってしまいました。
+
+This mask isn't for Halloween.
+
+I'm a little sad because someone asked me that earlier.
+
+ExWeapon_Get	
+Duration: 14 seconds.0:14	
+さあ、このワカモ、
+すでに準備はできております。
+これを使って、あなた様の敵を
+余すことなく排除いたします。
+ふふふふふふふ……。
+
+I, Wakamo, am ready. I will eliminate your enemies with this. Heeheehee.
+
+Memorial lobby
+Name		Transcription
+Japanese	English
+MemorialLobby_1	
+Duration: 10 seconds.0:10	
+嬉しいです……！
+このワカモ、全てはこうして
+あなた様と会うためだけに……！
+
+I'm so happy! I, Wakamo, did everything I could to bring us together, my darling.
+
+MemorialLobby_2	
+Duration: 8 seconds.0:08	
+どうにか直接、
+この気持ちを、この想いを、
+お伝えしたくって……
+
+How I've longed express these feelings to you again...
+
+MemorialLobby_3	
+Duration: 8 seconds.0:08	
+こうしてお会いできたのも
+きっと、赤い糸で結ばれた
+運命のお導き……。
+
+Surely, we owe our reunion to the red thread of fate that binds us together.
+
+MemorialLobby_4	
+Duration: 7 seconds.0:07
+Duration: 6 seconds.0:06
+Duration: 8 seconds.0:08	
+あ、あぁ…… そ、そんなに
+見つめられては……！
+
+いくら私といえども、
+恥ずかしく
+なってしまいます……。
+
+あなた様のその視線だけで、
+身体のあちこちから、
+もどかしさが溢れ出して……っ。
+
+Ah... I... When you look at me like that...
+
+...even I can't help but blush...
+
+I can't hold back my pent-up desires when I feel your gaze upon me.
+
+MemorialLobby_5	
+Duration: 9 seconds.0:09
+Duration: 11 seconds.0:11	
+ですが…… あなた様が
+そうお望みなのであれば……
+はい♡
+
+さあ、どうぞこちらへ。
+もっともっと、私のお傍に……
+うふふふふっ♡
+
+However...if that is what you really want...then, okay. ♥
+
+Come here. Closer... Just a little closer. Right by my side. Heehee. ♥
+
+Event lines
+Name		Transcription
+Japanese	English
+EventLogin_1	
+Duration: 6 seconds.0:06	
+このワカモ、こうして
+あなた様のことを
+捕まえに参りました♥
+
+I, Wakamo, am here to capture you.
+
+EventLogin_2	
+Duration: 11 seconds.0:11	
+私から逃げようとしても
+無駄だということ……
+
+そのお体に、たっぷりと
+教えて差し上げますね♥
+
+No matter how hard you run, you won't escape from me.
+
+I'll make sure you learn that today.
+
+EventLogin_3	
+Duration: 8 seconds.0:08	
+ああ……感じます……
+どこからか、
+先生の気配が……！
+
+Ooo... I can feel you getting closer.
+
+EventLogin_4	
+Duration: 10 seconds.0:10	
+ふふふっ、私のことを
+振り払えるとでも
+お思いですか？
+
+ああ、
+お可愛いらしい……♥
+
+Heehee. Did you think you could get rid of me just like that?
+
+Ah, you're so cute. ♥
+
+EventLobby_1	
+Duration: 6 seconds.0:06	
+ああ、先生…… 今は
+どこにいらっしゃるので
+しょうか？
+
+Oh, Sensei. Where are you?
+
+EventLobby_2_1	
+Duration: 6 seconds.0:06	
+例え、爆炎と火薬の煙が
+立ち込める中であっても……。
+
+All that smoke and gunpowder can't hide you...
+
+EventLobby_2_2	
+Duration: 7 seconds.0:07	
+このワカモ……
+決してあなた様のことを
+見失ったりはしませんわ♥
+
+That's right. I'll never let you go. ♥
+
+EventLobby_3_1	
+Duration: 8 seconds.0:08	
+成程、
+これが巷で流行りの
+
+「隠れん坊」という
+遊戯なのでしょうか？
+
+Is this what folks call...
+
+...hide-and-seek?
+
+EventLobby_3_2	
+Duration: 6 seconds.0:06	
+うふふっ、このような
+余興は嫌いでは
+ありません。
+
+Heehee. I think I like this game.
+
+EventLobby_4	
+Duration: 16 seconds.0:16	
+追いかけて、捕まえれば
+よろしいのですね？
+
+楽しくなって
+まいりました。
+
+もし捕まったら
+その時は……ふふ、
+覚悟してくださいね♥
+
+I'm supposed to chase you around until I catch you, right?
+
+I'm looking forward to it.
+
+Ready or not, here I come. ♥
+
+Tactics and growth
+	Some of the lines in this section are not extracted from the game. They are transcribed and translated manually and may contain errors. If you see a mistake, please make corrections by editing this page.
+Name		Transcription
+Japanese	English
+Formation_In_1	
+Duration: 1 second.0:01	
+は～い
+
+Okay~.
+
+Formation_In_2	
+Duration: 4 seconds.0:04	
+私の方は、準備出来ておりますよ。
+
+I'm ready for your orders.
+
+Formation_Select	
+Duration: 1 second.0:01	
+うふふ♡
+
+Hehehe.
+
+Tactic_Defeat_1	
+Duration: 5 seconds.0:05	
+申し訳ございません、…申し訳、ございません。
+
+I'm so sorry, ...I'm, so sorry.
+
+Tactic_Defeat_2	
+Duration: 3 seconds.0:03	
+あ…、お許しください。
+
+Ah... Please forgive me.
+
+Tactic_In_1	
+Duration: 1 second.0:01	
+始めます。
+
+Let's begin.
+
+Tactic_In_2	
+Duration: 2 seconds.0:02	
+お相手はどちらでしょう？
+
+Which one of you is my opponent?
+
+Tactic_Victory_1	
+Duration: 2 seconds.0:02	
+当然の結果ですね。
+
+It's a natural result.
+
+Tactic_Victory_2	
+Duration: 5 seconds.0:05	
+他には何かお望みですか、先生？
+
+Is there anything else you want? Sensei?
+
+Battle_Buffed_1	
+Duration: 3 seconds.0:03	
+うふふ、ありがたいことです。
+
+Hehehe~, I'm thankful.
+
+Battle_BuffSelf_1	
+Duration: 1 second.0:01	
+あはははー。
+
+Ahahaha!
+
+Battle_Covered_1	
+Duration: 1 second.0:01	
+ふふふ。
+
+Hehehe~
+
+Battle_Damage_1	
+Duration: 1 second.0:01	
+あ~。
+
+Ah~.
+
+Battle_Damage_2	
+Duration: 1 second.0:01		
+Battle_Damage_3	
+Duration: 1 second.0:01		
+Battle_Defense_1	
+Duration: 2 seconds.0:02	
+くだらないですね。
+
+Isn't it useless.
+
+Battle_Entrance_1	
+Duration: 5 seconds.0:05	
+うふふふ、では始めましょうか。
+
+Hehehehe~, So... Shall we begin?
+
+Battle_Entrance_2	
+Duration: 4 seconds.0:04	
+あらあら、皆さん お揃いのようで。
+
+Oh my~, everyone seems to be the same
+
+Battle_Entrance_3	
+Duration: 4 seconds.0:04	
+お待たせいたしました。うふふふふふ。
+
+Sorry to keep you waiting. Ehehehehehe~.
+
+Battle_In_1	
+Duration: 6 seconds.0:06	
+あなた様の敵は……全て、私が壊してみせます。
+
+I will destroy all your enemies.
+
+Battle_In_2	
+Duration: 3 seconds.0:03	
+ああ……ドキドキしてしまいますわ。
+
+Aah, My heart is pounding.
+
+Battle_Move_1	
+Duration: 3 seconds.0:03	
+さあ、引き続き前進しましょう。
+
+Let's keep moving forward.
+
+Battle_Move_2	
+Duration: 4 seconds.0:04	
+まだまだ足りませんね……続けて行きましょう。
+
+It's still not enough. Let's carry on.
+
+Battle_Recovery_1	
+Duration: 2 seconds.0:02	
+あら、ありがとうございます。
+
+Oh my~, Thank you very much.
+
+Battle_Retire	
+Duration: 3 seconds.0:03	
+これは、困りましたね。
+
+This is troublesome.
+
+Battle_Shout_1	
+Duration: 1 second.0:01		
+Battle_Shout_2	
+Duration: 1 second.0:01		
+Battle_Shout_3	
+Duration: 1 second.0:01		
+Battle_TacticalAction_1	
+Duration: 2 seconds.0:02	
+陣形を変えます。
+
+Changing formation.
+
+Battle_Victory_1	
+Duration: 5 seconds.0:05	
+ふふふ。ご満足、いただけましたでしょうか？
+
+Hehehe~, Were you satisfied?
+
+Battle_Victory_2	
+Duration: 4 seconds.0:04	
+はぁん……気持ちいいですね。
+
+Haa~, It sure feels good.
+
+CommonSkill	
+Duration: 1 second.0:01	
+はあっ！
+
+ExSkill_1	
+Duration: 3 seconds.0:03	
+ふふふ、うふふふふ……。
+
+ExSkill_2	
+Duration: 4 seconds.0:04	
+さあ……貫かれたい子は誰かしら？
+
+Who is this child that wants to be pierced?
+
+ExSkill_3	
+Duration: 3 seconds.0:03	
+泣き叫びたい方から順番にどうぞ？
+
+Please take turns for those who want to cry first.
+
+ExSkill_Level_1	
+Duration: 2 seconds.0:02	
+あはははははははっ！
+
+ExSkill_Level_2	
+Duration: 2 seconds.0:02	
+逃がしませんわっ！
+
+I won't let you escape.
+
+ExSkill_Level_3	
+Duration: 3 seconds.0:03	
+そこでお亡くなりになりなさい！
+
+You shall die there.
+
+Growup_1	
+Duration: 8 seconds.0:08	
+私は今のままでも充分に強いですが……
+お望みでしたら、もっと強くなれますよ？
+
+I'm strong enough as I am, but I can be stronger if you wish.
+
+Growup_2	
+Duration: 4 seconds.0:04	
+あなた様のためでしたら……喜んで。
+
+If it's for you, I'd be happy.
+
+Growup_3	
+Duration: 7 seconds.0:07	
+私を必要としてくださるあなた様に、どうすれば恩返しができるでしょうか……
+
+How can I repay you for needing me?
+
+Growup_4	
+Duration: 5 seconds.0:05	
+ああ、私は今、愛されているのですね。
+
+Ah~, I'm loved now.
+
+Relationship_Up_1	
+Duration: 10 seconds.0:10	
+うふふふふ。
+こんなにも心から愛していただけるなんて、私は一体どうすれば良いのでしょう♥
+
+Hehehehe~, What should I do to be able to love you from the bottom of my heart?
+
+Relationship_Up_2	
+Duration: 10 seconds.0:10	
+ああ、この溢れんばかりの幸せ……
+私をこんな風にした責任、取ってくださいませ？
+
+Aah~, This overflowing happiness, Please take responsibility for making me like this.
+
+Relationship_Up_3	
+Duration: 11 seconds.0:11	
+こんなにも私のことを求めてくださるなんて……この身も心も、すべてあなた様に捧げます。
+
+...To think that you want me so much, I dedicate my body and soul to you
+
+Relationship_Up_4	
+Duration: 6 seconds.0:06	
+このワカモ、あなた様のためでしたら何でもしてさしあげますわ。
+
+If it's for your sake, I, Wakamo, will do anything.
+
+
+---
+MomoTalk✕
+
+Wakamo
+Hello, Sensei.
+
+Wakamo
+Heehee. It's Wakamo. I wanted to ask how you're doing.
+Oh. Hi, Wakamo.
+
+Wakamo
+Ah... Your responses are always so kind...
+I keep re-reading that message.
+It really warms my heart.
+Really? Uh, thanks, I think.
+
+Wakamo
+It's already so warm out. The sunshine is so strong that it makes me squint.
+You should be careful when the weather gets warmer.
+The temperature can change so drastically that it could have an impact on your health.
+Reply
+Right, it's important to stay hydrated.Take care of yourself, Wakamo.
+
+Wakamo
+I'm moved that you hold so much concern for me...
+Okay! My mind is made up!
+This monumental moment can't just be inside MomoTalk.
+
+Wakamo
+Please wait for me.
+Darling!
+Huh?
+Um, Wakamo?
+Relationship Event
+To Wakamo's Relationship Story
+
+Wakamo
+I'm so glad we got to talk today.
+I'm looking forward to seeing you again.
+I hope next time we can find a quieter spot.
+
+Wakamo
+Yes!
+If that's what you want, I'll make that happen!
+
+MomoTalk✕
+
+Wakamo
+Sensei, you have the day off today, correct?
+Uh, yeah. You knew that?
+
+Wakamo
+Heehee.
+I always know your schedule, at all times of the day.
+Okay...
+
+Wakamo
+This is a timely day off for a workaholic like you.
+I hope you have a nice day.
+I'll always be following you and wishing for your happiness.
+Uh, thanks. I think.
+Relationship Event
+To Wakamo's Relationship Story
+
+MomoTalk✕
+
+Wakamo
+Hello, Sensei.
+
+Wakamo
+I hope you didn't forget!
+Today's finally the day! You promised to spend an entire day with me!
+You have no idea how many sleepless nights I've spent waiting for today...
+
+Wakamo
+I've planned the perfect date for us. I can barely contain my excitement!
+Sure...
+
+Wakamo
+I'll be waiting for you at the meeting place. Heehee.
+Okay, I'll be right there.
+Relationship Event
+To Wakamo's Relationship Story
+
+MomoTalk✕
+
+Wakamo
+Sensei, if you have the time...
+
+Wakamo
+Do you think you could come see me today?
+Oh, sorry. I have plans today.
+
+Wakamo
+Oh, really? That's too bad...
+
+Wakamo
+Okay, then.
+I desperately wanted you to come with me today, but I know I shouldn't be too clingy.
+I guess... I'll go shopping all alone today.
+Shopping? What are you buying?
+
+Wakamo
+Oh, I need something from the black market...
+You're going to the black market alone?!
+I'll go with you! I'll be right there after I'm done working!
+
+Wakamo
+Oh, you're so sweet.
+Heehee. Okay, I'll be waiting for you.
+Relationship Event
+To Wakamo's Relationship Story
+
+Wakamo
+Thank you for coming shopping with me today.
+
+Wakamo
+I was...
+Very...
+
+Wakamo
+Very very very very very very...
+
+Wakamo
+Very very very very very very...
+
+Wakamo
+Happy to spend time with you today.
+Heeheehee.
+Yeah, same...
+
+Wakamo
+I'll see you again next time.
+I'll be waiting for that day.
+Bye-bye.
+
+MomoTalk✕
+
+Wakamo
+Hello, Sensei.
+Hi, Wakamo.
+
+Wakamo
+I hope I'm not interrupting
+anything important...
+It's okay. I'm free for the moment.
+
+Wakamo
+Is that so? What a coincidence...
+I happen to be free, too!
+
+Wakamo
+Heehee... We shouldn't let such a wonderful coincidence go to waste.
+
+Wakamo
+In celebration of this precious miracle...
+I, Wakamo, will give my all to make you happy today! ♡
+Uh... What do you mean by that...?
+Relationship Event
+To Wakamo's Relationship Story
+---
+Community Safety Bureau
+Nakatsukasa Kirino
+One of the students responsible in apprehending and keeping Wakamo in custody. Kirino is always trying to be vigilant in keeping Wakamo from causing any trouble, but Wakamo is just too intelligent for Kirino, allowing her to escape numerous times.
+
+
+Advertisement
+Nemugaki Fubuki
+One of the students responsible in apprehending and keeping Wakamo in custody. Compared to the hard-working Kirino, Fubuki is quite lazy and apathetic, always telling Kirino to lay off the hard work and not worry about a thing. Wakamo took advantage of this which allowed her to escape numerous times.
+
+Emergency Medicine Club
+Himuro Sena
+One of the students responsible in apprehending and keeping Wakamo in custody. Sena was tasked to patrol around Valkyrie for the Valentine's event. During her patrols however, she encountered Wakamo who escaped prison numerous times and was causing major problems.
+
+Veritas
+Kagami Chihiro
+One of the students responsible in apprehending and keeping Wakamo in custody. Chihiro was responsible for managing and increasing security levels for Valkyrie to ensure Wakamo does not escape. Unfortunately, Wakamo was two steps ahead of her.
+
+SCHALE
+Sensei
+As it turns out, Sensei was one of the main reasons Wakamo was causing trouble around Valkyrie during Valentine's. Since Sensei was originally tasked to patrol around Valkyrie, apprehending Wakamo just so happens to fall in line with their duties. But of course, Sensei did what they do best: talking their students out of their bad habits. They managed to made Wakamo realize her wrongdoings and change for the better.
+
+
+---
+Prologue
+Wakamo was one of the first big problems Sensei tackled in Kivotos. In the wake of the Prime Student Council President's disappearance, she and six other prisoners were part of the wave of crime that took over Kivotos, becoming legendary for breaking out of the Correctional Bureau. They were known as the Seven Prisoners, and they continued to wreak havoc throughout Kivotos.
+
+Wakamo herself ran wild until she ended up in SCHALE. She had no idea of anything inside, but her curiosity had her decide to look at whatever was there, and possibly break it if it was so important to the Student Council.
+
+By the time she was about to take a look at the Schittm Chest however, Sensei arrived in the SCHALE tower just in time. Wakamo was surprised by the sudden arrival, but was even more surprised when nothing else came of it. No threats, no cries for alarm, simply a greeting and asking her how she was. Despite having every chance of silencing the teacher, Wakamo simply squeals and runs away, leaving Sensei behind in confusion. Sensei doesn't tell anyone of this confrontation.
+
+Afterwards, Wakamo mutters ominously to herself and disappears. For the first year of Sensei's stay in Kivotos, Wakamo is merely the first of many problems. She does not make a fuss until one year later.
+
+Advertisement
+Event Story
+Schale's Valentine Patrol & Wakamo's Feast
+On Valentine's day, Sensei is requested by Valkyrie Police Academy to go on a joint patrol, and accepts. During the patrol however, Wakamo strikes for the first time in a year, causing mayhem and havoc wherever she goes. However, when she sees Sensei, she suddenly stops and stares, leaving her wide open. Mysteriously, she is easily defeated and taken into custody by the Community Safety Bureau, leading to a hopefully easygoing Valentine's.
+
+Alas, it is not to be. Wakamo breaks out of custody once again. But when she sees Sensei again she is, once again, easily captured. This pattern repeats several times, with Wakamo escaping from custody, finding Sensei, and then being arrested before finding more ways to break out. Things escalate as she begins to steal and use police equipment, get more backup and cause even more chaos.
+
+When it seems Wakamo is finally arrested, it turns out to be another trick: She got several delinquents to disguise as her and spread chaos around the city, separating Sensei from the other students until Sensei is all alone. The real Wakamo finally reveals herself to the teacher, slowly walking up to him, telling him about how she's waited for this moment for so long...
+
+And instead of attacking Sensei out of revenge as expected, Wakamo takes off her mask and gives Valentine's chocolate. Sensei is shocked by all this, but quickly recovers and manages to throw Wakamo off-balance by telling them the chocolate can't be accepted. After all, Wakamo isn't the only one who was working up the courage to confess such feelings, but her rampage stopped many people from doing so. Wakamo is distraught at having been rejected, but Sensei quickly reassures her that if she can find a way to confess her feelings without hurting others, then her chocolate will be accepted. Despite having only known Wakamo for barely ten minutes, Sensei still considers her a student, and believes she can do it. Wakamo then quickly escapes from the scene, seemingly at large once again.
+
+Shortly afterwards, as Sensei is trying to make sense of the day's events, SCHALE's roof blows up and the culprit reveals herself to be none other than Wakamo, unable to wait to see Sensei again. As Sensei mutters about needing to beef up security, the day ends as Sensei thinks about the chaos of Valentine's and how it all ended with meeting one particularly violent student once again.
+
+Optionally, Sensei can choose to spend Valentine's with her. In disguise and seemingly free from being pursued by the authorities, Wakamo spends some quality time with Sensei. She is seemingly calmer, having not caused any incident since meeting Sensei. Though annoyed by others nearby and tempted to commit violent retribution against those who would interrupt her "date", she marvels at the teacher's peacemaking skills and negotiation. She finally works up the courage to give Sensei chocolate, and it is finally accepted. As Sensei is about to eat it though, Wakamo disturbs the teacher by constantly insisting that the chocolate is "her" and by eating it, Sensei will be taking all of her inside. Creeped out, Sensei questions if there is anything... Unusual within the chocolate, and Wakamo enthusiastically replies that it is simply her undying love. Deciding to leave it to chance, Sensei eats the chocolate and finds it is unquestionably delicious. Wakamo is in ecstasy at the great reception, and Sensei just tries very hard to ignore how Wakamo is acting about it.
+---
+“	Mmmmmmmm...Well then, let's get started, shall we?	”
+~ Kosaka Wakamo
+
+Kosaka Wakamo (狐坂ワカモ) is one of the students studying in Hyakkiyako Alliance Academy who wields a Sniper Rifle.
+
+She does not belong to any club and is independent. However, as one of the seven students who escaped the Federal Correction Bureau, she is a member of the Seven Prisoners.
+
+
+Contents
+1	Profile
+1.1	Introduction
+1.2	Personality
+1.3	Appearance
+1.3.1	Halo
+1.3.2	Uniform
+1.3.3	Firearm
+2	Combat
+2.1	Skills
+2.2	Growth Material
+2.3	Unique Equipment
+2.4	Unique Item
+2.5	Bond
+3	Poll
+4	Trivia
+5	See Also
+6	Navigation
+Profile
+Formerly from Hyakkiyako Alliance Academy, Wakamo is one of the "Seven Prisoners" that escaped from Corrections Bureau after being suspended from school.
+
+Known as the Fox of Calamity for her indiscriminate and large-scale destruction, she is widely feared. Her motives and purpose are shrouded in mystery. Her true face, hidden beneath the mask, is rumored to be as scary as a demon or as ugly as the devil.
+
+Introduction
+Wakamo is a suspended student from Hyakkiyako Alliance Academy and one of the "Seven Prisoners" who escaped from the Federal Corrections Bureau. She is known as the "Fox of Calamity" (災厄の狐) for her indiscriminate and massive acts of destruction, and her motives and purpose are a mystery. She can also be considered as a terrorist mastermind in this case. She is also rumored to be as scary as a demon with her true face hidden beneath her mask...
+
+When she met Sensei for the first time however, she didn't attack nor point a gun at them. For some reason she got upset and ran away.
+
+The Schale's Valentine Patrol & Wakamo's Feast event reveals that she actually fell in love with Sensei at first sight when this happened.
+
+Personality
+Wakamo is naturally inclined to anarchy and destruction, preferring to cause chaos and rampage wherever she goes. This got her into trouble with the police and imprisoned in the Correctional Bureau before she escaped.
+
+After she meets Sensei however, this changes... Slightly. Though she still has a desire for violence, sadism and destruction, her feelings are tempered by her obsession and love for Sensei. Since Sensei convinced her to restrain herself, Wakamo generally tries to hold back and not cause too much trouble.
+
+Appearance
+Wakamo has yellow eyes and long, dark brown hair that reaches down to her feet. Atop her head are two red fox ears that fade into dark brown. She also has a bushy dark brown fox tail tied with a big white bow at the end, which fades into blue and red.
+
+Halo
+Her halo appears to be a black cherry blossom with red outlines and a red star in its center, surrounded by a large red circle with 5 red spikes, two longer than the others.
+
+Uniform
+Wakamo wears a short black kimono, accentuated with golden and white cherry blossoms, a lace choker on her neck and asymmetrical leggings and boots, where the left leg adorns a glossy red sock with a black strap attached to her thigh while the right leg uses a ripped flower-patterned legging with a bluish black shoe. After her event, she occasionally walks around the city in a more traditional pink kimono. Usually, she wears a traditional kitsune fox mask.
+
+Firearm
+She uses a black Type 99 "Arisaka" rifle with a red hand guard. A kitsune mask decal is imprinted along the cheek rest. The red half of the hand guard is decorated with black cherry blossom patterns. A red tassel is attached to the pommel of the bayonet.
+
+Profile
+Age
+18
+Birthday
+April 3rd
+Height
+161cm
+School Year
+Suspended
+Club
+None / Independent
+Hobby
+Destruction
+Looting

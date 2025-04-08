@@ -1,0 +1,945 @@
+Normal lines
+Name		Transcription
+Japanese	English
+Title	
+Duration: 3 seconds.0:03	
+ブルー！アーカイブ！
+
+Blue! Archive!
+
+Gachaget	
+Duration: 13 seconds.0:13	
+ふふふっ……おっ待たせー！
+忍術研究部部長、千鳥ミチル……
+ここに参上！これからよろしくね、先生殿！
+
+Heehee... Thanks for waiting! Chidori Michiru, president of the Ninjutsu Research Club has arrived! Looking forward to working with you, Sensei
+
+Cafe_monolog_1	
+Duration: 6 seconds.0:06	
+さーて、
+次はチャンネルにどんな
+動画をアップしよっかな。
+
+I need a new video idea for the channel...
+
+Cafe_monolog_2	
+Duration: 8 seconds.0:08	
+「少女忍法帖
+ミチルっち」……
+目指せ、チャンネル
+登録者100名！
+
+Michiruchi, a Girl's Ninja Scroll... Going for a hundred subscribers!
+
+Cafe_monolog_3	
+Duration: 5 seconds.0:05	
+あ、新しい
+忍術思いついた！
+
+Oh! I just thought of a new ninjutsu!
+
+Cafe_monolog_4	
+Duration: 6 seconds.0:06	
+あれ……「かまぼこ
+突風伝」の新刊発売日、
+いつだっけ？
+
+When is the new issue of Kama-Boke Gale Battle coming out?
+
+Cafe_monolog_5	
+Duration: 8 seconds.0:08	
+うっ、あちこちに他校の
+生徒が……あんまり
+接触したくない……
+
+Ugh, there are a bunch of students... I don't wanna go near them...
+
+LogIn_1	
+Duration: 11 seconds.0:11	
+あ、先生殿！
+もう、遅かったじゃん！
+
+とりあえず今日私が作った
+自作忍術、見てみない？
+
+Sensei! You're late!
+
+First, can I show you the ninjutsu I made today?
+
+LogIn_2	
+Duration: 16 seconds.0:16	
+よくぞお戻りになりました、
+先生殿お仕事の準備は
+十全、なんだけど……
+
+その前に、
+宿題手伝って！お願い！
+
+Oh...hi, Sensei. I prepared perfectly for the task, but...
+
+Please help me with my homework first! Please!
+
+Lobby_1	
+Duration: 13 seconds.0:13	
+忍術研究部は、
+まだ正式に認可されて
+ないけど……
+
+でも諦めない。いつかは
+忍者が、公に認められる
+日が来るはず！
+
+Although the Ninjutsu Research Club hasn't been officially recognized...
+
+...I won't give up! One day, ninjas will be official too!
+
+Lobby_2	
+Duration: 7 seconds.0:07	
+何かの原因でみんな
+ゾンビみたいに、忍者に
+なったりしないかな……
+
+What if, for some reason, everyone becomes a ninja like in the zombie movies?
+
+Lobby_3	
+Duration: 10 seconds.0:10	
+忍者を広めるために、
+後輩たちも頑張ってくれてるの。
+
+イズナもツクヨも、
+すっごく良い子！
+
+The underclassmen are working hard to promote our ninja way.
+
+Izuna and Tsukuyo... They're so great!
+
+Lobby_4	
+Duration: 13 seconds.0:13	
+うう……「少女忍法帖ミチル
+っち」のチャンネル登録者数が
+増えない……何が足りないんだろ
+
+……恐竜要素とか？
+
+Ugh... I can't seem to increase my subscriber count for Michiruchi, a Girl's Ninja Scroll. What am I doing wrong?
+
+...A deduction?
+
+Lobby_5_1	
+Duration: 7 seconds.0:07	
+んー？なに、いつか言ってた
+「色仕掛けの術」……？
+
+Huh? What? Seduction?!
+
+Lobby_5_2	
+Duration: 10 seconds.0:10	
+な、ななな何言っちゃってるの
+先生殿！？それ、
+カメラに向かって投げキッス
+とかってことでしょ！？
+
+そんなハレンチなの
+絶対無理っ！
+
+Wh-Wh-What are you talking about, Sensei? Am I supposed to blow kisses at the camera or something?!
+
+I can't do something so shameless!
+
+Season_Birthday_Player_1	
+Duration: 21 seconds.0:21	
+あっ、先生殿発見！
+お誕生日おめでとー！
+
+ふふっ、今日は忍術研究部
+一同先生殿のために
+すっごいのを用意したの
+
+名付けて……
+「一日待ち伏せ大作戦」！
+
+There you are, Sensei! Happy birthday!
+
+Heehee! Today, the Ninjutsu Research Club has prepared something incredible for you.
+
+It's called the "All-Day Ambush Operation"!
+
+Season_Birthday_Player_2	
+Duration: 11 seconds.0:11	
+今日一日、
+私もイズナもツクヨも！
+
+どっからでも現れて
+驚かしてあげる！
+ひひっ、じゃあスタート！！
+
+All day today, Izuna, Tsukuyo, and I...
+
+Will appear out of nowhere to surprise you! Heehee! Starting now!
+
+Season_Birthday	
+Duration: 22 seconds.0:22	
+うぎゃぁっ！？
+た、誕生日？
+
+あー、何かと思った……それに、
+先生殿に祝ってもらえるなんて
+……ま、悪くないね？
+
+ふ、ふふっ、ふふふふっ……
+
+Whoa?! You're wishing me h-happy birthday?!
+
+Oh, I see...but I'm still happy to be congratulated. It feels pretty nice!
+
+H-Heehee... Heeheehee...
+
+Season_NewYear	
+Duration: 12 seconds.0:12	
+あけましておめでとう、先生殿。
+
+断言するけど、今年は忍者の
+年になるね私の忍者センサーが、
+そう言ってる！
+
+Happy New Year, Sensei.
+
+I'm positive that this year is gonna be the year of the ninja. That's what my ninja intuition is telling me!
+
+Season_Xmas	
+Duration: 20 seconds.0:20	
+クリスマスかー……こういう
+時期には、絶対出るんだよね
+
+何かと、
+「限定版」っていう
+悪魔の罠が……
+
+ほんっと、
+お財布的な意味で困るから、
+勘弁してほしい……
+
+It's the holiday season...which means Christmas is coming soon!
+
+All those things labeled "limited edition," they're the devil...
+
+My wallet is getting thinner and thinner. Please...no more...
+
+Season_Halloween	
+Duration: 21 seconds.0:21	
+トリックオアトリートって
+言えば、お菓子を貰える……
+
+じゃあ「トリックオアニンジャ
+！」って言えば、みんなチャン
+ネル登録してくれるんじゃ……？
+
+え、多分無理？
+だよねー……
+
+Trick or treat! It's like a jutsu to get candy.
+
+What if I say, "Trick or ninja!"?! You think they would subscribe?
+
+Huh? Too much? I thought so...
+
+ExWeapon_Get	
+Duration: 20 seconds.0:20	
+うおー、こんなものまで私に……！？
+ちょっ、ちょっとだけ責任感じちゃうけど……
+……ううん、でも任せて、先生殿！
+見せて進ぜよう、ミチル流忍術……
+その真髄を！
+
+Whoa, this is for me?! I-It's a bit much... Well, okay, fine! You can count on me, Sensei! I'll show you the power of Michiru-style ninjutsu!!
+
+Memorial lobby
+Name		Transcription
+Japanese	English
+MemorialLobby_1	
+Duration: 5 seconds.0:05
+Duration: 7 seconds.0:07	
+ではお見せして進ぜよう！
+
+私が考案した、
+新しいミチル流忍術！
+
+Let me show you!
+
+This is the brand new Michiru-style ninjutsu!
+
+MemorialLobby_2	
+Duration: 5 seconds.0:05	
+「忍法・キラキラ
+ファイアーの術」！
+
+Ninjutsu! Sparkling Fire technique!
+
+MemorialLobby_3	
+Duration: 6 seconds.0:06
+Duration: 4 seconds.0:04	
+あははっ、先生殿ー！
+どうどう？
+良い感じじゃない？
+
+私のかっこいい姿、
+綺麗に撮れてる？
+
+Hahaha, Sensei! What'd you think? Wasn't it so cool?!
+
+How do I look on the screen?
+
+MemorialLobby_4	
+Duration: 6 seconds.0:06
+Duration: 6 seconds.0:06	
+この忍者らしい
+ファンタスティックさ……完璧！
+
+やはり私こそ、
+忍術研究部最強の部長！
+
+It's got a fantastic ninja feel... It's perfect!
+
+I'm the most powerful president of the Ninjutsu Research Club!
+
+MemorialLobby_5	
+Duration: 6 seconds.0:06
+Duration: 3 seconds.0:03	
+あ、ここからがまた
+凄くなるんだよ、
+ちゃんと見ててね！
+
+せーーのぉっ！！
+
+Oh, it's gonna get even better from now. Keep watching!
+
+One, two!
+
+Event lines
+Name		Transcription
+Japanese	English
+EventLogin_1	
+Duration: 12 seconds.0:12	
+あっ、先生殿！
+今こそ忍術研究部が
+活躍する時だよ！
+
+さあ、ササっと鮮やかに
+解決しちゃおう！
+
+Oh, Sensei! This is the perfect time for the Ninjutsu Research Club to shine!
+
+Okay, let's just take care of it at lightning speed!
+
+EventLogin_2	
+Duration: 12 seconds.0:12	
+うわぁ、何か
+すごい大騒ぎに
+なっちゃった……
+
+せ、先生殿、
+大丈夫だよね？
+信じてるからね、ね！？
+
+Whoa, it turned into a big commotion somehow...
+
+S-Sensei, are you okay? I believe in you!
+
+EventLogin_Season_1	
+Duration: 11 seconds.0:11	
+うっぎゃ、もうこんな
+時間……これ、
+間に合うのかな……？
+
+ああもう、魑魅一座
+ほんっとしつこい……！
+
+Argh, look at the time! Oh, no... Can I make it?
+
+Ugh, those Mouryo bastards are so persistent!
+
+EventLogin_Season_2	
+Duration: 14 seconds.0:14	
+私は最後まで
+諦めない……！
+忍術研究部の認可も！
+
+「少女忍法帖ミチルっち」
+のチャンネル
+登録者100名も！
+
+I'm not gonna give up until the end! The Ninjutsu Research Club will be officially recognized!
+
+And Michiruchi, a Girl's Ninja Scroll will reach a hundred subscribers!
+
+EventLogin_Season_End	
+Duration: 19 seconds.0:19	
+うえぇぇ……や、やっと
+終わった……？
+もう帰って良い？
+
+ふあぁ……
+早く帰って、忍者の
+映画とか見たい……
+
+何も考える
+必要の無い
+B級のやつ……
+
+Ugh... I-I managed to finish it... Can I go back now?
+
+Argh... I just wanna go back and watch a ninja movie...
+
+Something I can watch mindlessly, like a B-rated movie...
+
+EventLobby_1	
+Duration: 13 seconds.0:13	
+魑魅一座は暴れるわ、
+陰陽部から圧力が
+かかるわ、
+
+ゲヘナの万魔殿は
+めんどうだわで……
+もう一体何なのさぁ……
+
+The Mouryo are running amok, and the Yin-Yang Club is pressuring me.
+
+The Gehenna Pandemonium Society is so annoying... And I'm so confused now...
+
+EventLobby_2	
+Duration: 10 seconds.0:10	
+……ひゃっ！？
+せ、先生殿！？
+今何した！？
+
+きゅ、急に触られると
+びっくりするん
+だけど……！？
+
+...Huh? S-Sensei?! What did you just do?
+
+I-I was surprised because you poked me all of a sudden!
+
+EventLobby_3	
+Duration: 16 seconds.0:16	
+忍者とは、
+諦めないもの
+
+最後まで走り抜け、
+何があっても任務を
+全うする……
+
+私たち忍術研究部も
+そうなんだってこと、
+見せてあげる！
+
+To a ninja, there's no such thing as quitting.
+
+We run until the finish line. No matter what happens, we complete the mission...
+
+I'll prove the greatness of the Ninjutsu Research Club!
+
+EventLobby_4	
+Duration: 8 seconds.0:08	
+陰陽部の依頼を
+鮮やかに解決して、
+
+今度こそ正式な
+部活として認めて
+もらうんだから！
+
+I'm going to successfully fulfill the Yin-Yang Club's request...
+
+...and get official approval for the club. I swear!
+
+Tactics and growth
+	Some of the lines in this section are not extracted from the game. They are transcribed and translated manually and may contain errors. If you see a mistake, please make corrections by editing this page.
+Name		Transcription
+Japanese	English
+Formation_In_1	
+Duration: 10 seconds.0:10	
+うぎゃあっ？！び、びっくりした……
+あ、今から出陣？了解！
+
+Ahh! I was surprised... Oh, are we going to fight now? Roger that!
+
+Formation_In_2	
+Duration: 8 seconds.0:08	
+ふふっ……さあ、私の出番だね！
+……え、違う？合ってる？
+
+Hehe... Now it's my turn! Eh, wait? Is that right?
+
+Formation_Select	
+Duration: 8 seconds.0:08	
+ドーモ、先生殿。ミチルです。
+……さあ、ご用命を！
+
+Hello, my name is Michiru.
+Now, give us your orders~!
+
+Tactic_Defeat_1	
+Duration: 7 seconds.0:07	
+あーれーど、どうしてー！？な、なんでー！！
+
+Oh, Why, What?
+
+Tactic_Defeat_2	
+Duration: 6 seconds.0:06	
+うわーん！爆発オチはいやー！！
+
+OMG! I don't like the explosion Finish!
+
+Tactic_In_1	
+Duration: 4 seconds.0:04	
+忍術研究部、始動！
+
+Ninjutsu Research Club has started!
+
+Tactic_In_2	
+Duration: 6 seconds.0:06	
+忍者の恐ろしさ、見せてあげるんだから！覚悟ぉ！
+
+I'll show you how terrifying a ninja is... Be prepared!
+
+Tactic_Victory_1	
+Duration: 5 seconds.0:05	
+任務完了！
+……ふっ、決まった。
+
+Mission complete.
+
+Tactic_Victory_2	
+Duration: 8 seconds.0:08	
+私たち忍術研究部にとって、これくらい朝飯前だよ！
+ちょろいちょろい！
+
+For us, the Ninjutsu Research Club, this is a piece of cake.
+
+Battle_Buffed_1	
+Duration: 6 seconds.0:06	
+おおっ、何か強くなった気が……しないわけでもない！
+
+It's not like I don't feel like I've become stronger.
+
+Battle_BuffSelf_1	
+Duration: 4 seconds.0:04	
+よし、なんかいけそーな気がする！
+
+Healing I feel like I can do something.
+
+Battle_Covered_1	
+Duration: 2 seconds.0:02	
+隠れ身！
+
+hide and seek me!
+
+Battle_Damage_1	
+Duration: 1 second.0:01	
+痛！
+
+it hurts!
+
+Battle_Damage_2	
+Duration: 2 seconds.0:02	
+いったー！？
+
+it hurtsー!
+
+Battle_Damage_3	
+Duration: 2 seconds.0:02	
+はりゃぁ！？
+
+Battle_Defense_1	
+Duration: 4 seconds.0:04	
+あはっ、そんなの通じないよ！
+
+Haha! I don't get it.
+
+Battle_In_1	
+Duration: 5 seconds.0:05	
+ふふ～ん！よーし、任務開始！
+
+Huhu! well, welcome to me.
+
+Battle_In_2	
+Duration: 5 seconds.0:05	
+うーん、と、とりあえず始めよう！
+
+Let's get started.
+
+Battle_Move_1	
+Duration: 3 seconds.0:03	
+よっし、次行こう！
+
+Okay, let's go.
+
+Battle_Move_2	
+Duration: 4 seconds.0:04	
+うー、まだ続くの……？
+
+Really, still going on?
+
+Battle_Recovery_1	
+Duration: 2 seconds.0:02	
+お助け感謝ー！
+
+thanks for your help!
+
+Battle_Retire	
+Duration: 3 seconds.0:03	
+うわーん！
+
+Battle_Shout_1	
+Duration: 1 second.0:01	
+ほっ！
+
+Battle_Shout_2	
+Duration: 1 second.0:01	
+てゃぁ！
+
+Battle_Shout_3	
+Duration: 1 second.0:01	
+はぁっ！
+
+Battle_TacticalAction_1	
+Duration: 2 seconds.0:02	
+シュババババッ！
+
+Shubabababa!
+
+Battle_Victory_1	
+Duration: 5 seconds.0:05	
+どう、これぞ私たち忍術研究部の力なんだから！
+
+how is it? This is the power of our Ninjutsu Research Club!
+
+Battle_Victory_2	
+Duration: 5 seconds.0:05	
+うん、やっぱりミチル流忍術に死角無し！
+
+Yes, Michiru-style ninjutsu has no blind spots!
+
+CommonSkill	
+Duration: 5 seconds.0:05	
+とりあえず、忍者グッズで精神力を回復……。
+
+For now, I'll restore my mental strength with ninja goods.
+
+ExSkill_1	
+Duration: 3 seconds.0:03	
+ミ、ミチル流忍法っ！
+
+Mi……Michiru-style Ninpo!
+
+ExSkill_2	
+Duration: 4 seconds.0:04	
+か、火遁の術、見せてあげる！
+
+I'll show you the Katon no Jutsu!
+
+ExSkill_3	
+Duration: 4 seconds.0:04	
+忍術研究部の部長を、舐めるなぁっ！
+
+Don't underestimate the head of the Ninjutsu Research Club!
+
+ExSkill_Level_1	
+Duration: 2 seconds.0:02	
+うわ、熱っ！？
+
+ExSkill_Level_2	
+Duration: 3 seconds.0:03	
+忍法あっちちちちっ！？
+
+Ninpo……so hot!
+
+ExSkill_Level_3	
+Duration: 3 seconds.0:03	
+うぎゃあっ！！
+あっっっつ！？
+
+Growup_1	
+Duration: 13 seconds.0:13	
+え、これくれるの？私に！？
+ふふっ、やはり先生殿は見る目があるね……なんちゃって。にゃははっ。
+
+Eh, can you give me this? to me? haha, Sensei-dono has a discerning eye... what the heck. Nahaha!
+
+Growup_2	
+Duration: 4 seconds.0:04	
+おおっ、これでますます強く……！！
+
+oh! Now I can become stronger and stronger!
+
+Growup_3	
+Duration: 8 seconds.0:08	
+えっと、そのー……あー、ありが、とう……？
+
+Ah,Oh,it…Thank you?
+
+Growup_4	
+Duration: 16 seconds.0:16	
+ふふっ、ついに私もここまで来た。
+先生殿の期待に応えて、八面六臂の活躍をご覧に入れようぞ！
+
+Haha, I've finally made it this far! In order to live up to Senseiｰdono expectations, I'll show you all my strengths!
+
+Relationship_Up_1	
+Duration: 9 seconds.0:09	
+のあぁっ！？ちょっ、近い！近いって！
+距離感！あー、心臓に悪い……
+
+Hey! it's close, it's close! A sense of distance! Haha, it's bad for my heart...
+
+Relationship_Up_2	
+Duration: 16 seconds.0:16	
+先生殿と一緒だと、何だか……
+こんな私でも、何でもできるんじゃないかって気持ちに……。
+……なにこれ、変なの。
+
+When I'm with you, I feel like I can do anything even if I'm like this. ……What is this, this is a strange feeling
+
+Relationship_Up_3	
+Duration: 13 seconds.0:13	
+な、何この距離感！？からかってる？ドッキリ！？
+べ、別に嫌ってわけじゃないけど……。
+
+Wow, what a sense of distance! ? Are you kidding me? Surprise? It's not that I don't like it.
+
+Relationship_Up_4	
+Duration: 16 seconds.0:16	
+うっ、近い……いやいっそのこと、こっちから……？
+そうだ、私の色仕掛けの術で……
+って、そんな恥ずかしいことできるか！
+
+Oh, it's close... No, should I approach from here? That's right, with my honey trap... I can't do such a shameful thing!
+---
+MomoTalk✕
+
+Michiru
+Domo, Sensei. I am Michiru.
+Umm... Michiru? What's going on?
+
+Michiru
+This is how ninja nerds like us traditionally greet each other!
+
+Michiru
+You must accept this way of greeting to be my ninja nerd friend...and ultimately, my ninja companion!
+Reply
+I don't remember agreeing to this...Ugh... It's so upsetting to hear that!
+
+Michiru
+Come on, Sensei... Did you forget?!
+Late at night...under the moon, talking about ambushes...just you and me!
+
+Michiru
+Oh, just so you know, "ambush" is ninja slang for secretive movement in the bushes. Don't forget it!
+I don't remember that at all! What ambush are you talking about?!
+
+Michiru
+Well, let's not worry about the details!
+So, Michiru, why did you contact me today?
+
+Michiru
+Oh! We're gonna miss the train!
+
+Michiru
+I must take my leave! I look forward to seeing you again someday! Adios! Sayonara!
+
+Michiru
+*pop pop pop pop* <- smoke bomb sound
+Huh? Sound effects and everything...
+Umm, anyway, adios! Sayonara!
+Relationship Event
+To Michiru's Relationship Story
+
+MomoTalk✕
+
+Michiru
+I'll visit Schale this afternoon. - Ninja M
+Reply
+I guess you did give me notice, but...That's not how a ninja gives notice. That's more like a mysterious thief...
+
+Michiru
+Come on! Don't worry about the details!
+Also, mysterious thieves are kind of related to ninjas, so it's okay!
+Everything's related to ninjas, huh?!
+
+Michiru
+Wahaha! Anyway, I gave you notice, so you shall wait for me!
+I'll see you soon!
+
+Michiru
+*pop pop pop pop* <- smoke bomb sound
+
+Michiru
+*swoosh* <- retreating quickly
+...Even more sound effects?
+Relationship Event
+To Michiru's Relationship Story
+
+MomoTalk✕
+
+Michiru
+As you know, I'm president of the Ninjutsu Research Club.
+Reply
+Yeah.But it's an unofficial club. Is it okay to call yourself a president?
+
+Michiru
+Argh! What're you trying to say? Of course you can!
+I work very hard all the time! Studying ninjas, creating content...
+
+Michiru
+If I keep up the good work, one day I'll be promoting ninjas to everyone in Kivotos and the Ninjutsu Research Club will be recognized as an official club!
+Yeah, I know you're working hard, Michiru. You have my support.
+
+Michiru
+Wahaha! Thanks, Sensei! That means a lot to me.
+I'm glad to hear that...
+
+Michiru
+I'm not just saying that. You have no idea how much you're helping me.
+Your support is so powerful that all of my hesitation has completely disappeared!
+Huh?
+
+Michiru
+I shouldn't hold back on investing into my efforts, right?
+I hear new ninja merch arrived at one of my favorite stores.
+
+Michiru
+I-I mean, ninjutsu tools!
+
+Michiru
+The stuff is kind of expensive, so I was hesitant...but now I've changed my mind!
+Yeah! It's an investment into my future!
+You're so greedy...
+
+Michiru
+Wahaha! I'll be waiting for you, Sensei!
+*swoosh* *tatatatat* <- sound of running super fast
+O-Okay... Got it.
+Relationship Event
+To Michiru's Relationship Story
+
+MomoTalk✕
+
+Michiru
+Oh, Sensei. Can you look for that thing in the Schale office?
+Thing? What thing?
+
+Michiru
+The manga I always read. "Kama-Boko Gale Battle, Volume 19."
+I searched the club room everywhere for it but couldn't find it. It's gotta be in the office.
+When did you even bring it to Schale?
+
+Michiru
+Huh...? Well, our club room is temporary, and we don't know when those Hyakkaryouran jerks will invade.
+The Yin-Yang Club also comes in and causes commotions.
+
+Michiru
+According to my ninja brain...
+It only made sense to keep the precious item at Schale.
+Schale is not a storage facility, Michiru...
+
+Michiru
+Oh! If you ever get bored, you should read it! I highly recommend the Kama-Boko series!
+Also, I should remind you we're gathering at the park tonight. Don't forget!
+
+Michiru
+I'll be waiting for you, Sensei!
+Reply
+What a quick change of subject!Anyway, what are you gonna do tonight?
+
+Michiru
+*shwoop shwoop shwoop shwoop* <- sound of tying shoelaces
+Is that supposed to be a ninja action too...?
+Relationship Event
+To Michiru's Relationship Story
+
+Michiru
+Sensei. I think...that yesterday...
+
+Michiru
+I think...I caught a cold...
+...Okay. I'll make you some soup.
+
+Michiru
+Um... O-Okay. Thanks, Sensei.
+
+Michiru
+I-I'll be waiting...
+---
+Ninjutsu Research Department
+Kuda Izuna
+After hearing about the Ninjutsu Research Department, a club that researches ninjutsu, Izuna couldn't help but join. At first, Michiru was suspicious about her, but she noticed Izuna's capabilities and passion for ninjas that she decided to let her join. As a result, Michiru now looks up to Izuna and the two become good friends.
+
+Advertisement
+Oono Tsukuyo
+Tsukuyo originally joined the club to due Michiru's invitation. Despite her low self-esteem however, she showed her dedication towards the art of ninjas thanks to Michiru comforting her. Eventually, through training, Tsukuyo slowly improves her ninjutsu. Now she looks up to Michiru and tries her best to become a better ninja.
+
+SCHALE
+Sensei
+In the An Unconcealed Heart event, Michiru requested Sensei's help in making the Ninjutsu Research Development into a real club. Unfortunately, it wasn't that easy even with Schale's authority, but it was through this followed by a series of multiple events that Michiru learned to not only rely solely on herself but rather those around her as well, such as her clubmates.
+---
+“	How was it? That's the power of our Ninjutsu Research Club!	”
+~ Chidori Michiru
+
+Chidori Michiru (千鳥ミチル) is one of the students studying in Hyakkiyako Alliance Academy who wields a shotgun.
+
+She is the president of the Ninjutsu Research Department.
+
+
+Contents
+1	Profile
+1.1	Introduction
+1.2	Personality
+1.3	Appearance
+1.3.1	Halo
+1.3.2	Uniform
+1.3.3	Firearm
+2	Combat
+2.1	Skills
+2.2	Growth Material
+2.3	Unique Equipment
+2.4	Unique Item
+2.5	Bond
+3	Trivia
+4	Navigation
+Profile
+A student of Hyakkiyako Alliance Academy and director of the Ninjutsu Research Department, Michiru is always full of unfounded self-confidence. She is an otaku who loves ninja movies, anime, and goods. Michiru is running around with the members of the Ninjutsu Research Department today to let everyone throughout Kivotos know of the greatness of ninjas.
+
+Introduction
+Michiru is the club president of the Ninjutsu Research Department. Every day, she works hard with her fellow club members in uploading videos and doing all sorts of other activities in order to show everyone in Kivotos how cool ninjas are!
+
+Advertisement
+Personality
+A girl with a dream to let everyone know that ninjas are cool. Thanks to her dream and behavior, she is often ridiculed by others, causing her to sometimes have second thoughts when doing something ninja-related. Due to her passion of following her ninja dreams, she often only looks at the path that would seemingly lead her to being a better ninja, not considering other possibilities.
+
+Appearance
+Chidori Michiru has grey hair that fades into a dark greyish color, tied into twintails by two little black ribbons. She has golden eyes, a pair of grey Tanuki-like ears, and a grey Tanuki-like tail.
+
+Halo
+Her halo is has a light reddish color taking the form of a shuriken.
+
+Uniform
+Michiru wears a white tank to pwith a sarashi underneath it and a red and blue sailor-like ribbon above her chest, a black scarf around her neck that fades into a light red color, a pleated dark blue mini-skirt, a black obi around her waist with a big bow on it, thin black tekko on the arms, and black thighs, with her right thigh just reaching her knee. She is covered by some loose bandages around the knee area. Michiru also wears a kimono-like sleeve on her right arm.
+
+Firearm
+She uses a blue-pink gradient Remington 870 Express Tactical with a pink forend and stock, maroon cheek rest, and black breacher muzzle. A black KAC Masterkey underbarrel shotgun is also attached below of an already existing shotgun which seemed to be held by some purple bandages. White bandages are also wrapped around the stock and the receiver.
+
+Profile
+Age
+17
+Birthday
+February 22nd
+Height
+153cm
+School Year
+Third Year
+Club
+Ninjutsu Research Department
+Hobby
+Inventing New Ninjutsu
+Making videos

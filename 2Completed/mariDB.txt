@@ -1,0 +1,641 @@
+Normal lines
+Name		Transcription
+Japanese	English
+Title	
+Duration: 2 seconds.0:02	
+ブルーアーカイブ。
+
+Blue Archive.
+
+Gachaget	
+Duration: 8 seconds.0:08	
+全ての出会いは必然……
+これからどうぞよろしくお願いします、先生。
+
+All encounters are inevitable... It's a pleasure to see you, Sensei.
+
+Cafe_monolog_1	
+Duration: 6 seconds.0:06	
+神聖な気配が
+感じられます、
+素晴らしい場所ですね。
+
+I feel a holy energy...
+
+Cafe_monolog_2	
+Duration: 3 seconds.0:03	
+今日も
+良いお天気ですね。
+
+The weather is nice today as well.
+
+Cafe_monolog_3	
+Duration: 7 seconds.0:07	
+少しくらいでしたら……
+ここで、
+休憩していっても
+良いでしょうか？
+
+Would it be okay...if we stop here and rest a bit?
+
+Cafe_Act_1	
+Duration: 5 seconds.0:05	
+これから先ずっと、
+この場所に
+祝福がありますように。
+
+Blessings be with this place.
+
+Cafe_Act_2	
+Duration: 4 seconds.0:04	
+この世が、
+少しでも平和で
+ありますように……
+
+May the world be at peace for a while.
+
+LogIn_1	
+Duration: 5 seconds.0:05	
+おかえりなさい、先生。
+今日もお会いできて嬉しいです。
+
+Welcome, Sensei. You look great today.
+
+LogIn_2	
+Duration: 5 seconds.0:05	
+今日も良い一日に
+なりますように、
+祈っておりますね。
+
+Grace be with you. I pray you have a nice day today.
+
+Lobby_1	
+Duration: 4 seconds.0:04	
+少し、お話を
+聞いていかれませんか？
+
+Would you like to hear a verse?
+
+Lobby_2	
+Duration: 4 seconds.0:04	
+ふ、不埒なことは
+駄目ですよ……？
+
+I-I shouldn't do anything unholy...
+
+Lobby_3	
+Duration: 5 seconds.0:05	
+（私の祈りが、先生を
+守ってくれますように……）
+
+(May my prayers protect you, Sensei)
+
+Lobby_4	
+Duration: 6 seconds.0:06	
+辛いときは、私に
+頼ってくださっても
+良いのですよ。
+
+You can confide in me when you're having a rough time.
+
+Lobby_5	
+Duration: 7 seconds.0:07	
+先生でしたら……
+
+いえ、きっと大丈夫です。
+
+If it's you, Sensei...
+
+Everything will be okay. I promise.
+
+Season_Birthday_Player	
+Duration: 12 seconds.0:12	
+今日この日に先生が
+生を受けたからこそ、
+私たちはこうして
+出会うことができました。
+
+今日という日に、
+心からの感謝を。
+
+You being born meant we were able to be together like this.
+
+So I'm genuinely happy to celebrate today of all days.
+
+Season_Birthday	
+Duration: 12 seconds.0:12	
+お誕生日にこうして、
+先生と一緒に
+いられるだなんて……
+
+幸せ過ぎてなんだか、
+あとで罰が下って
+しまわないか心配です。
+
+I can't believe I get to spend my birthday with you, Sensei.
+
+I already feel as though I've been blessed with a gift. Asking for more feels like tempting fate.
+
+Season_NewYear	
+Duration: 9 seconds.0:09	
+あけまして
+おめでとうございます。
+今年はどんな素敵なことが
+待っているのか……
+
+今から楽しみですね。
+
+Happy New Year. I wonder what fun things lie ahead.
+
+I'm looking forward to it.
+
+Season_Xmas	
+Duration: 9 seconds.0:09	
+今日は、
+偉大なる方の降誕祭……。
+
+敬虔に、
+この聖なる一日を
+過ごすとしましょう。
+
+It's a festive day on which a great saint was born.
+
+I hope you have a reverent and holy day.
+
+Season_Halloween	
+Duration: 10 seconds.0:10	
+飴さん……あ、いえ、
+大丈夫です。
+
+シスターとして、
+節制は大切ですので。
+
+As for the candy... No, thank you.
+
+Abstinence is one of the virtues of a Sister.
+
+ExWeapon_Get	
+Duration: 6 seconds.0:06	
+あまり、武器は使いたくないのですが……
+平和のためでしたら。
+
+I didn't want to use a weapon, but if it's to control injustice then...
+
+Memorial lobby
+Name		Transcription
+Japanese	English
+MemorialLobby_1	
+Duration: 4 seconds.0:04
+Duration: 4 seconds.0:04	
+……来ていただいて
+ありがとうございます、先生。
+
+はい、先生のことを
+祈っておりました。
+
+Oh, Sensei. Thank you for coming.
+
+Yes. I was just saying a prayer for you, Sensei.
+
+MemorialLobby_2	
+Duration: 4 seconds.0:04
+Duration: 6 seconds.0:06	
+このように静かな場所は、
+お祈りにピッタリです。
+
+祈っているはずの私の心も、
+まるで洗われていくようで……。
+
+A quiet place like this is great for praying.
+
+When I pray, it feels as though my heart is being cleansed.
+
+MemorialLobby_3	
+Duration: 7 seconds.0:07
+Duration: 7 seconds.0:07	
+先生がこれまで
+積み上げてきた道、
+そしてこれから選ばれる道……。
+
+そこにどうか、
+できるだけ多くの平和と、
+幸せがありますように……。
+
+There are paths you've taken so far, and paths you must still take.
+
+May peace and happiness find you whenever you choose to walk them.
+
+MemorialLobby_4	
+Duration: 5 seconds.0:05
+Duration: 6 seconds.0:06	
+え、自分のことも
+祈らないの……ですか？
+
+それは……
+いえ、大丈夫なんです。
+
+Hm? Have I ever prayed for myself?
+
+That's...no, it's okay.
+
+MemorialLobby_5	
+Duration: 5 seconds.0:05
+Duration: 6 seconds.0:06	
+先生が幸せでしたら、
+私も幸せですので。
+
+つまりこれは、
+私たちのための祈り……
+なのかもしれません。
+
+I am happy if you are happy, Sensei.
+
+In other words, this can be a prayer for us.
+
+Tactics and growth
+	Some of the lines in this section are not extracted from the game. They are transcribed and translated manually and may contain errors. If you see a mistake, please make corrections by editing this page.
+Name		Transcription
+Japanese	English
+Formation_In_1	
+Duration: 4 seconds.0:04	
+これが私に与えられた運命なのでしたら、
+
+If this is to be my destiny...
+
+Formation_In_2	
+Duration: 3 seconds.0:03	
+はい、喜んで。
+
+Yes, gladly.
+
+Battle_In_1	
+Duration: 5 seconds.0:05	
+どうか我々の行く先にご加護がありますように。
+
+May you bless us wherever we go.
+
+Battle_In_2	
+Duration: 3 seconds.0:03	
+体には十分気をつけていきましょう。
+
+Please make sure to take good care of yourselves.
+
+CommonSkill	
+Duration: 2 seconds.0:02	
+安らぎがあらんことを……
+
+Peace be upon you.
+
+ExSkill_1	
+Duration: 2 seconds.0:02	
+聖なる力よ……
+
+I channel holy power.
+
+ExSkill_2	
+Duration: 2 seconds.0:02	
+祈りを、そして……
+
+Through this prayer...
+
+ExSkill_3	
+Duration: 2 seconds.0:02	
+心から願います……
+
+With utmost sincerity, I pray.
+
+ExSkill_Level_1	
+Duration: 3 seconds.0:03	
+全ての方に、祝福を……！
+
+May all be blessed!
+
+ExSkill_Level_2	
+Duration: 3 seconds.0:03	
+全ての方に、救いを……！
+
+May all be saved!
+
+ExSkill_Level_3	
+Duration: 3 seconds.0:03	
+全ての方に、ご加護を……！
+
+May all be protected!
+
+Growup_1	
+Duration: 6 seconds.0:06	
+そのお気持ちに応えられるよう、誠心誠意努力いたしますね。
+
+I shall train with my utmost, to ensure those feelings are answered.
+
+Growup_2	
+Duration: 4 seconds.0:04	
+聖なる力が、身体の中に溢れて……
+
+I feel... holy power flowing throughout my body...!
+
+Growup_3	
+Duration: 4 seconds.0:04	
+今後も、より一層精進してまいります……！
+
+I will continue to devote myself even more.
+
+Growup_4	
+Duration: 9 seconds.0:09	
+こんなに素敵な物を、私に……これを私が頂いてしまっても、良いのでしょうか？
+
+Is it truly okay for me to... receive such a wonderful thing?
+
+Relationship_Up_1	
+Duration: 4 seconds.0:04	
+何だか、心が安らぐようです。
+
+For some reason... my heart feels at ease.
+
+Relationship_Up_2	
+Duration: 8 seconds.0:08	
+先生……私、先生のことを、心から尊敬しております。
+
+Sensei, for you, I have the utmost respect.
+
+Relationship_Up_3	
+Duration: 7 seconds.0:07	
+愛とは崇高なもの、ですが……困りましたね。
+
+Love is such a wondrous thing, but... it is troubling, too.
+
+Relationship_Up_4	
+Duration: 4 seconds.0:04	
+どうしましょう、この気持ちは……
+
+This feeling... what should I do...?
+---
+MomoTalk✕
+
+Mari
+May peace and happiness be with you today.
+
+Mari
+If you're struggling with something, please come see a sister before it's too late.
+If it's difficult to come to us, please let us know and we will come to you.
+
+Mari
+...
+
+Mari
+Oh
+I'm sorry. I sent you the wrong message.
+Reply
+Is it okay if I come see you?Does it matter if I'm not a student?
+
+Mari
+Oh
+Yes, of course.
+
+Mari
+I'll be waiting for you joyfully.
+Relationship Event
+To Mari's Relationship Story
+
+Mari
+Are you okay, Sensei?
+
+Mari
+I was surprised when the decoration suddenly fell...
+Let me know if you're hurt anywhere. I'll go to the hospital with you...
+Reply
+I'm okay. It was divine retribution.Don't think that I'll give up like this.
+
+Mari
+...
+
+Mari
+...?
+Excuse me...?
+
+MomoTalk✕
+
+Mari
+Did you have a good day today, Sensei?
+
+Mari
+I've been feeling uneasy about what happened last time...
+Reply
+It's not something you need to feel uneasy about.What happened last time...? When the decoration fell?
+
+Mari
+No.
+
+Mari
+As someone who will become a sister, I can't just let it go.
+I will pray for your safety from now on, Sensei.
+
+Mari
+Oh, dear...
+Come to think of it, there isn't anything scheduled for today at the cathedral.
+
+Mari
+So, if it's all right with you...
+Relationship Event
+To Mari's Relationship Story
+
+Mari
+Did you get home safely, Sensei?
+
+Mari
+I feel much more at ease since you came by today.
+
+Mari
+Actually, I said I was praying for you, but it might have been more of a prayer for me.
+If that's the case, I hope you didn't take my motive to be disrespectful.
+Reply
+I don't think it is.Thank you. I feel better because of you.
+
+Mari
+Really?
+Great, that makes me really happy.
+
+Mari
+Well, then...
+See you next time, Sensei.
+
+MomoTalk✕
+
+Mari
+May peace and happiness be with you today.
+
+Mari
+If you have any troubles, I pray that they are resolved as soon as possible.
+I am unable to meet with you at the cathedral today. I ask for your kind understanding.
+Reply
+Are you not at the cathedral today, Mari?I guess you're busy today.
+
+Mari
+No, Sensei, that's not it. It's nothing serious.
+I'm just not feeling too well...
+Reply
+You aren't feeling well?!Are you sick? Do you have a cold?
+
+Mari
+Oh, I'm sorry.
+
+Mari
+I probably shouldn't have told you. It's really nothing.
+I'm just a little drowsy, but I'll get better after some rest.
+Relationship Event
+To Mari's Relationship Story
+
+Mari
+I fell asleep and forgot to tell you.
+Thank you so much for coming today, Sensei.
+
+Mari
+There isn't much I can give in return,
+so instead, I will always pray for you.
+Just like I've been doing until now.
+
+MomoTalk✕
+
+Mari
+Hello, Sensei.
+
+Mari
+Are you...free right now? Am I bothering you?
+Reply
+Not at all. What's going on?Of course you're not bothering me.
+
+Mari
+That's good to hear.
+
+Mari
+Um...
+
+Mari
+I'm sorry, I'm not used to this kind of thing...
+If it's okay with you, I was wondering if we could schedule a day to meet up.
+
+Mari
+Oh, it's not something bad or anything, in case you start worrying...
+I'm glad you're okay with it. And thank you.
+
+Mari
+I'll see you then, Sensei.
+Relationship Event
+To Mari's Relationship Story
+
+Mari
+Sensei. Thank you so much for today.
+I don't know about you, but I'm really happy.
+
+Mari
+Maybe I'll be asking for your help more often from now on.
+I'll be counting on you if you do. Anyway, I'll talk to you later.
+
+Mari
+Sensei
+
+Mari
+I got the urge to reach out to you.
+---
+Sisterhood
+Wakaba Hinata
+She is part of the same club. Both were also part of the same squad against the Iridescent Hieronymus during Operation: False Sanctum in Volume F.
+
+Utazumi Sakurako
+She is part of the same club. Both were also part of the same squad against the Iridescent Hieronymus during Operation: False Sanctum in Volume F.
+
+Supplementary Lessons Department
+Shirasu Azusa
+During Mari's visit to the Supplementary Lessons Department's club room, she encountered multiple of Azusa's traps and landmines, hurting her and ruined her supposed to be simple and calming visit.
+
+Urawa Hanako
+Hanako and the Sisterhood seems to know each other pretty well, including Mari, although some of the reasons were not pleasant ones, especially when it comes to Hanako's risque behavior.
+
+Justice Realization Committee
+Hanekawa Hasumi
+Both Mari and Hasumi were members of the Event Committee as representatives of Trinity General School during the Get Set, Go! Kivotos Halo Games event.
+
+Knights Hospitaller
+Aomori Mine
+Both were part of the same squad against the Iridescent Hieronymus during Operation: False Sanctum in Volume F.
+
+Seminar
+Hayase Yuuka
+Both Yuuka and Mari were members of the Event Committee during the Get Set, Go! Kivotos Halo Games event.
+
+Disciplinary Committee
+Amau Ako
+Both Ako and Mari were members of the Event Committee during the Get Set, Go! Kivotos Halo Games event.
+
+Arius Squad
+Mari worked together with the Arius Squad during Operation: False Sanctum against the Iridescent Hieronymus in Volume F.
+---
+“	If you are having a hard time, you can turn to me for help.	”
+~ Iochi Mari
+
+Iochi Mari (伊落マリー) is one of the students studying in Trinity General School who wields a Handgun.
+
+She is a member of the Sisterhood.
+
+
+Contents
+1	Profile
+1.1	Introduction
+1.2	Personality
+1.3	Appearance
+1.3.1	Halo
+1.3.2	Uniform
+1.3.3	Firearm
+2	Combat
+2.1	Skills
+2.2	Growth Material
+2.3	Unique Equipment
+2.4	Unique Item
+2.5	Bond
+3	Poll
+3.1	JP
+3.2	Global
+4	Trivia
+5	See Also
+6	Navigation
+Advertisement
+Profile
+A pious and sincere girl, Mari is a member of the Sisterhood of Trinity Integrated Academy.
+
+More than just appearing cute at a glance, her calm aura and soft, everlasting smile have charmed the countless students who have called on her for advice. Mari is aware of her own inexperience, and her wish to soon become a fine Sister like her seniors is always on her mind.
+
+Introduction
+A sincere girl of the Sisterhood who manages the cathedral of Trinity General School. She has a cute impression, but is much calmer than her age and has a lot of character. She has a dream to become the best Sister of Trinity in the future.
+
+Personality
+A helpful girl who wishes only the best for others and tries to help with whatever she can, sometimes to the point of overlooking her personal work limits. When it comes to Sensei however, it's her who is almost always receiving help from Sensei, occasionally causing her to want Sensei all to herself, which she considers undivine.
+
+Appearance
+Mari has waist length, orange hair with bangs on each side. A loose ponytail, ending in a braid is tied on her right side with a gold ribbon, hanging directly next to mentioned bangs, and a flower ornament towards the top. She has a pair of cat ears, with white fluff inside. She has sky blue eyes.
+
+Halo
+Her halo is made up of a six petalled flower, surrounded by a circle. Said circle has six triangles sticking out, evenly spread. Her halo has a golden yellow gradient
+
+Uniform
+Her uniform consists of a long, white robe, a black monastic scapular with long sleeves, held by a golden, cross-symbol harness with blue ribbons. The scapular has golden knots decorating the bottom. A golden bow at the lower back, golden patterned armbands, and gold ribbons around the cuffs. She has a black veil with a white underside over her head, with a golden headband. She wears black, flat heel, closed toe shoes with gold buttons, and soles, white socks, and white ankle wraps, with gold ribbons.
+
+Firearm
+Mari UE Schematic
+Piety
+
+She uses a Desert Eagle Mk. XIX L6 pistol with a Black and Titanium Gold finish and custom gold flower accents on the slide. A peach fur ball with a gold bird strap is attached on the grip.
+
+Profile
+Age
+15
+Birthday
+September 12th
+Height
+151cm
+School Year
+First Year
+Club
+Sisterhood
+Hobby
+Prayer
+Contemplation
