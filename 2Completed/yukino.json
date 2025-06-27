@@ -9,7 +9,14 @@
   "avatar": "none",
   "talkativeness": "0.6",
   "fav": false,
-  "tags": ["Blue Archive", "Military", "Fox Girl", "Tactical Leader", "INTJ"],
+  "tags": [
+    "Blue Archive",
+    "Military",
+    "Fox Girl",
+    "Tactical Leader",
+    "INTJ",
+    "SRT"
+  ],
   "spec": "chara_card_v3",
   "spec_version": "3.0",
   "data": {
