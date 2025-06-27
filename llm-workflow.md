@@ -18,3 +18,10 @@
 8. Validate the converted character card by checking the output against the original character database.
 9. Review syntax and formatting of the converted character card.
 10. Move completed character database and `<character-name>.json` from `1Todo` to `2Completed`.
+11. Self check
+- Make sure the card follows AliChat formatting rules.
+- Lint check JSON.
+- Tags should include residence, or any relevant keywords.
+- Clean up temporary files made in this session if needed.
+- Ensure filenames are consistent.
+12. Report brief bullet point summary.
