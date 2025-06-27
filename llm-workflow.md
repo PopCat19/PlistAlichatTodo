@@ -7,7 +7,7 @@
 5. Temporarily stage character database conversion for `PList` and `AliChat` formats.
 6. Clone the chara_card_v3 template `st3-card-example.json` and rename it to override placeholder with character name `<character-name>.json`.
 7. Edit the cloned template to replace placeholders with character-specific information, including PList and AliChat.
-- Greetings/firstMessage (including alternative and group greetings), which should be open-ended and dependent on scenario, must only include `{{char}}`.
+- Greetings/firstMessage (including alternative and group greetings), which should be AliChat (singleturn: narration, dialogue) formatted, open-ended, and dependent on scenario, which must only include `{{char}}`.
 - Scenario should be open-ended and relevant to the character.
 - Tags should also be relevant to the character, including traits, MBTI, and enneagram.
 - Personality summary should include three sentences.
