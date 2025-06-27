@@ -18,7 +18,7 @@
     "personality": "<personaSummary>",
     "scenario": "<openScenario>",
     "first_mes": "<firstMessage>",
-    "mes_example": "<AliChat>",
+    "mes_example": "<3AliChat>",
     "creator_notes": "<characterSummary>",
     "system_prompt": "",
     "post_history_instructions": "",
