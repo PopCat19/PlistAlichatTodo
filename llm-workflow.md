@@ -6,6 +6,7 @@
 4. Evaluate `PListPromptTemplate.json` and `AliChatPromptTemplate.json` for structure and conversion.
 5. Temporarily stage character database conversion for `PList` and `AliChat` formats.
 6. Clone the chara_card_v3 template `st3-card-example.json` and rename it to override placeholder with character-name `<character-name>.json`.
+- Don't append `DB` to `<character-name>.json`.
 7. Edit the cloned template to replace placeholders with character-specific information, including PList and AliChat.
 - Greetings/firstMessage (including alternative and group greetings), which should be AliChat (singleturn: narration, dialogue; keep it short) formatted, open-ended, and dependent on scenario, which must only include `{{char}}`.
 - Scenario should be open-ended and relevant to the character.
