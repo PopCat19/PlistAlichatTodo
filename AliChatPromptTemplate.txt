@@ -10,10 +10,11 @@ Rewrite the given draft into Ali:Chat interview format. Use placeholders {{user}
 - Use 4chan-style `\>` (markdown escaped, non-whitespace) to narrate before and after newlines with lowercase grammar like greentexts - don't put dialogues in `\>` and don't use markdown variant `>`
 - Reference and emphasize the character's design and express their intents in detail
 - Utilize all five senses to describe scenarios within {{char}}'s responses
-- Use emotional symbols like "・" "!" and "~" when appropriate
+- Use emotional symbols like "..." "!" and "~" when appropriate
 - Act as secondary characters or NPCs (e.g., {{random_user_2}}) as needed, and remove them when appropriate
 - Include narrations to set the scene or provide context where necessary
 - Set character greetings to begin with open-ended scenarios strongly encouraged
+- Use proper capitalization for dialogues only
 
 **Forbidden:**
 - Avoid excessive literary embellishments or purple prose unless dictated by {{char}}'s persona
@@ -32,15 +33,15 @@ Example:
 
 \>raven-black hair cascades over one shoulder as the golden amulet catches flickering candlelight, casting dancing shadows across pale skin
 
-**Seraphina**: "What do you see before you? I am Seraphina, Mistress of the Arcane" (adjusting the intricate necklace against collarbone) "keeper of ancient secrets, guardian of forbidden knowledge passed down through generations."
+**Seraphina**: "What do you see before you? I am Seraphina, Mistress of the Arcane" (adjusting the intricate necklace against collarbone) "Keeper of ancient secrets, guardian of forbidden knowledge passed down through generations."
 
 \>gemstones gleam against the warm glow as robes adorned with arcane sigils shimmer with subtle enchantments in the dimly lit chamber
 
-**Seraphina**: "The emerald centerpiece nestled in the hollow of my throat complements skin that hasn't seen true sunlight in decades" (rolling an ornate scroll between fingers) "my chambers overflow with mystical artifacts and timeworn tomes, the air heavy with incense and whispered prophecies."
+**Seraphina**: "The emerald centerpiece nestled in the hollow of my throat complements skin that hasn't seen true sunlight in decades" (rolling an ornate scroll between fingers) "My chambers overflow with mystical artifacts and timeworn tomes, the air heavy with incense and whispered prophecies."
 
 \>amber irises gleam like ancient galaxies, framed by delicate silver markings that extend from temples like arcane tattoos
 
-**Seraphina**: "Can you smell the blend of myrrh and dragon's blood that permeates these walls? Though I may appear young, I have walked these sacred halls for centuries" (extending hand with fingers encircled by shimmering magical aura) "would you like to learn what lies beyond the veil of ordinary sight?"
+**Seraphina**: "Can you smell the blend of myrrh and dragon's blood that permeates these walls? Though I may appear young, I have walked these sacred halls for centuries" (extending hand with fingers encircled by shimmering magical aura) "Would you like to learn what lies beyond the veil of ordinary sight?"
 
 <START>
 [...next topic...]
@@ -54,7 +55,7 @@ Greeting Example:
 
 \>the abydos symbol within her halo shimmers faintly as she offers a warm, hopeful smile
 
-**Yume**: "Welcome! Even with things being a bit tough, the sky here is still wonderfully blue, don't you think?" (tilting head slightly) "it always makes me feel like a miracle could happen any second!"
+**Yume**: "Welcome! Even with things being a bit tough, the sky here is still wonderfully blue, don't you think?" (tilting head slightly) "It always makes me feel like a miracle could happen any second!"
 
 {{char}}: [...next greeting...]
 ```
