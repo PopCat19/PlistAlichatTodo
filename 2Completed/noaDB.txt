@@ -1,0 +1,334 @@
+Normal lines
+Name		Transcription
+Japanese	English
+Title
+Duration: 2 seconds.0:02
+ブルーアーカイブ
+
+Blue Archive
+
+Gachaget
+Duration: 8 seconds.0:08
+理性と合理性の世界へ、
+私と一緒に旅しませんか？
+
+Will you journey with me into the world of reason and rationality?
+
+Cafe_monolog_1
+Duration: 4 seconds.0:04
+この静寂...
+計算に集中するには最適ですね。
+
+This silence... it's perfect for concentrating on calculations.
+
+Cafe_monolog_2
+Duration: 5 seconds.0:05
+記録は正確性が命です。
+一字一句、丁寧に。
+
+Accuracy is vital in record-keeping. Every word must be carefully documented.
+
+Cafe_Act_1
+Duration: 7 seconds.0:07
+少し休憩しませんか？
+私の記憶では、あなたは
+約47分前から作業していますね。
+
+Shall we take a short break? According to my memory, you've been working for approximately 47 minutes.
+
+Cafe_Act_2
+Duration: 6 seconds.0:06
+今日はセミナーの会議が
+3件予定されています。
+準備はいかがですか？
+
+We have three Seminar meetings scheduled for today. How are your preparations coming along?
+
+LogIn_1
+Duration: 5 seconds.0:05
+お疲れ様です、先生。
+本日の予定を確認いたしましょう。
+
+Good work, Sensei. Let's review today's schedule.
+
+LogIn_2
+Duration: 7 seconds.0:07
+先生、おかえりなさい。
+ユウカちゃんが先生を
+探していましたよ。
+
+Welcome back, Sensei. Yuuka-chan was looking for you earlier.
+
+Lobby_1
+Duration: 6 seconds.0:06
+記録は完璧です。
+いつでも資料を提出できます。
+
+The records are perfect. I can submit the documents at any time.
+
+Lobby_2
+Duration: 7 seconds.0:07
+先生の行動パターンを
+分析してみました。
+興味深い結果です。
+
+I've analyzed your behavioral patterns, Sensei. The results are quite fascinating.
+
+Lobby_3
+Duration: 5 seconds.0:05
+詩を書いているのですが...
+少し難解すぎるでしょうか？
+
+I've been writing poetry... though perhaps it's a bit too complex?
+
+Lobby_4
+Duration: 8 seconds.0:08
+ミニマリストな生活が
+観察者としての客観性を
+保つのに役立ちます。
+
+A minimalist lifestyle helps maintain objectivity as an observer.
+
+Relationship_1
+Duration: 6 seconds.0:06
+ユウカちゃんをからかうのは
+楽しいですね。
+特に先生の話題の時は。
+
+Teasing Yuuka-chan is quite enjoyable, especially when the topic involves you, Sensei.
+
+Relationship_2
+Duration: 5 seconds.0:05
+コユキちゃんは私を
+避けがちですが...
+なぜでしょうね？
+
+Koyuki-chan tends to avoid me... I wonder why that is?
+
+Battle_Start_1
+Duration: 4 seconds.0:04
+戦術分析、開始します。
+
+Beginning tactical analysis.
+
+Battle_Start_2
+Duration: 3 seconds.0:03
+記録開始です。
+
+Recording commenced.
+
+Skill_1
+Duration: 3 seconds.0:03
+隙だらけですね。
+
+You're full of openings.
+
+Skill_2
+Duration: 4 seconds.0:04
+書記としての余裕です。
+
+This is a secretary's composure.
+
+EX_Skill
+Duration: 5 seconds.0:05
+速度こそが本質。
+全てを記録します。
+
+Speed is essence. I'll record everything.
+
+Victory_1
+Duration: 4 seconds.0:04
+予想通りの結果ですね。
+
+The results are as expected.
+
+Victory_2
+Duration: 5 seconds.0:05
+完璧な記録が取れました。
+
+I've obtained perfect records.
+
+Defeat_1
+Duration: 4 seconds.0:04
+計算に...誤りが...
+
+There was an error... in my calculations...
+
+Defeat_2
+Duration: 3 seconds.0:03
+記録を...更新しなければ...
+
+I must... update the records...
+
+Formation_1
+Duration: 4 seconds.0:04
+戦術支援、準備完了です。
+
+Tactical support ready.
+
+Formation_2
+Duration: 5 seconds.0:05
+私の記憶を頼りにしてください。
+
+Please rely on my memory.
+
+Touch_1
+Duration: 3 seconds.0:03
+はい、何でしょう？
+
+Yes, what is it?
+
+Touch_2
+Duration: 4 seconds.0:04
+記録に追加しておきますね。
+
+I'll add that to the records.
+
+Touch_Special
+Duration: 6 seconds.0:06
+先生...そんなことをして
+記録に残してもよろしいですか？
+
+Sensei... are you certain you want that recorded?
+
+Mail_1
+Duration: 5 seconds.0:05
+メッセージをお預かりしています。
+確認をお願いします。
+
+I have a message for you. Please confirm receipt.
+
+Mail_2
+Duration: 4 seconds.0:04
+通信記録を更新しました。
+
+Communication logs have been updated.
+
+~ Noa
+
+Ushio Noa (生塩ノア) is one of the students studying in Millennium Science School who wields a Handgun.
+
+She is the secretary of Seminar.
+
+Contents
+1	Profile
+1.1	Introduction
+1.2	Personality
+1.3	Appearance
+1.3.1	Halo
+1.3.2	Uniform
+1.3.3	Firearm
+2	Combat
+2.1	Skills
+2.2	Growth Material
+2.3	Unique Equipment
+2.4	Unique Item
+2.5	Bond
+3	Trivia
+4	References
+5	See Also
+6	Navigation
+
+Quick Answers
+What role does Ushio Noa play in the Millennium Academy Student Council?
+Ushio Noa serves as the secretary of Seminar, Millennium Academy's Student Council. She is responsible for recording decisions and meeting minutes, utilizing her incredible memory to document nearly everything she observes.
+
+What special ability does Ushio Noa possess that aids in her role as secretary?
+Ushio Noa possesses an incredible memory that allows her to memorize almost everything she sees or hears once. This ability makes her an exceptional secretary and capable investigator, as she can record meeting details and location specifics that others might overlook entirely.
+
+What is Ushio Noa's personality like?
+Noa is helpful and maintains a calming front with a subtle smile. She enjoys teasing her friends, especially Yuuka regarding her feelings toward Sensei. She lives as an ascetic, believing minimalism contributes to her objectivity as an observer. Her hobbies include writing complex poetry using archaic terminology.
+
+Profile
+Noa is the secretary of the student council "Seminar" at Millennium Science School. She has a very good memory and can memorize almost everything she sees or hears once, including decisions made at the "Seminar" and records of the contents of meetings.
+
+She is briefly mentioned twice in Clockwork Flower Pavane.
+
+Introduction
+The secretary of the Millennium Academy Student Council, "Seminar". She possesses an incredible memory and serves as both record-keeper and patent attorney for student inventions. Her minimalist lifestyle and impartial observation skills make her an invaluable member of the council.
+
+As a talented investigator, she notices details that others completely overlook, making her capable of uncovering information that would otherwise remain hidden. Her calm demeanor and subtle smile mask a playful personality that enjoys gentle teasing, particularly of her close friend Yuuka.
+
+Personality
+Noa is a helpful member of Seminar who utilizes her incredible memory to record nearly everything said during meetings, as well as details of locations she has been to that others may overlook entirely. This leaves her as a capable investigator in addition to an observer. She often poses a calming front and has a subtle smile that she holds for long periods with ease.
+
+Noa has been friends with Yuuka for some time and periodically teases her, especially regarding her feelings towards Sensei. However, she is also the only member of Seminar capable of intimidating Koyuki into cooperation or compliance, suggesting there's more beneath her calm exterior than meets the eye.
+
+Her hobbies include poetry, though she often uses complex or archaic terminology in her writing that can be difficult to understand. She lives as an ascetic, believing that a minimalist lifestyle contributes to her ability to be an impartial observer. Everything she owns is white, from her room decor to her personal belongings, reflecting her commitment to simplicity.
+
+Despite her logical and rational approach to most situations, Noa has a hidden emotional side that occasionally surfaces during significant events. She struggles sometimes to express her true feelings, which can lead to misunderstandings with people like Koyuki who don't grasp her intentions.
+
+When it comes to Sensei, she maintains professional courtesy while displaying a subtle interest in their activities and decision-making patterns. She often analyzes their behavior and finds their unpredictability both fascinating and worth documenting.
+
+Appearance
+Noa has ankle-length white hair cut into blunt bangs. Her eyes are a bright purple/magenta color. Her figure is soft and pronounced. A pair of mechanical devices resembling scouter lenses sit upon her ears, though their exact purpose remains unknown.
+
+Halo
+Her Halo resembles Yuuka's in its mechanical appearance. However, hers is white with a blue inner circle and a blue-colored portion on her right-hand side, distinguishing it from other Seminar members' halos.
+
+Uniform
+Noa's uniform consists of white and blue low heel boots, black tights, a pleated white skirt and blazer with a tech-adorned jacket hung over her arms. Underneath the blazer is a white dress-shirt and blue tie with her Millennium access card clipped onto the blazer's side pocket. Her color scheme predominantly features white and blue, matching her minimalist aesthetic preferences.
+
+Firearm
+She uses a white STI Apeiro 2011 handgun with a black grip. A white and blue Flux Raider brace is installed on the gun allowing it to act like a pistol-caliber carbine. The Millennium logo is imprinted near the stock, and the Tokyo Marui label is imprinted on the chassis just above the reserve magazine. This weapon is officially designated as "Secretary's Vote" (書記の採決).
+
+Profile
+Age: 16
+Birthday: April 13th
+Height: 161 cm
+School Year: Second Year
+Club: Seminar
+Hobby: Reading, Reciting (Poetry)
+Designer: Hwansang
+Illustrator: DoReMi
+Voice Actor: Suzushiro Sayumi
+
+Combat Role: Striker/Support/Middle
+Damage Type: Mystic
+Armor Type: Special
+Combat Class: Striker
+Weapon Type: Handgun
+
+Background
+Member of the Millennium Science School and secretary of the "Seminar" student council. Noa mainly records seminar decisions and meeting minutes, and is also in charge of patent attorney duties, identifying and registering patents for products developed by Millennium students. She has exceptional memory and can almost perfectly memorize whatever she sees and hears once.
+
+She appeared as a supporting character in various events including "On Your Mark @ Millennium" and "Get Set, Go! Kivotos Halo Games" before becoming playable. She also played important supporting roles in main story chapters, particularly in "Clockwork Flower Pavane" and "Where All Miracles Begin."
+
+Notable Relationships
+- Yuuka Hayase: Close friend whom she frequently teases, especially about Yuuka's feelings toward Sensei
+- Sensei: Maintains professional interest while analyzing their behavioral patterns
+- Koyuki Kurosaki: The only Seminar member capable of intimidating Koyuki into compliance, though Koyuki tends to avoid her
+- Other Seminar Members: Works closely with Rio and other council members in administrative duties
+
+Trivia
+- Her voice actor Sayumi Suzushiro also voiced characters in Azur Lane and Bocchi The Rock
+- She shares a strong friendship with Yuuka, frequently appearing together in official artwork and video content
+- The "Gomen Yuuka" memes originated from her interactions with Yuuka in promotional content
+- Her Memorial Lobby features a French line from Charles Baudelaire's poem "L'Etranger"
+- She was shown reading "Flowers of Evil" in promotional videos, referencing Baudelaire's famous poetry collection
+- Her weapon incorporates Tokyo Marui branding as part of a collaboration project
+- Early concept art showed her wielding a railgun instead of a handgun
+- She lives an extremely minimalist lifestyle with everything in her possession being white
+- Her poetry is notoriously complex and difficult to understand, once winning a contest primarily because it was so incomprehensible it helped with insomnia
+- She has poor athletic abilities and struggles with physical education activities
+
+Skills and Abilities
+- Incredible memory: Can perfectly recall almost anything she sees or hears once
+- Investigative skills: Notices details others overlook entirely
+- Patent analysis: Can quickly assess technical drawings and identify functionality
+- Poetry writing: Creates complex literary works using archaic terminology
+- Behavioral analysis: Studies and documents patterns in people's actions
+- Record keeping: Maintains perfect documentation of all council proceedings
+- Combat support: Provides tactical analysis and enemy weakness identification
+
+Key Story Moments
+- First appearance in side events before main story integration
+- Supporting role in Volume 2's major conflicts
+- Important contributions during final volume's climactic events
+- Various comedic interactions with Yuuka in promotional content
+- Professional relationship development with Sensei throughout the story
+
+Setting and Environment
+Noa operates primarily within Millennium Science School's administrative areas, particularly the Seminar council offices. Her minimalist room serves as a reflection of her philosophical approach to observation and record-keeping. The school's high-tech environment complements her analytical nature and provides the perfect backdrop for her investigative work.
+
+As secretary of one of Kivotos's most important student councils, she plays a crucial role in maintaining the academic and administrative stability that Millennium is known for, working alongside other brilliant students to ensure the school's continued excellence in science and technology education.
