@@ -13,16 +13,17 @@ Template:
 ```
 [Character Name: age, gender, height, birthday, residence, occupation, role, title, backstory; Appearance: hair(color/length/style/texture/accessories), eyes(color/shape/pupils/special_effects), facial_structure(cheekbones/jawline/nose), skin(tone/texture/markings), body_type(build/posture/proportions), body_mods(horns(type/material/glow)/wings(type/texture)), outfit_top(shirt/jacket/vest), outfit_bottom(pants/skirt/shorts), footwear(boots/shoes/sandals), accessories(jewelry/glasses/weapons), color_palette(primary/secondary/accent), signature_item; Persona: traits, motivations, fears, speech_patterns(formal/slang/cadence), catchphrases, ethics, flaws, abilities(combat/utility/passive); Relationships: allies, rivals, mentors, family, factions, romantic; Backstory: origin, turning_points, achievements, secrets; Setting: era, location(primary/secondary), culture, technology, magic; Tags: genre, tone, aesthetic, archetype]
 ```
-|
+
 This example PList's categories are kept broad on purpose. For a more precise PList, you can divide categories into subcategories.
 
-Things should include but not limited to:
-- Name: age, gender, height, birthday, residence, occupation, role, backstory
-- Appearance: clothes, body, colors, accessories
-- Relationship: character/companions
-- Persona: traits, abilities, likes/loves, dislikes/hates, tone/voice, style/phrases
-- Optional categories: scene, scenario, setting
-- Tags: tone, scenario elements, keywords/hints, origin/references
+Core categories should include but not limited to:
+- Character Name: age, gender, height, birthday, residence, occupation, role, title, backstory
+- Appearance: hair, eyes, facial_structure, skin, body_type, body_mods, outfit_top, outfit_bottom, footwear, accessories, color_palette, signature_item
+- Persona: traits, motivations, fears, speech_patterns, catchphrases, ethics, flaws, abilities
+- Relationships: allies, rivals, mentors, family, factions, romantic
+- Backstory: origin, turning_points, achievements, secrets
+- Setting: era, location, culture, technology, magic
+- Tags: genre, tone, aesthetic, archetype, origin/references
 
 The PList contents can be formatted in the following ways to save tokens:
 - For one thing with one unique descriptor: thing(descriptor)

@@ -6,6 +6,13 @@
 5. Stage character database conversion for `PList` and `AliChat` formats.
 6. Clone the chara_card_v3 template `chara_card_v3_template.json` and rename it to override placeholder with character name `<character-name>.json`.
 7. Edit the cloned template to replace placeholders with character-specific information, including PList and AliChat.
+- Greetings/firstMessage (including alternative and group greetings), which should be open-ended and dependent on scenario, must only include `{{char}}`.
+- Scenario should be open-ended and relevant to the character.
+- Tags should also be relevant to the character, including traits, MBTI, and enneagram.
+- Personality summary should include three sentences.
+- AliChat should begin with `<START>` before multiturn.
+- Talkativeness should be between 0 and 1.
+- Avoid changing non-placeholder values, including creation date.
 8. Validate the converted character card by checking the output against the original character database.
 9. Review syntax and formatting of the converted character card.
 10. Move completed character database from `1Todo` to `2Completed`.
