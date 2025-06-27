@@ -10,7 +10,7 @@
 7. Edit the cloned template to replace placeholders with character-specific information, including PList and AliChat.
 - Greetings/firstMessage (including alternative and group greetings), which should be AliChat (singleturn: narration, dialogue; keep it short) formatted, open-ended, and dependent on scenario, which must only include `{{char}}`.
 - Scenario should be open-ended and relevant to the character.
-- Tags (limit to 8) should also be relevant to the character, including traits, MBTI, and enneagram.
+- Tags (limit to 6) should also be relevant to the character, including traits, MBTI, and enneagram.
 - Personality summary should include three sentences.
 - AliChat should begin with `<START>` before multiturn.
 - Talkativeness should be between 0 and 1.
