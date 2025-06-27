@@ -1,0 +1,1018 @@
+Normal lines
+Name		Transcription
+Japanese	English
+Title
+Duration: 2 seconds.0:02
+ブルー、アーカイブ。
+
+Blue. Archive.
+
+Gachaget
+Duration: 12 seconds.0:12
+レッドウィンター連邦学園、
+知識解放戦線の秋泉、モミジです……
+世の全ての知識を守るために……一緒に戦いましょう！
+
+I'm Akiizumi Momiji from the Red Winter Federal Academy Knowledge Liberation Front. Let's work together to protect all the world's knowledge!
+
+Cafe_monolog_1
+Duration: 9 seconds.0:09
+……もしかしたら
+ここのどこかに、
+世に出回っていない
+稀少な本があるのかも……
+
+...There just may be a rare, undiscovered book somewhere around here...
+
+Cafe_monolog_2
+Duration: 5 seconds.0:05
+ここは、
+読書にぴったりの
+場所ですね。
+
+This is a good place to read.
+
+Cafe_monolog_3
+Duration: 5 seconds.0:05
+少しだけ、寝ても
+いいでしょうか……。
+
+Maybe I can sneak in a quick nap...
+
+Cafe_monolog_4
+Duration: 5 seconds.0:05
+新刊……
+欲しいです……。
+
+I was hoping to find the latest volumes...
+
+Cafe_monolog_5
+Duration: 8 seconds.0:08
+この場所……
+引きこもるのに
+向いてるようで、
+向いてないような……？
+
+This place seems like a good place to hide...doesn't it...?
+
+LogIn_1
+Duration: 6 seconds.0:06
+あっ、先生！
+えへへ……
+お待ちしておりました！
+
+Oh, Sensei! Heehee... I've been waiting for you!
+
+LogIn_2
+Duration: 10 seconds.0:10
+あっ！私のこと、
+呼びましたか？
+
+あ、あと1分だけ！
+このページだけ
+読ませてくださいっ……！
+
+Oh! Were you looking for me?
+
+J-Just one more minute! Let me finish this page...!
+
+Lobby_1
+Duration: 11 seconds.0:11
+キレイな本は好きです、
+眺めるだけで
+幸せになりますから。
+
+手垢のついた本も
+好きですよ、
+その本が通ってきた
+歴史ですから。
+
+I like pretty books. Just looking at them makes me happy.
+
+I like old and battered books too. They show the history the books have endured.
+
+Lobby_2
+Duration: 13 seconds.0:13
+本を読むのと集めるの、
+どっちが好き、ですか……？
+
+うう……それ、
+選ばないと
+ダメでしょうか……？
+
+What do I like more, reading books or collecting them?
+
+Hmm... Do I have to choose just one...?
+
+Lobby_3
+Duration: 9 seconds.0:09
+事務局に出した蔵書申請、
+また却下されてしまいました……
+
+それでも、
+私は諦めません……！
+
+I requested a book from the Secretariat, but I was rejected...
+
+But I won't give up...!
+
+Lobby_4
+Duration: 10 seconds.0:10
+ここでそんな展開に……？
+むむ……。
+
+はっ、先生！？
+
+す、すみません！
+気づきませんでした……。
+
+What an unexpected twist... Hmm...
+
+Oh, Sensei?!
+
+I-I'm sorry! I didn't notice you...
+
+Lobby_5
+Duration: 12 seconds.0:12
+感動的な展開で
+夢を叶えるシーン……
+素敵だと思いませんか！？
+
+現実では、
+なかなか難しい
+ことですが……。
+
+An ending that tugs at the heartstrings, a scene where dreams come true... Isn't it amazing?!
+
+These things don't happen too often in real life...
+
+Season_Birthday_Player
+Duration: 10 seconds.0:10
+お誕生日
+おめでとうございます、
+先生。
+
+先生のために……
+オススメの本を持ってきました。
+
+一緒に読みませんか？
+
+Happy birthday, Sensei.
+
+I brought you a book I think you'll like.
+
+Will you read it with me?
+
+Season_Birthday_1
+Duration: 11 seconds.0:11
+わ、私の誕生日を、
+覚えてくださったんですか！？
+
+ど、どうしましょう！？
+私からは、お返しできるものが
+なにも……！
+
+Y-You remembered my birthday?!
+
+Oh, but I don't have anything to give you in return...!
+
+Season_Birthday_2
+Duration: 14 seconds.0:14
+ち、違うんですか？
+私は、もらうだけでいい……？
+
+そ、それはそうかもですが、
+その、こんなことは、
+初めてで……。
+
+You mean... I don't have to give you anything in return...?
+
+If you're sure... This is all so new to me...
+
+Season_NewYear
+Duration: 13 seconds.0:13
+あけまして
+おめでとうございます、
+先生。
+
+その……よかったら、
+お正月は、
+私たち知識解放戦線と
+一緒に過ごしませんか？
+
+Happy New Year, Sensei!
+
+I-If...it's okay with you, why don't you spend New Years with the Knowledge Liberation Front?
+
+Season_Xmas
+Duration: 14 seconds.0:14
+メリークリスマスです、先生！
+
+もしサンタさんに
+クリスマスプレゼントを
+お願いできるなら……
+
+ずっと探している本の
+初版がいいです……。
+
+Merry Christmas, Sensei!
+
+If I could ask Santa for a Christmas gift...
+
+It'd be for a first edition book that I've been searching for...
+
+Season_Halloween
+Duration: 12 seconds.0:12
+ハロウィーンは、
+漫画の題材になることが
+多いですよね。
+
+やはり、幽霊が集まる日は
+創作の題材に
+しやすいのでしょうか？
+
+I've read about Halloween in a lot of manga.
+
+I guess that makes sense, since it's a day when all the monsters get together.
+
+ExWeapon_Get
+Duration: 10 seconds.0:10
+先生のために……
+使いますね。
+……さて、何から
+静かにさせましょうか。
+
+For you, Sensei, I'll use it. What should I quiet down first...?
+
+Memorial lobby
+Name		Transcription
+Japanese	English
+MemorialLobby_1
+Duration: 4 seconds.0:04
+Duration: 8 seconds.0:08
+先生！
+ついに見つけました！
+
+傷んだページもない、
+特典の描きおろしイラストも
+ちゃんと入ってる、
+
+限定版です！
+
+Sensei! I finally found it!
+
+No damage to the pages, and it even includes the special edition illustration!
+
+An intact limited edition print!
+
+MemorialLobby_2
+Duration: 9 seconds.0:09
+Duration: 7 seconds.0:07
+もしかしたら私は……
+この一冊に出会うために、
+
+ここに
+導かれてきたのかも
+しれません。
+
+えへへ……これも、
+先生が見守って
+くださった
+おかげですね。
+
+Maybe...my whole life
+
+has led up to this very moment. To finding this book.
+
+Heeheehee... This is all thanks to you coming with me, Sensei.
+
+MemorialLobby_3
+Duration: 6 seconds.0:06
+先生と一緒にいると……
+不思議といいことが
+起こるんです。
+
+As long as I'm with you...good things tend to happen.
+
+MemorialLobby_4
+Duration: 5 seconds.0:05
+Duration: 8 seconds.0:08
+だから……
+その……先生。
+
+よろしければ……
+その、毎日とは、
+言いませんから……。
+
+So... Um... Sensei.
+
+If it's all right with you... Um, even if it's not every day...
+
+MemorialLobby_5
+Duration: 4 seconds.0:04
+Duration: 7 seconds.0:07
+たまに、でいいので……。
+
+私たち知識解放戦線を、
+訪ねてくださいね……。
+
+Even if it's just every now and again...
+
+Please come visit the Knowledge Liberation Front...
+
+Event lines
+Name		Transcription
+Japanese	English
+EventLogin_1
+Duration: 7 seconds.0:07
+いらしたんですね、先生！
+
+えへへ、
+ずーっと待ってました。
+
+Welcome, Sensei!
+
+Heehee. I've been waiting!
+
+EventLogin_2
+Duration: 6 seconds.0:06
+こんにちは、先生！
+
+私にできることなら、
+何でも言ってください！
+
+Hi, Sensei!
+
+If there's anything I can do, just let me know.
+
+EventLogin_Season_1
+Duration: 9 seconds.0:09
+どんどん、
+事が大きく
+なっていくような……。
+
+でもきっと、
+大丈夫ですよね？
+先生……。
+
+Seems like things are getting bigger and bigger...
+
+But I'm sure it'll be okay, right, Sensei...?
+
+EventLogin_Season_2
+Duration: 7 seconds.0:07
+こうなった以上、
+後戻りはできません。
+
+知識解放戦線は
+進み続けます！
+
+It's too late to turn back now.
+
+The Knowledge Liberation Front will push on!
+
+EventLogin_Season_End
+Duration: 7 seconds.0:07
+なんとか
+落ち着きましたね……。
+みんなが無事で、
+本当によかったです。
+
+Somehow, it's finally over... I'm just glad everyone's safe.
+
+EventLobby_1
+Duration: 4 seconds.0:04
+はい、先生。
+お呼びですか？
+
+Yes? Did you call me, Sensei?
+
+EventLobby_2
+Duration: 8 seconds.0:08
+メル先輩、
+今頃どうしてるかな……。
+
+どこかで暴走してないと
+いいんですが……。
+
+I wonder what Meru is doing right now...
+
+I just hope she's not going crazy somewhere...
+
+EventLobby_3
+Duration: 11 seconds.0:11
+文字を読むことも、
+絵を見ることも
+大好きです。
+
+漫画はいつだって
+私たちに色々なことを
+教えてくれます！
+
+I like reading text just as much as looking at pictures.
+
+Comics can teach us so many things.
+
+EventLobby_4
+Duration: 9 seconds.0:09
+せ、先生？そんなに
+見つめられると私……
+恥ずかしいです……。
+
+S-Sensei? I feel embarrassed...when you look at me like that...
+
+EventShop_Login_1
+Duration: 6 seconds.0:06
+何かお探しですか、先生？
+ゆっくり見ていってくださいね。
+
+Are you looking for something, Sensei? Take your time.
+
+EventShop_Login_2
+Duration: 7 seconds.0:07
+物を並べたり展示するのは
+慣れてますから。
+私に任せてください！
+
+I'm used to arranging and displaying things. Just leave it to me!
+
+EventShop_End
+Duration: 7 seconds.0:07
+好きなだけ
+見ていってください！
+
+あとで後悔するなんて、
+もったいないじゃないですか。
+
+Look around as much as you'd like.
+
+I'd hate for you to get the wrong things.
+
+EventShop_1
+Duration: 10 seconds.0:10
+ショップの管理、ですか……？
+
+いえ、図書館の管理に比べれば、
+これぐらい平気です。
+
+Managing the shop...?
+
+This is nothing compared to managing the library.
+
+EventShop_2
+Duration: 14 seconds.0:14
+この中に、絶版になっていた本の
+初版が紛れていたら……
+私は……どうすれば……。
+
+あっ！こ、これは決して
+個人的な願望とかではなく……！
+
+What if there's an out-of-print first edition book mixed in here somewhere...? What should I do...?
+
+Oh! I-I'm not saying I'd snatch it up for myself...!
+
+EventShop_Buy_1
+Duration: 4 seconds.0:04
+あ、それを
+お選びになったんですね。
+
+Oh, so you picked that one.
+
+EventShop_Buy_2
+Duration: 5 seconds.0:05
+少々お待ちください……
+はいこちら、どうぞ！
+
+Wait just a moment... Yes, here!
+
+EventShop_Buy_3
+Duration: 8 seconds.0:08
+ここはお決まりのセリフを……
+
+「いやー！お目が高いですね、お客さん！」
+
+And...what's the line...?
+
+"Oh! You have great taste!"
+
+EventShop_Buy_4
+Duration: 12 seconds.0:12
+「毎度あり！」
+
+今の、ベテランっぽかった、
+ですか？へへ、えへへっ……。
+
+Thank you so much!
+
+I was so professional just now! Heehee...
+
+CardShop_Login_1
+Duration: 5 seconds.0:05
+いらっしゃいませ、先生！
+何にされますか？
+
+Welcome, Sensei. What would you like?
+
+CardShop_Login_2
+Duration: 7 seconds.0:07
+運試しですか！
+
+隣で見ていても
+いいですか？
+えへへ。
+
+Are you getting your fortune?
+
+Can I watch from the side? Heehee.
+
+CardShop_End
+Duration: 5 seconds.0:05
+あっ、何か気になる
+ものでもありましたか？
+
+Is there something wrong?
+
+CardShop_1
+Duration: 4 seconds.0:04
+はい、先生。
+どうしたんですか？
+
+Yes, Sensei? What's going on?
+
+CardShop_2
+Duration: 10 seconds.0:10
+「必要なときに
+もたらされる、
+小さな幸運を」……。
+
+一度言ってみた
+かったです、
+こういうセリフ！
+
+A little luck, just for you...
+
+I've always wanted to say something like that!
+
+Cardpickup_1
+Duration: 7 seconds.0:07
+うわあっ！大当たり！
+すごいです！さすが先生！
+
+Wow, you won! That's amazing, Sensei!
+
+Cardpickup_2
+Duration: 6 seconds.0:06
+先生は
+運がいいんですね……
+カッコいいです、先生！
+
+Sensei, you have really great luck! This is so great!
+
+Cardpickup_3
+Duration: 8 seconds.0:08
+ちょっと私にも
+見せてください。
+
+むむ……これも
+使えるものですよ！
+
+Can I see?
+
+Hmm... This is pretty good!
+
+Cardpickup_4
+Duration: 9 seconds.0:09
+ふえーん……
+
+あ、あまり気を
+落とさないでください、
+先生。私がいますよ！
+
+Aah...
+
+D-Don't be too sad. At least you have me, Sensei!
+
+Tactics and growth
+	Some of the lines in this section are not extracted from the game. They are transcribed and translated manually and may contain errors. If you see a mistake, please make corrections by editing this page.
+Name		Transcription
+Japanese	English
+Formation_In_1
+Duration: 3 seconds.0:03
+私が、お力になれるなら……。
+
+If I'm able to help.
+
+Formation_In_2
+Duration: 4 seconds.0:04
+は、はいっ！任せてください……！
+
+Y, yes. Leave it to me.
+
+Formation_Select
+Duration: 6 seconds.0:06
+あ、先生も読んでみますか？
+私の大好きな本なんです！
+
+Ah, Sensei has read it too? It's a book that I really like.
+
+Tactic_Defeat_1
+Duration: 6 seconds.0:06
+どこで間違えたんでしょう…。一体、どこで…。
+
+What in the world went wrong...
+
+Tactic_Defeat_2
+Duration: 5 seconds.0:05
+力が…、入りません。
+
+I'm losing strength...
+
+Tactic_In_1
+Duration: 1 second.0:01
+始めます。
+
+Let's start.
+
+Tactic_In_2
+Duration: 3 seconds.0:03
+全部、うまくいきますように。
+
+I hope everything goes well.
+
+Tactic_Victory_1
+Duration: 4 seconds.0:04
+ふぅ……よかったです……。
+
+Ha... I'm glad.
+
+Tactic_Victory_2
+Duration: 3 seconds.0:03
+先生がいてくださったおかげです……。
+
+Thanks to Sensei who is here.
+
+Battle_Buffed_1
+Duration: 3 seconds.0:03
+あ、ありがとうございます！
+
+Thank you!
+
+Battle_BuffSelf_1
+Duration: 3 seconds.0:03
+私も、がんばりますから。
+
+I will work hard too.
+
+Battle_Covered_1
+Duration: 2 seconds.0:02
+隠れます！
+
+Hiding!
+
+Battle_Damage_1
+Duration: 2 seconds.0:02
+イタタ…。
+
+Ouch.
+
+Battle_Damage_2
+Duration: 2 seconds.0:02
+痛いです～！
+
+That hurts.
+
+Battle_Damage_3
+Duration: 1 second.0:01
+Battle_Defense_1
+Duration: 3 seconds.0:03
+ど、どうってことないです！
+
+It's not a big deal.
+
+Battle_In_1
+Duration: 4 seconds.0:04
+小説の主人公みたいに……前を向いて！
+
+Let's move forward like a novel's protagonist!
+
+Battle_In_2
+Duration: 4 seconds.0:04
+漫画の主人公みたいに……思いっきり！
+
+Let's use all our strength like a manga's protagonist!
+
+Battle_Move_1
+Duration: 2 seconds.0:02
+移動します！
+
+Moving.
+
+Battle_Move_2
+Duration: 4 seconds.0:04
+次の場所は……どこでしょう？
+
+The next location... Where is it?
+
+Battle_Recovery_1
+Duration: 3 seconds.0:03
+おかげで……元気になりました！
+
+Thanks, I'm feeling better!
+
+Battle_Retire
+Duration: 4 seconds.0:04
+ふぇー、くらくらします。
+
+Battle_Shout_1
+Duration: 1 second.0:01
+Battle_Shout_2
+Duration: 1 second.0:01
+Battle_Shout_3
+Duration: 1 second.0:01
+Battle_TacticalAction_1
+Duration: 1 second.0:01
+行きます！
+
+Here I go.
+
+Battle_Victory_1
+Duration: 5 seconds.0:05
+ヘヘ……秘密の蔵書を見つけた気分です。
+
+Battle_Victory_2
+Duration: 5 seconds.0:05
+知識は力ですから……守られなければなりません。
+
+CommonSkill
+Duration: 5 seconds.0:05
+ここは何度読んでも……うへへ……。
+
+ExSkill_1
+Duration: 2 seconds.0:02
+図書館ではお静かに……！
+
+Be quiet in the library.
+
+ExSkill_2
+Duration: 2 seconds.0:02
+読書の邪魔になります……！
+
+It'll obstruct reading!
+
+ExSkill_3
+Duration: 3 seconds.0:03
+大きな音を立てないでください……！
+
+Please don't make loud noises!
+
+ExSkill_Level_1
+Duration: 2 seconds.0:02
+静かにしてください……！
+
+Please be quiet!
+
+ExSkill_Level_2
+Duration: 2 seconds.0:02
+罰則です……！
+
+This is your penalty!
+
+ExSkill_Level_3
+Duration: 3 seconds.0:03
+もう、ひどいです……！
+
+That's cruel!
+
+Growup_1
+Duration: 6 seconds.0:06
+先生！見てください……！
+私、成長しました……！
+
+Sensei, look! I have grown!
+
+Growup_2
+Duration: 7 seconds.0:07
+ありがとうございます、先生。
+これも全部、先生のおかげです。
+
+Thank you Sensei. This is all thanks to you.
+
+Growup_3
+Duration: 12 seconds.0:12
+今のこの気持ち……うまく言葉にできませんけど……
+ずっと探していた絶版本を発見したときに、似てる気がします……。
+
+Even though I cannot describe my feelings well with words right now, I feel similarly with finding an out-of-print book that I have been seeking for a long time.
+
+Growup_4
+Duration: 9 seconds.0:09
+前進するって……こんなに楽しいことだったんですね。
+えへへ……嬉しいです。
+
+Making progress is such a pleasant thing. Hehe, I am so happy.
+
+Relationship_Up_1
+Duration: 10 seconds.0:10
+先生に出会えて、本当に良かったです。
+そうでなかったら、私は…… きっと……。
+
+It was really great to meet Sensei. If that's not the case, I...
+
+Relationship_Up_2
+Duration: 13 seconds.0:13
+こういう時、たしかあの漫画では……うへへ……。
+はっ！？い、いえ！な、何も想像してませんよ！？
+
+This situation is surely in that manga... Hehe... Ah! No, I'm not imagining anything!
+
+Relationship_Up_3
+Duration: 13 seconds.0:13
+先生は普段、どんな本を読みますか……？私が探してあげます！
+えっと……探せる範囲で、ですが。
+
+What kinds of books does Sensei usually read? I can look for them. Um... Within the scope of what I can find.
+
+Relationship_Up_4
+Duration: 8 seconds.0:08
+先生と一緒にいると……なんだか、力が沸いてきます。
+今なら何でもできそうです……！
+
+When Sensei is together with me, I can somehow feel my strength welling up! Now I can do anything!
+---
+MomoTalk✕
+
+Momiji
+Umm...Sensei?
+
+Momiji
+Can I borrow you for a little while?
+Hi, Momiji. Of course you can.
+
+Momiji
+Good...
+If you don't mind, I'd like to ask you a favor...
+Sure.
+Relationship Event
+To Momiji's Relationship Story
+
+Momiji
+Did you make it home safely, Sensei?
+I put you through so much...
+Oh, it was nothing.
+You'd better find a safe place to keep that fanzine.
+
+Momiji
+Of course!
+
+MomoTalk✕
+
+Momiji
+Sensei,
+
+Momiji
+do you collect anything?
+I've collected a lot of fatigue...
+
+Momiji
+Huh?
+That's not good!
+Reply
+What about you?Do you collect something?
+
+Momiji
+I...
+Heehee. I collect books.
+Relationship Event
+To Momiji's Relationship Story
+
+MomoTalk✕
+
+Momiji
+Sensei...
+
+Momiji
+Sensei!
+It's starting! finally!
+Reply
+What's that?Momiji, you seem extra excited!
+
+Momiji
+Ah, yes, that's because!
+Sorry, I got ahead of myself and
+Calm down and type it out slowly.
+
+Momiji
+Right...
+
+Momiji
+It's the Red Winter Book Festival!
+Hm?
+Relationship Event
+To Momiji's Relationship Story
+
+Momiji
+Sensei, did you make it home safely?
+You're not too tired, are you?
+I'm fine.
+
+Momiji
+What a relief!
+You'll help out tomorrow too, right?
+T-Tomorrow?!
+
+Momiji
+Yes! The Red Winter Book Festival continues until tomorrow!
+And there are so many sections I still need to see!
+I'll be there...
+
+Momiji
+Yay! Thank you!
+I can't wait!
+Sleep tight!
+
+MomoTalk✕
+
+Momiji
+Hello, Sensei.
+Hello........
+
+Momiji
+Huh?
+Is something wrong?
+It's nothing...
+Just feeling tired after staying up two nights in a row...
+
+Momiji
+Oh no, that is something!
+I mean, I've stayed up a few nights reading manga, but...
+
+Momiji
+Uh, Sensei?
+If you feel up to it...could you stop by the Red Winter Library?
+The library...?
+Relationship Event
+To Momiji's Relationship Story
+---
+“	Oh,...! Riba is a wicked way to go!	”
+~ Akiizumi Momiji
+
+Akiizumi Momiji (秋泉モミジ) is one of the students studying in Red Winter Federal Academy who wields a Rocket Launcher.
+
+She is a member of the Knowledge Liberation Front.
+
+
+Contents
+1	Profile
+1.1	Introduction
+1.2	Personality
+1.3	Appearance
+1.3.1	Halo
+1.3.2	Uniform
+1.3.3	Firearm
+2	Combat
+2.1	Skills
+2.2	Growth Material
+2.3	Unique Equipment
+2.4	Unique Item
+2.5	Bond
+3	Poll
+4	Trivia
+5	Navigation
+Advertisement
+Profile
+Momiji is the bookworm girl from Red Winter Federal Academy, and a member of the "Knowledge Liberation Front".
+
+Unlike other Red Winter students who fight for bread and snacks, her struggle lies in adding more books to the library. Momiji's quite the otaku, so the book purchase requests she regularly files are clearly driven by personal interests. As a result, most of her requests so far have been rejected, but Momiji continues to submit them without giving up.
+
+Introduction
+One of the members of the Knowledge Liberation Front. She is a literary girl fighting for the library's collection.
+
+Personality
+Momiji is a huge fan of books; she has an entire collection. Momiji often invites Sensei to go with her to the "Red Winter Book Festival," where she finds many discounted books. She becomes passionate and speaks eloquently with a twinkle in her eye when it comes to manga.
+
+Appearance
+Momiji is a small girl with knee-length grass green hair, bangs framing her adorable face and yellow-greenish coloured eyes.
+
+Halo
+Momiji has an ice-purplish halo resembling an eight-teethed gear that is missing two teeth.
+
+Uniform
+Momiji wears a white coat with white fur trimmings at the edges, adorned with a red sash around her waist making a bow with Christmas-like patterns on it. She wears black tights and black boots with ankle-high fur trimming. Additionally, she wears a white winter hood styled with animal-ears that exposes her forehead, leaving her fringe uncovered. Both ears boast a ribbon tied around each of them.
+
+Firearm
+She uses a white RPG-7V rocket launcher with a red rear exhaust. The whole launcher is deformed to have a Christmas theme on it. A white bear is in place for the warhead.
+
+Profile
+Age
+15
+Birthday
+7th August
+Height
+135cm
+School Year
+1st Year
+Club
+Knowledge Liberation Front
+Hobby
+Collecting Manga

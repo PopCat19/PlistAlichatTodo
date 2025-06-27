@@ -1,0 +1,889 @@
+Normal lines
+Name		Transcription
+Japanese	English
+Title	
+Duration: 3 seconds.0:03	
+ブルーアーカイブ～。
+
+Blue Archive.
+
+Gachaget	
+Duration: 16 seconds.0:16	
+あれっ、迎えに来てくれたっすか？言ってくれたらこっちから向かったのに～。改めまして、トリニティ総合学園、正義実現委員会のイチカっす。よろしくっす！
+
+Oh, have you come to pick me up? I would have gone myself if you'd asked. Once again, I am Ichika of the Trinity General School Justice Task Force. Please look after me!
+
+Cafe_monolog_1	
+Duration: 4 seconds.0:04	
+おっ、ここっすか？
+先生のカフェ！
+
+Ah, so this is it? Sensei's Cafe!
+
+Cafe_monolog_2	
+Duration: 5 seconds.0:05	
+なるほど、
+こういう趣味
+だったんすね……。
+
+I see. So this is how you like it...
+
+Cafe_monolog_3	
+Duration: 3 seconds.0:03	
+ここ、
+平和でいいっすね！
+
+It's very peaceful!
+
+Cafe_monolog_4	
+Duration: 2 seconds.0:02	
+落ち着く……。
+
+I'm relaxing...
+
+Cafe_monolog_5	
+Duration: 3 seconds.0:03	
+片付けでも
+手伝いますか……。
+
+Should I at least help clean...?
+
+LogIn_1	
+Duration: 7 seconds.0:07	
+おかえりっす、先生！
+今日も一日、
+頑張っていくっすよ～！
+
+Welcome, Sensei! I'll do my best today too!
+
+LogIn_2	
+Duration: 9 seconds.0:09	
+じゃじゃーん！
+イチカ、登場っす！
+
+……じゃなく、
+先生の、登場っす！
+
+Ta-da! Ichika is here!
+
+Or rather, it's Sensei that's here!
+
+Lobby_1	
+Duration: 10 seconds.0:10	
+いや～
+ここの仕事は楽っすね！
+
+あ、簡単って意味じゃなくて、
+方向性の話っすよ。
+
+My, working here is quite comfortable!
+
+Ah. I'm not saying that it's easy, of course. It's just very pleasant.
+
+Lobby_2	
+Duration: 11 seconds.0:11	
+一番大変なのは……
+ケンカの仲裁っすかね。
+
+お、先生もっすか？
+仲間っすね。
+
+My most difficult work... I'd say it's breaking up fights.
+
+Oh, you too, Sensei? We're the same.
+
+Lobby_3	
+Duration: 6 seconds.0:06	
+みんなも全力でやらないで、
+そこそこで
+留めればいいのに……。
+
+I wish that everyone would simply relax and not get so worked up...
+
+Lobby_4	
+Duration: 8 seconds.0:08	
+私も先生みたいに、
+背負うものができたら……
+何かに夢中になれるんすかね？
+
+If I'm given a great responsibility, like Sensei has been... Will I be able to immerse myself in it completely?
+
+Lobby_5	
+Duration: 8 seconds.0:08	
+頼み事っすか？
+なんでもするっすよ！
+
+言われた通りに
+何かをするのは、
+自信あるっす！
+
+Do you have a task for me? I'll do whatever you need!
+
+I'm confident that I can complete any job you give me!
+
+Season_Birthday_Player	
+Duration: 10 seconds.0:10	
+お誕生日おめでとうっす、
+先生！！
+
+何かいいことあったんすか？
+なかったら、
+今から一緒に作りにいくっす！
+
+Happy birthday, Sensei!
+
+Has anything good happened to you today? If not, let's make sure something good happens right now!
+
+Season_Birthday	
+Duration: 17 seconds.0:17	
+…ええと、誕生日に、
+わざわざここに来た理由、
+っすか……？
+
+そっすねぇ……
+誕生日だからこそ、
+来てみた……てきな？ひひ。
+
+Hm... You want to know why I came all the way here on my birthday?
+
+Right... Maybe I came...BECAUSE it's my birthday. Heehee!
+
+Season_NewYear	
+Duration: 8 seconds.0:08	
+明けましておめでとうっす、
+先生！
+
+今年こそ、
+のんびりできるといいっすね！
+
+Happy new year, Sensei!
+
+I pray that this year, I might enjoy some leisure!
+
+Season_Xmas	
+Duration: 11 seconds.0:11	
+今日は朝から
+バタバタしちゃってすみません！
+
+正義実現委員会は
+あっちこっちから
+呼ばれることが多くて……
+
+目が回るっす～！
+
+I'm sorry it's been so hectic since this morning!
+
+The Justice Task Force has been called on to take care of all kinds of things.
+
+My head is spinning!
+
+Season_Halloween	
+Duration: 10 seconds.0:10	
+なんか嫌な
+予感がするっす……。
+
+でもまあ、
+別に大丈夫じゃないっすかね？
+はは！
+
+Somehow, I've got a bad feeling...
+
+Well, I'm sure it'll turn out all right, no? Haha!
+
+ExWeapon_Get	
+Duration: 20 seconds.0:20	
+なんというか……ええっと……
+こんなに良くしてもらえるのは、
+とてもありがたいのですけど、
+私にそんな価値があるかどうかは……。
+でも……嬉しいです。本当に。
+
+What should I say...? I'm thankful that you're treating me so kindly, but I don't know if I deserve it... Still... I'm happy. Really.
+
+Memorial lobby
+Name		Transcription
+Japanese	English
+MemorialLobby_1	
+Duration: 6 seconds.0:06
+Duration: 5 seconds.0:05	
+はは！
+先生、こっちっす！こっち！
+見えるっすか？
+
+あーこれはただの
+風船っすけど……。
+
+Haha! Sensei! Over here! Here! Can you see me?
+
+Ah! This balloon, it's such a simple thing...
+
+MemorialLobby_2	
+Duration: 8 seconds.0:08
+Duration: 7 seconds.0:07	
+なんだか、コレ持ってると
+遊園地ではしゃぐ子供みたいに
+見えちゃうっすね……はは。
+
+あ！私のじゃないっすよ！
+……その、成り行きで、
+ちょっと。
+
+But, when I'm holding it... I feel like a kid again. It reminds me of visiting amusement parks with friends... Haha.
+
+Oh! This isn't mine though! It's just... One thing led to another, and...
+
+MemorialLobby_3	
+Duration: 7 seconds.0:07
+Duration: 4 seconds.0:04	
+あ、あれっ……
+そうなんすけど……
+どうして分かるんすか？
+
+なんでだろ……？
+顔に出ちゃってたとか……？
+
+Well, uh... Yes, that's it... How did you know?
+
+Huh...? Am I really that easy to read?
+
+MemorialLobby_4	
+Duration: 6 seconds.0:06
+Duration: 5 seconds.0:05	
+まぁいいや……
+この角度から先生を見るのは、
+初めてっすね。
+
+視点が違うと、
+見え方も違ってくる
+気がするというか……
+
+Ah. Well, whatever... You know, I've never seen you from this angle before.
+
+It's a whole new perspective. Everything looks...different.
+
+MemorialLobby_5	
+Duration: 4 seconds.0:04
+Duration: 4 seconds.0:04	
+……なんだか、面白いっす。
+
+この感じ、気に入ったっす！
+……はは！
+
+It's kinda fun.
+
+I think I like it! Haha!
+
+Event lines
+Name		Transcription
+Japanese	English
+EventLogin_1	
+Duration: 4 seconds.0:04	
+ようこそ！こっちは
+準備万端っすよ！
+
+Welcome! I'm ready as I'll ever be!
+
+EventLogin_2	
+Duration: 4 seconds.0:04	
+さて、ぼちぼち
+始めるっす！
+
+Let's get started!
+
+EventLogin_Season_1	
+Duration: 3 seconds.0:03	
+これであと半分、
+っすかね？
+
+Wouldn't you say there's about half left?
+
+EventLogin_Season_2	
+Duration: 6 seconds.0:06	
+あと少しっすね。
+手伝えるものがあれば、
+なんでも
+言ってほしいっす！
+
+We're almost there. If there's anything I can do to help, please let me know!
+
+EventLogin_Season_End	
+Duration: 3 seconds.0:03	
+じゃ、さーっと
+見てみるっす！
+
+Very good. I'll take a look around!
+
+EventLobby_1	
+Duration: 3 seconds.0:03	
+はい、私はここっすよ。
+
+Yes. I'm right here.
+
+EventLobby_2	
+Duration: 4 seconds.0:04	
+ん……？
+さっきから
+どうしたんすか？
+
+Hm...? What's wrong?
+
+EventLobby_3	
+Duration: 5 seconds.0:05	
+そんなイタズラ、
+よくないっすよ～
+ひひっ。
+
+I don't care for this kind of joke... Heehee.
+
+EventLobby_4	
+Duration: 8 seconds.0:08	
+はは、先生、そんな
+何度も呼ばなくても。
+私はここで
+常時待機してるっすよ。
+
+Oh, Sensei. You don't have to call me like that multiple times. I'm always on standby right here.
+
+EventMission_Login_1	
+Duration: 4 seconds.0:04	
+はっ！先生！
+ちょうどいいところに！
+
+Oh! Sensei! Perfect timing!
+
+EventMission_Login_2	
+Duration: 4 seconds.0:04	
+リストのチェックっすね？
+こっちに用意してありますんで！
+
+You're going to check the list, aren't you? I've prepared it for you!
+
+EventMission_1	
+Duration: 7 seconds.0:07	
+おっと！なんすか、先生。
+同じこと、やり返しちゃっても
+いいんすか？
+
+Ah! What's this, Sensei? Are you going to do the same thing?
+
+EventMission_2	
+Duration: 3 seconds.0:03	
+……今度、
+覚悟しておくっすよ！
+
+...Next time, come prepared!
+
+EventMission_Get_1	
+Duration: 4 seconds.0:04	
+はい！確認完了っす～！
+
+Yes! Confirmation complete!
+
+EventMission_Get_2	
+Duration: 3 seconds.0:03	
+それっすか？
+押さえておくっす！
+
+Is that it? Let's clean up!
+
+EventMission_Day_End	
+Duration: 7 seconds.0:07	
+今日はこれで終わりっと！
+ははっ！先生、この後は
+何するんすか？
+
+That's it for today! So, Sensei. What are you going to do now?
+
+Tactics and growth
+	Some of the lines in this section are not extracted from the game. They are transcribed and translated manually and may contain errors. If you see a mistake, please make corrections by editing this page.
+Name		Transcription
+Japanese	English
+Formation_In_1	
+Duration: 2 seconds.0:02	
+了解っす！
+
+Understood!
+
+Formation_In_2	
+Duration: 2 seconds.0:02	
+私っすか？
+
+Me?
+
+Formation_Select	
+Duration: 4 seconds.0:04	
+あれっ……？出番、間違えたっすか？
+
+It's my turn, right? Did I get it wrong?
+
+Tactic_Defeat_1	
+Duration: 2 seconds.0:02	
+ふん……
+
+Tactic_Defeat_2	
+Duration: 4 seconds.0:04	
+なるほど、こういう感じだったんすねぇ……。
+
+I see. So, it's like this...
+
+Tactic_In_1	
+Duration: 2 seconds.0:02	
+いよいよ始まるっすね。
+
+It's finally starting, huh?
+
+Tactic_In_2	
+Duration: 4 seconds.0:04	
+いや～やることがいっぱいっす。
+
+Phew! There sure is a lot to do.
+
+Tactic_Victory_1	
+Duration: 3 seconds.0:03	
+皆さん、お疲れ様っす！
+
+Good work, everyone!
+
+Tactic_Victory_2	
+Duration: 6 seconds.0:06	
+ふぅ！一段落ついたし、帰るっすよ～
+
+Phew. Things calmed down for now. I'm heading back!
+
+Battle_Buffed_1	
+Duration: 2 seconds.0:02	
+助かったっす！
+
+That helped!
+
+Battle_BuffSelf_1	
+Duration: 2 seconds.0:02	
+本気で行くっすよ。
+
+I'm getting serious.
+
+Battle_Covered_1	
+Duration: 2 seconds.0:02	
+おっと！
+
+Whoa.
+
+Battle_Damage_1	
+Duration: 1 second.0:01	
+おお！
+
+Battle_Damage_2	
+Duration: 1 second.0:01	
+あれ…
+
+Battle_Damage_3	
+Duration: 2 seconds.0:02	
+あはは…
+
+Battle_Defense_1	
+Duration: 2 seconds.0:02	
+無駄っすよ～
+
+You can't hit me.
+
+Battle_In_1	
+Duration: 7 seconds.0:07	
+私について来～い……これでいいっすか？
+
+Everyone follow me!... Did that sound good?
+
+Battle_In_2	
+Duration: 3 seconds.0:03	
+さあ、行くっすよ～！
+
+Alright, here I go!
+
+Battle_Move_1	
+Duration: 3 seconds.0:03	
+さっさと終わらせるっす～
+
+Let's get this over quick.
+
+Battle_Move_2	
+Duration: 3 seconds.0:03	
+この調子でいくっすよ～！
+
+Keep going at that pace.
+
+Battle_Recovery_1	
+Duration: 2 seconds.0:02	
+やっほ～
+
+Yoo-hoo!
+
+Battle_Retire	
+Duration: 1 second.0:01	
+ちっ……
+
+Tsk...
+
+Battle_Shout_1	
+Duration: 1 second.0:01	
+やっ！
+
+Battle_Shout_2	
+Duration: 2 seconds.0:02	
+ふーん…
+
+Battle_Shout_3	
+Duration: 2 seconds.0:02	
+よいしょっと！
+
+Battle_TacticalAction_1	
+Duration: 1 second.0:01	
+よっ。
+
+Battle_Victory_1	
+Duration: 3 seconds.0:03	
+皆さん本当すごいっすね！
+
+You all are truly amazing.
+
+Battle_Victory_2	
+Duration: 4 seconds.0:04	
+いや～なんとかなるもんっすね！
+
+Phew! Things just work out sometimes.
+
+CommonSkill	
+Duration: 3 seconds.0:03	
+うまくいったんすかね～？
+
+Did that really work?
+
+ExSkill_1	
+Duration: 3 seconds.0:03	
+あ～あ。またっすか……？
+
+Haaa, again?
+
+ExSkill_2	
+Duration: 4 seconds.0:04	
+はぁ……もう勘弁してほしいっす。
+
+Sigh, give me a break.
+
+ExSkill_3	
+Duration: 3 seconds.0:03	
+今取り込み中っす……。
+
+I'm in the middle of something right now.
+
+ExSkill_Level_1	
+Duration: 3 seconds.0:03	
+じゃ、頼んだっすよ～
+
+Alright, I leave it to you!
+
+ExSkill_Level_2	
+Duration: 2 seconds.0:02	
+今度おごるんで！
+
+I'll treat you to something next time!
+
+ExSkill_Level_3	
+Duration: 4 seconds.0:04	
+あとでいいっすか？今取り込み中で～
+
+Can we do this later? I'm in the middle of something right now.
+
+Growup_1	
+Duration: 6 seconds.0:06	
+わっ！くれるんすか？
+ありがとうっす、先生！
+
+What?... For me? Thank you so much, Sensei.
+
+Growup_2	
+Duration: 5 seconds.0:05	
+そんな事しても、別に何も出ないっすよ？
+
+Giving me this won't get you anything, you know, right?
+
+Growup_3	
+Duration: 7 seconds.0:07	
+あははっ、こんだけもらっちゃったら、
+めちゃくちゃ頑張るしかないっすね～
+
+Ahaha, when you give me so much, I have no choice but to give it my absolute all.
+
+Growup_4	
+Duration: 8 seconds.0:08	
+ええーっと……。
+光栄っすけど、その……ははっ。
+
+Umm, I'm honored, you know, it's just... Ehehe...
+
+Relationship_Up_1	
+Duration: 6 seconds.0:06	
+その……困りました……なんとお礼を言えば……。
+
+Umm, this is tough... How should I thank you...
+
+Relationship_Up_2	
+Duration: 8 seconds.0:08	
+こういうときって……素直に喜んでいいんです、よね？
+
+In a situation like this, I guess I should just be sincere, right?
+
+Relationship_Up_3	
+Duration: 10 seconds.0:10	
+このご恩は、いつか必ず返すっす！
+どういう風に返すかは、その時までのお楽しみってことで！
+
+I'll make up for this one day. But what will I do in return? I guess that's one thing to look forward to.
+
+Relationship_Up_4	
+Duration: 10 seconds.0:10	
+なんだか、こそばゆいというか、妙な感じがするっす……。
+気のせいっすかね……？
+
+It's a bit embarrasing, don't you think? Is it just me?
+---
+MomoTalk✕
+
+Ichika
+Rumor has it
+
+Ichika
+that you're coming to Trinity today.
+
+Ichika
+Haha
+Believe it or not,
+I've been assigned to help you out this time.
+Reply
+Hello, Ichika.Let's do our best!
+
+Ichika
+Yes!
+I'll see you there!
+Relationship Event
+To Ichika's Relationship Story
+
+Ichika
+Sensei! Did you make it back all right?
+Reply
+I did.Thanks to you.
+
+Ichika
+It was nothing. Haha.
+
+Ichika
+Now that I've confirmed your safe return,
+I shall go to bed as well.
+Good night!
+
+MomoTalk✕
+
+Ichika
+Ah...
+
+Ichika
+What to do?
+
+Ichika
+Sensei...
+What do you do when you don't have any work?
+Reply
+I sleep like a log.I play games... Or work on other hobbies. Why do you ask?
+
+Ichika
+Mm.
+I see.
+
+Ichika
+Yes. Haha...
+Relationship Event
+To Ichika's Relationship Story
+
+Ichika
+Wow, that was fun.
+
+Ichika
+I got a lot out of today. In many ways.
+Reply
+Are you going to keep up the guitar?Playing was fun, right?
+
+Ichika
+Huh?
+
+Ichika
+Ahhh...
+
+Ichika
+No.
+I tried playing a few times at home, but I just can't get into it.
+Now my guitar sits in the corner of my room.
+
+Ichika
+Haha.
+
+MomoTalk✕
+
+Ichika
+Sensei.
+
+Ichika
+Are you free at the moment?
+Reply
+More or less. What's going on?I was just relaxing.
+
+Ichika
+Ah...
+
+Ichika
+It's nothing.
+
+Ichika
+I'm just really bored.
+I'm waiting on some other people and have nothing to do.
+
+Ichika
+Haha.
+Relationship Event
+To Ichika's Relationship Story
+
+MomoTalk✕
+
+Ichika
+Sensei.
+
+Ichika
+Do you have some time now?
+
+Ichika
+Oh...
+Don't worry. There's nothing wrong.
+Reply
+I do have some time. I'll come see you.Why don't we meet at the park?
+
+Ichika
+Oh!
+That would be great.
+
+Ichika
+I'll see you there.
+Relationship Event
+To Ichika's Relationship Story
+
+Ichika
+Mm.
+
+Ichika
+I had a great time today thanks to you.
+
+Ichika
+Thank you, Sensei.
+
+Ichika
+I'll be sure to reach out whenever I need help.
+You did ask me to, after all.
+Reply
+Sounds good. And remember to trust your heart.That's all you've got to do, okay?
+
+Ichika
+Yes!
+
+Ichika
+Mm...
+
+Ichika
+Although...
+For the time being...
+Haha.
+
+Ichika
+I'm not sure I'll find anything
+that speaks to me more than this.
+---
+Justice Realization Committee
+Hanekawa Hasumi
+She is the vice president of the club Ichika is in. The only time the two ever talked together in the story is during the incident with the Gourmet Research Society during V3C2.
+
+Kenzaki Tsurugi
+She is the president of the club Ichika is in. Ichika is mostly in charge of making sure the president doesn't go loose. Unfortunately, there's only so much Ichika can do to keep Tsurugi in control.
+
+Shimoe Koharu
+A fellow member of the Justice Realization Committee. During V3C4, Koharu was responsible for collecting what remains of Mika's accessories. Koharu then gave the remains to Ichika to give to Mika.
+
+Tea Party
+Misono Mika
+Under Koharu's request, Ichika gave what's left of Mika's belongings to Mika at V3C4E26, which caused Mika to love Koharu a lot.
+
+Gourmet Research Society
+Ichika was involved in the apprehension of the Gourmet Research Society due to their attack on Trinity.
+
+SCHALE
+Sensei
+Ichika first talked to Sensei during the Gourmet Research Society's infiltration in Trinity. She then met Sensei face-to-face during V3C4E25.
+---
+“	Oh, there's so much to do.	”
+~ Nakamasa Ichika
+
+Nakamasa Ichika (仲正イチカ) is one of the students studying in Trinity General School who wields an Assault Rifle.
+
+She is a member of the Justice Realization Committee.
+
+
+Contents
+1	Profile
+1.1	Introduction
+1.2	Personality
+1.3	Appearance
+1.3.1	Halo
+1.3.2	Uniform
+1.3.3	Firearm
+2	Combat
+2.1	Skills
+2.2	Growth Material
+2.3	Unique Equipment
+2.4	Unique Item
+2.5	Bond
+3	Poll
+4	Trivia
+5	References
+6	Navigation
+Advertisement
+Profile
+A member of the Justice Actualization Committee of Trinity Academy, Ichika always has a calm expression on her face. As a member of the Justice Actualization Committee, she is primarily in charge of mediation between students. Ichika maintains coirdial relationships with other schools as well. Her amiable personality should not be mistaken for something innate, it is a conscious result of continuous work.
+
+Introduction
+Ichika (or mononymously Chika) is a member of the Justice Realization Committee. Although she seems pretty easygoing and laid back in her mannerisms, she takes her duties quite seriously.
+
+Personality
+A seemingly calm and laid-back girl who doesn't seem to show much concern on most occasions. At best, she would only mention what's wrong with the situation because most of the time, the situation goes wrong before she can do anything about it, one example being Kenzaki Tsurugi mindlessly bashing through walls.
+
+However, behind those closed eyes of hers lies a destructive personality that lays hidden until Ichika's patience breaks. When that happens, Ichika's destructiveness can possibly even parallel Tsurugi's. She is not one to be underestimated.
+
+Appearance
+Ichika has straight, black, waist length hair with a pair of long sidebangs on the front. She wears two different hair pins on the left side of her hair. She has grey eyes, and a pair of black-feathered angel wings.
+
+Halo
+Her halo is a pair of two red circles, one smaller than the other, with four arrows pointing from the center towards four outward directions, seemingly forming a crosshair.
+
+Uniform
+She wears the usual Justice Realization Committee uniform - A black sailor shirt with a red strip on the pleated skirt and sleeves, and a red armband, the word "Justice" imprinted on it, and a red ribbon with choker on the neck. A pair of black shortgloves are found on her hands. She wears a pair of black shoes and socks along with the uniform.
+
+Firearm
+She uses a black Enfield EM-2 experimental bullpup assault rifle with red furniture.
+
+Profile
+Age
+16
+Birthday
+November 11th
+Height
+163cm
+School Year
+Second Year
+Club
+Justice Realization Committee
+Hobby
+Helping People
+Trying her hands on various things

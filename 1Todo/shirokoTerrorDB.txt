@@ -1,0 +1,751 @@
+Normal lines
+Name		Transcription
+Japanese	English
+Title	
+Duration: 2 seconds.0:02	
+ブルーアーカイブ。
+
+Blue Archive
+
+Gachaget	
+Duration: 7 seconds.0:07	
+アビドスの砂狼シロコ…。
+ん、またよろしくね、先生。
+
+Sunaookami Shiroko from Abydos... Nice to meet you again, Sensei.
+Cafe_monolog_1	
+Duration: 3 seconds.0:03	
+ここは…
+悪くない…。
+
+This place is not bad...
+Cafe_monolog_2	
+Duration: 2 seconds.0:02	
+平和だね、ここは。
+
+Peaceful here, isn't it?
+Cafe_monolog_3	
+Duration: 3 seconds.0:03	
+ん、休憩しようかな。
+
+I think I'll take a break.
+Cafe_monolog_4	
+Duration: 5 seconds.0:05	
+これは…なに？
+開けてみていいの…？
+
+What is this? Can I open it...?
+Cafe_monolog_5	
+Duration: 5 seconds.0:05	
+（この家具…先生の
+好みなのかな…）
+
+(This furniture... Is it Sensei's favorite?)
+LogIn_1	
+Duration: 4 seconds.0:04	
+忙しそうだけど…
+手伝おうか？
+
+You look busy... Need some help?
+LogIn_2	
+Duration: 8 seconds.0:08	
+ん、待ってたよ、先生。
+仕事が終わるまで、
+帰さないから。
+
+I've been waiting for you, Sensei. I won't leave until the job is done.
+Lobby_1_1	
+Duration: 11 seconds.0:11	
+先生、書類仕事、
+少し終わらせたよ。
+
+ん？教わってないのに、
+どうやったのかって？
+
+Sensei, I finished some paperwork.
+Hm? How did I do that if you didn't teach me?
+
+Lobby_1_2	
+Duration: 3 seconds.0:03	
+…前、やったことあるから。
+
+...Because I've done it before.
+Lobby_2_1	
+Duration: 8 seconds.0:08	
+休憩室にある
+お菓子、なんだけど…
+
+ごめん、ちょっと
+食べちゃった。
+
+The snacks in the break room, you know...
+I'm sorry, I ate some.
+
+Lobby_2_2	
+Duration: 4 seconds.0:04	
+もっと食べていいの？
+
+…ありがとう。
+
+Can I have more?
+...Thank you.
+
+Lobby_3	
+Duration: 7 seconds.0:07	
+先生、遅くまで仕事？
+
+私も、一緒に居てあげる。
+
+Are you working late, Sensei?
+I'll stay with you.
+
+Lobby_4	
+Duration: 8 seconds.0:08	
+何でそんなにじーっと
+見てるの…？
+
+ん、睨めっこ対決、
+受けて立つ。
+
+Why are you staring at me for that long...?
+A staring contest, huh? You're on.
+
+Lobby_5	
+Duration: 5 seconds.0:05	
+あれもこれも全部、
+懐かしいものばかり。
+
+All of those things are all things that I miss.
+Season_Birthday_Player	
+Duration: 13 seconds.0:13	
+誕生日、おめでとう。
+
+その、よかったら
+一緒にライディング…
+
+ん？その提案は
+今日で2回目？
+
+Happy Birthday.
+Umm, I was wondering if you'd like to go riding with me... Hmm? It's the second time I've suggested that today?
+
+Season_Birthday	
+Duration: 10 seconds.0:10	
+私の誕生日だね、
+ありがとう。
+
+…先生、こっちの私も、
+お祝いしてあげて。
+
+It's my birthday. Thank you.
+I'm over here too, Sensei, and you should celebrate.
+
+Season_NewYear	
+Duration: 11 seconds.0:11	
+あけましておめでとう、先生。
+
+また新しい一年が始まるね。
+先生の今年の目標は？
+
+Happy New Year, Sensei.
+Another year is starting. What are your goals for this year?
+
+Season_Xmas	
+Duration: 12 seconds.0:12	
+クリスマスだね…
+私へのプレゼントは？
+
+ふふ、冗談だよ。
+メリークリスマス、先生。
+
+It's Christmas... Did you get me a present?
+Heh, I'm just kidding. Merry Christmas, Sensei.
+
+Season_Halloween	
+Duration: 9 seconds.0:09	
+トリック・オア・トリート。
+
+ん、先に言ったのは私。
+お菓子、もらうね。
+
+Trick or Treat.
+I said it first, so I'll take a candy.
+
+ExWeapon_Get	
+Duration: 12 seconds.0:12	
+私に、ここまで
+してくれるんだ。う、ううん。
+不満とかじゃなくて。
+ただ、ちょっと驚いただけ…。
+
+You're going to do this much for me?
+Oh... No, I'm not complaining or anything. I was just a little surprised...
+
+Memorial lobby
+Name		Transcription
+Japanese	English
+MemorialLobby_1	
+Duration: 3 seconds.0:03
+Duration: 4 seconds.0:04	
+…いつも通りだね、
+ここは。
+
+変わったのは、
+私だけか。
+
+This place is still the same.
+I guess I'm the only one who has changed.
+
+MemorialLobby_2	
+Duration: 7 seconds.0:07	
+ん…でも、変わって
+ないものもあって、
+少し安心した。
+
+But some things haven't changed, which is a bit of a relief.
+MemorialLobby_3	
+Duration: 6 seconds.0:06	
+先生、私、
+また自転車に
+乗ってみたいと思う。
+
+Sensei, I would like to ride my bicycle again.
+MemorialLobby_4	
+Duration: 3 seconds.0:03
+Duration: 6 seconds.0:06	
+色々と壁はあるかも
+しれないけど…
+
+でも、先生が
+居てくれたら…
+できる気がするの。
+
+There may be many barriers...
+But with you here... I feel like I can do it.
+
+MemorialLobby_5	
+Duration: 4 seconds.0:04	
+ん、ありがとう。先生。
+
+Mm. Thank you, Sensei.
+Tactics and growth
+	Some of the lines in this section are not extracted from the game. They are transcribed and translated manually and may contain errors. If you see a mistake, please make corrections by editing this page.
+Name		Transcription
+Japanese	English
+Formation_In_1	
+Duration: 3 seconds.0:03	
+準備完了。手伝うね。
+
+I'm ready. Let me help you.
+Formation_In_2	
+Duration: 2 seconds.0:02	
+ん、参戦する。
+
+I'll join in.
+Formation_Select	
+Duration: 2 seconds.0:02	
+どうかしたの……？
+
+Is something wrong...?
+Tactic_Defeat_1	
+Duration: 2 seconds.0:02	
+鈍ったかな……。
+
+Guess I'm getting slow...
+Tactic_Defeat_2	
+Duration: 3 seconds.0:03	
+大丈夫……、また挑戦しよう。
+
+Don't worry... We'll try again.
+Tactic_In_1	
+Duration: 3 seconds.0:03	
+敵を発見、指示をお願い。
+
+Enemy found, please give instructions.
+Tactic_In_2	
+Duration: 2 seconds.0:02	
+撃ってもいい？
+
+Can I shoot?
+Tactic_Victory_1	
+Duration: 2 seconds.0:02	
+ん、想定通り。
+
+Just as expected.
+Tactic_Victory_2	
+Duration: 4 seconds.0:04	
+先生がいるんだもの。
+当然の結果。
+
+A natural result, since Sensei is with us.
+Battle_Buffed_1	
+Duration: 1 second.0:01	
+ありがとう。
+
+Thank you.
+Battle_BuffSelf_1	
+Duration: 3 seconds.0:03	
+ん……、一人でもできる。
+
+Mm, I'll hold my own.
+Battle_Damage_1	
+Duration: 2 seconds.0:02		
+Battle_Damage_2	
+Duration: 1 second.0:01		
+Battle_Damage_3	
+Duration: 1 second.0:01		
+Battle_Defense_1	
+Duration: 2 seconds.0:02	
+くすぐったい。
+
+That tickles.
+Battle_In_1	
+Duration: 2 seconds.0:02	
+ん、先頭に立つ。
+
+I'll take the lead.
+Battle_In_2	
+Duration: 2 seconds.0:02	
+ん、付いてきて。
+
+Follow me.
+Battle_Move_1	
+Duration: 2 seconds.0:02	
+次はどこ？
+
+Where to next?
+Battle_Move_2	
+Duration: 3 seconds.0:03	
+自転車、持ってくればよかった……
+
+I should have brought my bike...
+Battle_Recovery_1	
+Duration: 1 second.0:01	
+ありがとう。
+
+Thank you.
+Battle_Retire	
+Duration: 3 seconds.0:03	
+まだ、足りないのに。
+
+It's still not enough.
+Battle_Shout_1	
+Duration: 1 second.0:01		
+Battle_Shout_2	
+Duration: 1 second.0:01		
+Battle_Shout_3	
+Duration: 1 second.0:01		
+Battle_TacticalAction_1	
+Duration: 1 second.0:01	
+移動する。
+
+Moving on.
+Battle_Victory_1	
+Duration: 3 seconds.0:03	
+ん、もう安心して。
+
+Rest assured now.
+Battle_Victory_2	
+Duration: 2 seconds.0:02	
+お疲れ様。
+
+Thanks for your help.
+CommonSkill	
+Duration: 2 seconds.0:02	
+これを出す時が来たね。
+
+It's time to get this out.
+ExSkill_1	
+Duration: 3 seconds.0:03	
+これは……ありがとう。
+
+This is... Thank you.
+ExSkill_2	
+Duration: 4 seconds.0:04	
+先生？……ん、分かった。
+
+Sensei? ...Got it.
+ExSkill_3	
+Duration: 4 seconds.0:04	
+私に……？いいよ、任せて。
+
+You want me to...? Okay, I'll take care of it.
+ExSkill_Level_1	
+Duration: 1 second.0:01		
+ExSkill_Level_10	
+Duration: 2 seconds.0:02	
+ん、手に馴染む。
+
+It fits in my hand.
+ExSkill_Level_11	
+Duration: 2 seconds.0:02	
+目標は前方。
+
+Target ahead.
+ExSkill_Level_12	
+Duration: 3 seconds.0:03	
+火力支援、始める。
+
+Commencing fire support.
+ExSkill_Level_2	
+Duration: 2 seconds.0:02	
+本気でいくよ。
+
+Time to get serious.
+ExSkill_Level_3	
+Duration: 2 seconds.0:02	
+手加減しない。
+
+I won't go easy on you.
+ExSkill_Level_4	
+Duration: 2 seconds.0:02	
+また……、強くなった。
+
+I'm stronger again.
+ExSkill_Level_5	
+Duration: 2 seconds.0:02	
+これも耐えられる。
+
+This is also bearable.
+ExSkill_Level_6	
+Duration: 2 seconds.0:02	
+体が軽くなった感じ。
+
+I feel lighter.
+ExSkill_Level_7	
+Duration: 2 seconds.0:02	
+見せてあげる。
+
+I'll show you.
+ExSkill_Level_8	
+Duration: 3 seconds.0:03	
+ん、もう少し頑張る。
+
+I'll try a little harder.
+ExSkill_Level_9	
+Duration: 1 second.0:01		
+Growup_1	
+Duration: 4 seconds.0:04	
+私にくれるの？大切にするね。
+
+You're giving it to me? I'll take good care of it.
+Growup_2	
+Duration: 5 seconds.0:05	
+ん、大きくなったかも……。
+身長のことだよ。
+
+I may have gotten bigger... I mean the height.
+Growup_3	
+Duration: 7 seconds.0:07	
+これは……
+ん、たしかに受け取った。役に立てるよう努力する。
+
+Is this... Yes, I have received it. I'll try to be helpful.
+Growup_4	
+Duration: 6 seconds.0:06	
+ありがとう、先生。
+これからも……よろしく。
+
+Thank you, Sensei. Let's keep up the good work.
+Relationship_Up_1	
+Duration: 3 seconds.0:03	
+先生、肩……貸して。
+
+Sensei... Lend me your shoulder.
+Relationship_Up_2	
+Duration: 4 seconds.0:04	
+先生を手伝うことができて、良かった。
+
+It was nice to be able to help you, Sensei.
+Relationship_Up_3	
+Duration: 11 seconds.0:11	
+えっと……どんな風に聞こえてしまうか分からないけど、
+その……先生と一緒にいると、なんだか落ち着く。
+
+Umm... I don't know how it will sound, but... I feel comfortable with you.
+Relationship_Up_4	
+Duration: 8 seconds.0:08	
+まだ知らないこと、たくさんあるから……
+ん、先生が色々教えて。
+
+There are so many things I don't know yet... I'm sure you'll be able to help me out.
+---
+MomoTalk✕
+
+Shiroko＊Terror
+This is a test message.
+
+Shiroko＊Terror
+Ahem
+AHEMMM
+
+Shiroko＊Terror
+Can you see this? Is it working?
+Yeah, Shiroko, I think it’s working okay
+
+Shiroko＊Terror
+Um...
+Good. I'm glad.
+
+Shiroko＊Terror
+Talk to you later.
+Hey, Shiroko, wait. Where are you now?
+
+Shiroko＊Terror
+Me?
+I'm in the Abydos District
+Let's hang out!!
+
+Shiroko＊Terror
+...All right.
+I can make that work
+
+Shiroko＊Terror
+I'll be waiting
+I won't be long!
+
+Shiroko＊Terror
+Detergent, 500 milliliters of milk, a half dozen eggs, tissues, a towel
+Shower gel < MUST get
+Reply
+...Huh?Shiroko?
+
+Shiroko＊Terror
+Oh.
+Sorry, Sensei, didn't mean to send that to you.
+Relationship Event
+To Shiroko＊Terror's Relationship Story
+
+MomoTalk✕
+
+Shiroko＊Terror
+Hey, Sensei.
+
+Shiroko＊Terror
+I have an amazing idea.
+Come here right away.
+Not sure what to expect here, but sure thing!
+
+Shiroko＊Terror
+Okay, so...
+So...
+Let me explain it in person.
+Relationship Event
+To Shiroko＊Terror's Relationship Story
+
+Shiroko＊Terror
+Sensei, this is a disaster...
+
+Shiroko＊Terror
+I tried on a riding suit, just in case...
+But the zipper...
+Oh my...
+
+Shiroko＊Terror
+Oh,
+Just so there's no misunderstanding
+I have NOT gained weight.
+Um, of course not...
+
+Shiroko＊Terror
+...
+Goodnight, Sensei.
+
+MomoTalk✕
+
+Shiroko＊Terror
+Hey Sensei
+
+Shiroko＊Terror
+Can we hang out
+If it's all right with you?
+What's wrong, Shiroko?
+
+Shiroko＊Terror
+Uh
+I need some advice...
+All right!
+
+Shiroko＊Terror
+Okay, thanks.
+Relationship Event
+To Shiroko＊Terror's Relationship Story
+
+Shiroko＊Terror
+The showdown...
+The showdown...?
+
+Shiroko＊Terror
+Ah.
+Yeah.
+
+Shiroko＊Terror
+It somehow led to a street race...
+Reply
+A street race?!Who won?!
+
+Shiroko＊Terror
+Well, if you want to know the results...
+4 wins, 7 losses, 1 tie. We raced 12 times.
+I lost
+I knew they'd be strong...
+
+Shiroko＊Terror
+But, all good.
+They even had their riding suits on
+
+Shiroko＊Terror
+I'll get them back next time.
+When I finish my bike, that is
+
+Shiroko＊Terror
+You should come watch, Sensei.
+Ah, of course. I'll be there.
+
+Shiroko＊Terror
+Who are you going to support?
+Reply
+That's a secret.I can't tell you.
+
+Shiroko＊Terror
+Okay.
+I thought you'd say that
+
+Shiroko＊Terror
+Thanks, Sensei
+
+Shiroko＊Terror
+I'll talk to you next time.
+---
+Iridescence
+Phrenapates
+Spoilers!
+Known as The False Sensei. Phrenapates is Shiroko Terror's Sensei from a different timeline who came into contact with the Iridescence. The two came into the current Kivotos seemingly to complete the Iridescence's will, but it turns out that it was all a plan devised by Phrenapates to entrust our Sensei with taking care of Shiroko Terror and Plana in hopes of giving them a better life.
+
+Advertisement
+SCHALE
+Plana
+Similar to Arona, Plana assists Phrenapates in leading Shiroko Terror during battle.
+
+Sensei
+Spoilers!
+During the Ark of Atra-Hasis's self-destruct initiation, Sensei was tasked to help all the students present in the Ark evacuate using a limited-usage teleporter. While Phrenapates and Shiroko Terror stood defeated, Sensei used the last available use on Shiroko Terror to evacuate her safely, leaving only Sensei and Phrenapates onboard as the Ark exploded.
+Countermeasures Committee
+Sunaookami Shiroko
+Spoilers!
+After being evacuated safely from the Ark of Atra-Hasis, Shiroko Terror met with Shiroko. Although the two fought on the Ark beforehand, they put that aside and made amends with each other, even joking around saying that Hoshino will get mad at them if they begin robbing together.
+---
+Prologue
+Shiroko Terror made her first appearance during Sensei's dream before waking up to Rin's calling.
+
+
+Advertisement
+Volume Final: Where All Miracles Begin
+Chapter 1: Operation: Retake Schale
+Sensei continued to have the exact same dream of Shiroko Terror appearing and shooting the Shittim Chest and Sensei. Sensei felt like it was a sign, so they asked for Seia's opinion about it. Surprisingly, Seia had been having the same dream as well.
+
+Chapter 2: Operation: False Sanctum
+After destroying the False Sanctums and their guardians, Kivotos felt a short period of relief. As Sensei was about to take a break, Shiroko Terror made her appearance in front of Sensei, threatening their life. She proposed that Sensei move as far away from Kivotos as possible or she will have to end their life. Suddenly, Schale's alarms rang and some students rushed in to Sensei's office. These students are Rin, Momoka, Ayumu, and Ayane. As Ayane showed up, Shiroko Terror turned speechless and decided to flee using a portal. Sensei instinctively jumped into the portal as well. On the other side, Sensei saw Shiroko Terror alongside a mysterious being. Sensei knew it was the Iridescent Vanguard, but they couldn't do anything about it as the mysterious being quickly knocked Sensei back through the portal and to their office.
+
+Chapter 3: The Ark of Atrahasis
+After a new problem arises, Sensei learns that the Iridescent Vanguard was Phrenapates which was located floating 75.000 altitude in the sky, Sensei meets Black Suit to ask for a solution to reach Phrenapates. He learns that the weapon( which was an intergalactic ship ) to reach Phrenapates was located in Kaiser excavation site. The Foreclosure Taskforce and Veritas Members ambushes Kaiser PMC for the weapon. After the students retrieve the Utnapishtim's Ship, Himari suggests inviting scholars from other academies to help pilot the ship with Nanagami Rin. They invite the Engineering Departmment, Hanako, Game Development Department, Ayane, Yuuka, Ako, and Kayoka, The Engineering Department discovers that the ship can assault the barriers surrounding The Ark of Atrahasis. Everybody's last night on the ground was filled with hope, and goodbyes. The ships operators dons their Operator uniforms, The Forclosure Taskforce were also invited in to the ship aswell as Gourmet Research Society and Fuuka, and departed afterwards. Arona warns Sensei that by using his body to power the ship, can may cause him to die, but Sensei dosen't hesitate and accepts what will happen. Everybody onboard realizes that they can't pass through the barrier, but Aris asks Kei to assist in destroying the barrier but Kei tries to stop her but ended up giving in, Kei uses Aris's Body to destroy the barrier using the Sword of Light, allowing the Students to get inside of the Ark
+
+TBCa
+---
+“	You cannot change a predetermined fate. As was planned, Kivotos shall reach its demise.	”
+~ Shiroko Terror
+
+Shiroko Terror (シロコ＊テラー) is one of the students studying in Abydos High School who wields an Assault Rifle. She is a Nameless Goddess and a member of the Countermeasures Committee. She was also a member of the Iridescent Vanguard.
+
+She is one of the two main antagonists of Volume F alongside Phrenapates.
+
+
+Contents
+1	Profile
+1.1	Introduction
+1.2	Personality
+1.3	Appearance
+1.3.1	Halo
+1.3.2	Uniform
+1.3.3	Firearm
+2	Combat
+2.1	Skills
+2.2	Growth Material
+2.3	Unique Equipment
+2.4	Unique Item
+2.5	Bond
+3	Etymology
+4	Poll
+5	Trivia
+6	Reference
+7	See Also
+8	Navigation
+Quick Answers
+fandom logo
+What role does Shiroko Terror play in Blue Archive?toggle section
+Shiroko Terror is a Nameless Goddess named the Goddess of Death, Anubis. She was part of the Iridescent Vanguard, tasked to lead Kivotos to its demise. Her role was to lead the world to its destined end, a task she hesitates to perform due to certain individuals.
+Provided by: Community
+
+REPORT ISSUE
+How does Shiroko Terror contribute to the demise of Kivotos in Blue Archive?toggle section
+Shiroko Terror, the Goddess of Death and former Iridescent Vanguard member, played a significant role in the apocalypse that befell Kivotos. She wielded power with the Guide of Chroma, causing chaos in Kivotos and leading to its destruction as part of her belief in a predetermined fate.
+Provided by: Community
+
+REPORT ISSUE
+What is the relationship between Shiroko Terror and Sunaookami Shiroko?toggle section
+Being two Sunaookami Shirokos with different experiences, both share many similarities with each other. Though Shiroko Terror tried staying distant from her other self because having two Shirokos in a world is not allowed, Sunaookami Shiroko presented Shiroko Terror with a robbery mask as a token before their separation.
+Provided by: Community
+
+REPORT ISSUE
+
+Unmute
+
+Advanced Settings
+
+Fullscreen
+
+Pause
+
+Rewind 10 Seconds
+
+Up Next
+Profile
+Shiroko from another timeline who crossed over along with Phrenapates. She is the same as Shiroko in this timeline, though a little more grown up. Shiroko deeply cares for Abydos and will do whatever it takes to rebuild the school and the region, though sometimes she shows her eccentric side.
+
+Introduction
+A mysterious student(?) whose appearance is unmistakably Sunaookami Shiroko's, but is not quite the same. A Nameless Goddess who made contact with the Iridescence, leading it to Kivotos, and consequently, Kivotos' demise.
+
+Spoilers!
+Known as the "God of Death - Anubis" (死の神〜アヌビス), this version of Shiroko was one who had fallen into despair after the loss of her friends and Sensei, subsequently making contact with the Iridescence and becoming the first Iridescent Vanguard member.
+
+Advertisement
+Personality
+A visibly gloomy version of Shiroko who's most definitely affected by her past and present. Having suffered the loss of her loved ones, she came into the world to fulfill the role of bringing this world to its predetermined end. However, it seems she is still quite hesitant in doing so after knowing the existence of certain people.
+
+Appearance
+Shiroko (Terror) has misty-gray, waist-length hair, and a pair of wolf ears, sharing her hair color, as well as having white fluff on the inside. She has cyan eyes with heterochromia, having a white pupil on the left, and a black one on the right. She has vertical slit pupils. She has pale skin.
+
+Halo
+Her halo represents Shiroko's halo with pointed sides instead of the long rectangles Shiroko has. Her halo is black with a slight dark-green glow around the edges with shattered pieces on one section. On the illustration of its playable version, her halo has turned light blue, hinting that her mental state has healed somewhat, thanks to Sensei's guidance.
+
+Uniform
+She wears a black bustier dress, the skirt parting at her left thigh. The dress is long sleeved, with white cuffs, and a dark blue-green interior. A black choker is found around her neck, and a cyan T-shaped hairpin near her left temple. She wears dark grey high heels with straps, and a holster on her left thigh.
+
+Firearm
+She seems to be using the same firearms Shiroko uses with the exception that Shiroko (Terror)'s is repainted mostly black.
+
+Profile
+Age
+17
+Birthday
+May 16th
+Height
+165cm
+School Year
+Third Year
+Club
+Abydos Student Council
+Hobby
+Jogging
+Physical training
+Bike-riding

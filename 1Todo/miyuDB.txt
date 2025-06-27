@@ -1,0 +1,781 @@
+Normal lines
+Name		Transcription
+Japanese	English
+Title	
+Duration: 4 seconds.0:04	
+ぶ、ブルー……アーカイブ……
+
+B-Blue...Archive...
+
+Gachaget	
+Duration: 18 seconds.0:18	
+SRT特殊学園、
+RABBIT小隊の霞沢ミユ、です……
+あの、もう帰……っちゃ、だめですよね……
+
+Th-This is SRT Academy. RABBIT Squad's Kasumizawa Miyu... Umm... May I please...go b-back...?
+
+Cafe_monolog_1	
+Duration: 6 seconds.0:06	
+あ、えっと、その……
+
+Oh, um...
+
+Cafe_monolog_2	
+Duration: 6 seconds.0:06	
+（話しかけたい、
+けど……怖い……）
+
+(I want to start a conversation first...but I'm scared...)
+
+Cafe_monolog_3	
+Duration: 5 seconds.0:05	
+（温かいココアとか、
+飲みたい……）
+
+(I want a cup of hot chocolate...)
+
+Cafe_monolog_4	
+Duration: 8 seconds.0:08	
+（私みたいな
+出来損ない、こんなところに
+いちゃいけないんじゃ……）
+
+(I knew a useless crybaby like me didn't belong here...)
+
+Cafe_monolog_5	
+Duration: 4 seconds.0:04	
+な、何か、
+遮蔽物は……？
+
+Wh-What about the cover...?
+
+LogIn_1	
+Duration: 5 seconds.0:05	
+お、お疲れ様です、先生……
+
+Th-Thanks for your hard work, Sensei...
+
+LogIn_2	
+Duration: 10 seconds.0:10	
+先生のお好きな時に、
+呼んでください……
+その、待つのは得意なので……
+
+Please tell me when a good time is... I-I'm really good at waiting...
+
+Lobby_1	
+Duration: 9 seconds.0:09	
+あの、先生……
+私の名前、覚えてますか……？
+
+Um, Sensei... D-Do you remember me?
+
+Lobby_2	
+Duration: 7 seconds.0:07	
+新しい友達を作るなんて、
+そんな難しいこと……
+
+It's always h-hard for me to make new f-friends...
+
+Lobby_3	
+Duration: 6 seconds.0:06	
+RABBIT小隊、
+もっと仲良くなれたら
+良いのに……
+
+I wish the RABBIT Squad members got along b-better...
+
+Lobby_4	
+Duration: 6 seconds.0:06	
+もっと他の隊員みたいに、
+存在感があれば……
+
+I w-wish I was stronger...like th-the others...
+
+Lobby_5	
+Duration: 6 seconds.0:06	
+私なんて、どこにでも
+いる小石みたいな
+ものなので……
+
+I'm as useless as a p-pebble on the street...
+
+Lobby_6	
+Duration: 7 seconds.0:07	
+そもそもどうして
+私なんかが、SRTに……
+
+I-I don't know how I even g-got into SRT Academy...
+
+Season_Birthday_Player_1	
+Duration: 9 seconds.0:09	
+せ、先生がその……
+本日、誕生日だと
+聞きまして……。
+
+S-Sensei... Today's your b-birthday...
+
+Season_Birthday_Player_2	
+Duration: 8 seconds.0:08	
+野宿の立場なので、その、
+しっかりしたプレゼントは
+お渡しできないのですが……。
+
+I'm homeless, so I couldn't g-get you anything...
+
+Season_Birthday_Player_3	
+Duration: 8 seconds.0:08	
+えっと、
+お祝いの言葉だけは、
+どうにか伝えたくて……。
+
+B-But... Happy Birthday...!
+
+Season_Birthday_1	
+Duration: 7 seconds.0:07	
+えっ……私の誕生日、
+ですか……？
+
+H-Huh? My b-b-birthday?
+
+Season_Birthday_2	
+Duration: 6 seconds.0:06	
+ど、どうして覚えて……
+そんな……。
+
+H-How...did you remember that...? Wow...
+
+Season_Birthday_3	
+Duration: 9 seconds.0:09	
+あ、ありがとうございます……
+本当に、嬉しいです……！
+
+Th-Thank you... I'm so happy...!
+
+Season_NewYear	
+Duration: 5 seconds.0:05	
+今年は、SRTに
+帰れると良いですね……
+
+I w-wanna go home...back to the SRT this year...
+
+Season_Xmas_1	
+Duration: 7 seconds.0:07	
+サンタクロースさんは、
+悪い子にはプレゼントを
+渡さないとか……
+
+I-I heard Santa Claus...doesn't give bad kids p-presents...
+
+Season_Xmas_2	
+Duration: 9 seconds.0:09	
+いえ、そもそもサンタクロース
+さんも、私の存在を忘れている
+かもしれませんね……。
+
+S-Santa Claus probably forgot I exist...
+
+Season_Halloween_1	
+Duration: 8 seconds.0:08	
+そういえば昔、ハロウィーン
+ということでお化けの
+仮装をしたのですが。
+
+I w-wore a ghost costume at a Halloween festival once...
+
+Season_Halloween_2	
+Duration: 6 seconds.0:06	
+誰も、私の存在に
+気付いてくれませんでした……。
+
+B-But no one cared I was there...
+
+ExWeapon_Get	
+Duration: 10 seconds.0:10	
+RABBIT39式小銃、
+確かに受け取りました。
+……やはり、少し重いですね。
+
+RABBIT Type 39 rifle received. H-Heavy...
+
+Memorial lobby
+Name		Transcription
+Japanese	English
+MemorialLobby_1	
+Duration: 7 seconds.0:07
+Duration: 13 seconds.0:13	
+呼吸を整えて……
+
+目標に、集中……。
+
+距離1,150m、
+風は東北東から15ノット……
+
+温湿度による
+誤差を補正……
+
+Phew... Take a breath...
+
+Focus on the target...
+
+The distance is 1,150 meters...wind is from the northeast, fifteen knots.
+
+If I correct the error caused by temperature and humidity...
+
+MemorialLobby_2	
+Duration: 13 seconds.0:13
+Duration: 5 seconds.0:05	
+あ、あの……先生、できれば
+その、そういった悪戯は
+ご遠慮いただけますと……
+
+えっと、
+照準が乱れてしまうので……
+
+U-Um... Sensei. S-Stop playing around...p-please...
+
+That's...! I can't focus on aiming...
+
+MemorialLobby_3	
+Duration: 14 seconds.0:14
+Duration: 5 seconds.0:05	
+……なるほど。
+これは邪魔ではなく、
+
+実践に近い状況下での
+狙撃訓練、ということ
+ですよね……
+
+SRTでも、似たような訓練を
+したような気が……
+
+...Oh. I-It's not interference?
+
+Y-You're training me for a-actual combat...
+
+I think w-we did this at SRT...
+
+MemorialLobby_4	
+Duration: 1 second.0:01
+Duration: 9 seconds.0:09	
+ひゃぅっ……！？
+
+せ、先生……！
+いくら何でも、耳に息を
+吹きかけるのは……！？
+
+E-Eek...?!
+
+S-Sensei...! Y-You're b-b-breathing in m-my ear...!!
+
+MemorialLobby_5	
+Duration: 8 seconds.0:08
+Duration: 4 seconds.0:04	
+（うぅ……せ、先生の
+吐息が、この距離で……）
+
+（しょ、照準が
+ぶれるっ……！）
+
+(Sensei's breath is...so close...!)
+
+(I-I can't aim...)
+
+Tactics and growth
+	Some of the lines in this section are not extracted from the game. They are transcribed and translated manually and may contain errors. If you see a mistake, please make corrections by editing this page.
+Name		Transcription
+Japanese	English
+Formation_In_1	
+Duration: 3 seconds.0:03	
+せ、戦闘ですか……？
+
+Is it a battle?
+
+Formation_In_2	
+Duration: 4 seconds.0:04	
+他の子の邪魔に、ならないように……。
+
+Do not disturb other children.
+
+Formation_Select	
+Duration: 2 seconds.0:02	
+あうぅ……。
+
+Tactic_Defeat_1	
+Duration: 10 seconds.0:10	
+こうなると思ってました。私が関わると、結局いつもこんな風に…。
+
+I thought it would be like this. When I'm involved, it always ends up like this
+
+Tactic_Defeat_2	
+Duration: 5 seconds.0:05	
+逃げたい、辛い、帰りたい。
+
+I want to run away, it hurts, I want to go home.
+
+Tactic_In_1	
+Duration: 4 seconds.0:04	
+わ、私がリーダー、ですか？
+
+am i the leader?
+
+Tactic_In_2	
+Duration: 3 seconds.0:03	
+ど、どうしてこんなことに……
+
+Why is this happening?
+
+Tactic_Victory_1	
+Duration: 9 seconds.0:09	
+えっと、私たちの勝ち、ですか……？本当に……？
+
+Wait, we won? Really?
+
+Tactic_Victory_2	
+Duration: 9 seconds.0:09	
+そんな、おかしいです……私なんかがリーダーになって、勝てただなんて……
+
+That's strange. I can't believe I became the leader and won.
+
+Battle_Buffed_1	
+Duration: 3 seconds.0:03	
+あ、ありがとうございます……
+
+thank you.
+
+Battle_BuffSelf_1	
+Duration: 3 seconds.0:03	
+少し、本気を出します。
+
+I'll be a little more serious.
+
+Battle_Covered_1	
+Duration: 2 seconds.0:02	
+隠れました……。
+
+hid.
+
+Battle_Damage_1	
+Duration: 1 second.0:01		
+Battle_Damage_2	
+Duration: 1 second.0:01		
+Battle_Damage_3	
+Duration: 2 seconds.0:02		
+Battle_Defense_1	
+Duration: 5 seconds.0:05	
+もしかして、敵にも無視されてます……？
+
+Maybe the enemy will ignore you.
+
+Battle_In_1	
+Duration: 4 seconds.0:04	
+（上手く、できるかな……）
+
+(I wonder if I can do it well)
+
+Battle_In_2	
+Duration: 8 seconds.0:08	
+すみません、できればで良いのですが、私についてきてください……
+
+Excuse me, I wish I could, but please follow me
+
+Battle_Move_1	
+Duration: 3 seconds.0:03	
+ポジション、変更します……。
+
+Change position.
+
+Battle_Move_2	
+Duration: 4 seconds.0:04	
+え、援護射撃、お願いします……。
+
+Support fire, please.
+
+Battle_Recovery_1	
+Duration: 7 seconds.0:07	
+え……これ、私の分、ですか？
+
+? Is this for me?
+
+Battle_Retire	
+Duration: 3 seconds.0:03	
+みんな、ごめん。
+
+Sorry, everyone.
+
+Battle_Shout_1	
+Duration: 2 seconds.0:02	
+ヒット！
+
+hit!
+
+Battle_Shout_2	
+Duration: 2 seconds.0:02	
+タンゴダウン。
+
+Tango down.
+
+Battle_Shout_3	
+Duration: 2 seconds.0:02	
+ファイア。
+
+Fire.
+
+Battle_TacticalAction_1	
+Duration: 2 seconds.0:02	
+い、移動します……。
+
+Move.
+
+Battle_Victory_1	
+Duration: 7 seconds.0:07	
+私、ここにいても、良いのでしょうか……？
+
+can i stay here
+
+Battle_Victory_2	
+Duration: 5 seconds.0:05	
+わ、私のことは、お気になさらず……
+
+don't worry about me
+
+CommonSkill	
+Duration: 2 seconds.0:02	
+え、援護します……。
+
+I will support you.
+
+ExSkill_1	
+Duration: 4 seconds.0:04	
+やっぱり私は、何もできないゴミ屑なんだ……
+
+After all, I'm a piece of trash who can't do anything.
+
+ExSkill_2	
+Duration: 3 seconds.0:03	
+私はその辺の小石…
+
+I'm a pebble around there.
+
+ExSkill_3	
+Duration: 4 seconds.0:04	
+SRTに、入らなければ良かった……
+
+I wish I hadn't entered SRT.
+
+ExSkill_Level_1	
+Duration: 5 seconds.0:05	
+私のことなんて、気にしないでください……
+
+don't worry about me
+
+ExSkill_Level_2	
+Duration: 5 seconds.0:05	
+私には、この空間がちょうど良いので……
+
+This space is just right for me,
+
+ExSkill_Level_3	
+Duration: 5 seconds.0:05	
+すみません、ひとりにさせてください……
+
+Excuse me, please leave me alone.
+
+Growup_1	
+Duration: 5 seconds.0:05	
+こんな良いものを、私が頂いても……？
+
+Is it okay for me to receive such a good thing?
+
+Growup_2	
+Duration: 5 seconds.0:05	
+戦術への理解が、より深まりました……。
+
+Better understanding of tactics.
+
+Growup_3	
+Duration: 7 seconds.0:07	
+せめて、SRTの名に恥じないよう……頑張ります。
+
+I will at least do my best to live up to the name of SRT.
+
+Growup_4	
+Duration: 6 seconds.0:06	
+どうにか成長して、他のみんなの足を引っ張らないようにしないと……。
+
+I have to grow up somehow and not pull everyone else's leg.
+
+Relationship_Up_1	
+Duration: 9 seconds.0:09	
+先生の指示、良いですね……怖く、ないので……。
+
+Sensei's instructions are good. I'm not scared.
+
+Relationship_Up_2	
+Duration: 11 seconds.0:11	
+先生は……私のこと、見つけてくれますよね？いつも、どんな時も
+
+Sensei will find me. Always, no matter what.
+
+Relationship_Up_3	
+Duration: 6 seconds.0:06	
+こんな私でも、先生のお役に立てると良いのですが……。
+
+I wish I could be of help to you as a teacher.
+
+Relationship_Up_4	
+Duration: 7 seconds.0:07	
+……先生。私のこと、見失わないでくださいね……？
+
+Teacher, please don't lose sight of me.
+---
+MomoTalk✕
+
+Miyu
+Um, S-Sensei.
+
+Miyu
+So um...
+
+Miyu
+If y-you don't mind...
+
+Miyu
+C-Can you hang out with me this weekend?
+Sure. What's going on?
+
+Miyu
+Th-The thing is..
+Um...
+
+Miyu
+I-I wanna buy some stuff at the c-camping store...
+
+Miyu
+But no one in the squad is f-free...
+S-So...could you help me...
+You must need a lot of supplies...
+
+Miyu
+N-No... You see...
+If I go alone...
+
+Miyu
+I'll be invisible...
+...What do you mean?
+Relationship Event
+To Miyu's Relationship Story
+
+MomoTalk✕
+
+Miyu
+Um, S-Sensei.
+
+Miyu
+R-RABBIT Squad stuff ended early today.
+I-I can probably get to Schale early...
+
+Miyu
+D-Do you know...
+Do I needa do a-anything before I go?
+
+Miyu
+Um...
+Sensei?
+
+Miyu
+A-Are you sleeping?
+Relationship Event
+To Miyu's Relationship Story
+
+Miyu
+Umm, Sensei.
+
+Miyu
+I-I heard you got in trouble b-because of the necklace...
+Sorry...
+
+Miyu
+I knew it. I'm just n-no good...
+Don't worry about it.
+
+Miyu
+N-No one's ever noticed me like that before...
+So...I wanna keep the necklace...
+
+Miyu
+If it's okay...
+
+Miyu
+C-Can...I at least wear it in Schale?
+That'll make things even worse. Please don't.
+
+MomoTalk✕
+
+Miyu
+Lately, I feel like...
+
+Miyu
+I've been making more m-mistakes than usual...
+I'm d-done for...
+That's not true.
+You're the best sniper I've seen.
+
+Miyu
+Because...
+
+Miyu
+I h-haven't actually trained in so long...
+Wh-What if I'm n-no good now?
+
+Miyu
+Sensei... D-Do you think...
+You could...help me train?
+Relationship Event
+To Miyu's Relationship Story
+
+MomoTalk✕
+
+Miyu
+Since w-we last trained...
+
+Miyu
+I think I g-got a little better.
+
+Miyu
+But I c-can't stop being negative...
+I get r-really depressed...
+Why don't you find an enjoyable hobby?
+
+Miyu
+A hobby...?
+
+Miyu
+Hm...
+Maybe getting a nice hobby...
+
+Miyu
+Will make me feel b-better...
+Relationship Event
+To Miyu's Relationship Story
+
+MomoTalk✕
+
+Miyu
+Sensei, when you go downtown tomorrow...
+
+Miyu
+Can I come too? If that's okay...
+Of course!
+What's happening downtown?
+
+Miyu
+Well
+I have to go downtown...for an SRT mission...
+Are you going to be in a fight?!
+
+Miyu
+No, no! Nothing that intense...
+
+Miyu
+You see
+We received a request, from the locals who bring us leftover vegetables here and there,
+to get rid of some vermin.
+I can go with you for that kind of mission.
+
+Miyu
+Are you sure?
+It might be time consuming...
+Relationship Event
+To Miyu's Relationship Story
+---
+RABBIT Platoon
+Tsukiyuki Miyako
+Due to Miyu's presence being frequently ignored, her squad members often forget about her, except Miyako. Miyu would often go to Miyako to feel better.
+
+Advertisement
+Kazekura Moe
+In V4C1E3, Moe mentioned that she disliked Miyu for always being a crybaby. She even wishes that she can move to another squad just to avoid her and Saki.
+
+Sorai Saki
+Although Saki is in the same squad as Miyu, she often forgets about her.
+
+Disciplinary Committee
+Sorasaki Hina
+Was involved during Operation False Sanctum in VFC2 against the Iridescent Shiro & Kuro.
+
+Game Development Department
+Was involved during Operation False Sanctum in VFC2 against the Iridescent Shiro & Kuro.
+
+SCHALE
+Sensei
+Besides Miyako, Sensei is the only other person that actually recognizes Miyu's presence. This causes her to often come to Sensei to figure out how her presence can be recognized by others, leading to unusual situations.
+---
+“	This is RABBIT4...Um, did you just call me?	”
+~ Kasumizawa Miyu
+
+Kasumizawa Miyu (霞沢ミユ) is one of the students studying in SRT Special Academy who wields a Sniper Rifle.
+
+She is a member of the RABBIT Platoon.
+
+
+Contents
+1	Profile
+1.1	Introduction
+1.2	Personality
+1.3	Appearance
+1.3.1	Halo
+1.3.2	Uniform
+1.3.3	Firearm
+2	Combat
+2.1	Skills
+2.2	Growth Material
+2.3	Unique Equipment
+2.4	Unique Item
+2.5	Bond
+3	Poll
+3.1	JP
+3.2	Global
+4	Trivia
+5	See Also
+6	Navigation
+Profile
+A sniper of the RABBIT platoon belonging to SRT Special Academy.
+
+She enrolled SRT Special Academy because of her talent as a sniper, only to find her school suddenly closed. She is now living in the park with fellow platoon members. Miyu has a weak presence, which in itself is useful for sniper missions, but she is often forgotten not only by the enemies but also by her allies. Her callsign is "RABBIT 4".
+
+Introduction
+Miyu, a member of the RABBIT platoon, entered SRT because she was recognized for her talent as a sniper. Now that the school is closed, she spends her days living in a park with other members of the platoon. Her presence is scarce and is useful as a sniper, but she can be forgotten by her allies sometimes...
+
+Advertisement
+Personality
+Despite Miyu being a capable sniper, she is a very shy person and has low self-esteem. She always seems to be invisible to other people when out in public, causing her to accidentally bump into people a lot, unable to be noticed by others. Not even automatic doors can sense her virtually invisible presence. Her biggest fear is her being forgotten by everyone, including her own allies.
+
+Appearance
+Miyu appears to be a shy petite girl, she is just 149 cm. She has long hair stretched down to her elbow, she also has a bang that covers all of her foreheads along two sides of her face, Miyu's eye color is light red. She also wears a small rabbit headband with ears on top of her head along with that there are usually leaves on her head and shoulders.
+
+Halo
+Miyu's halo is a light pink color formed with an inner little circle, a middle circle cutted in four sides and four thick outer semicircles, one in every side of the middle circle. In addition it has three little drops scattered around it.
+
+Uniform
+Miyu wears a japanese sailor style school uniform, that consist of; A blue in color dress shirt with sailor collar, with a green ribbon, with blue in color pleated skirt. She wears white tights and white shoes and she also has some accessories, like; ankle pads and elbow pads.
+
+Firearm
+She uses a white Finnish model Mosin-Nagant M/39 "Ukko-Pekka" rifle with a PU scope. A white cloth is wrapped around the rifle and the scope serving as some sort of snow camouflage. The PU scope mount offsets to the left to give way for the straight bolt.
+
+Profile
+Age
+15
+Birthday
+July 12th
+Height
+149cm
+School Year
+First Year
+Club
+RABBIT Platoon
+Hobby
+Negative Fantasies
+Escaping Reality
+Looking for pebbles
