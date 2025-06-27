@@ -17,7 +17,7 @@ Template:
 This example PList's categories are kept broad on purpose. For a more precise PList, you can divide categories into subcategories.
 
 Core categories should include but not limited to:
-- Character Name: age, gender, height, birthday, residence, occupation, role, title, backstory
+- Character Name (last-first order preferred): age, gender, height, birthday, residence, occupation, role, title, backstory
 - Appearance: hair, eyes, facial_structure, skin, body_type, body_mods, outfit_top, outfit_bottom, footwear, accessories, color_palette, signature_item
 - Persona: traits, motivations, fears, speech_patterns, catchphrases, ethics, flaws, abilities
 - Relationships: allies, rivals, mentors, family, factions, romantic
